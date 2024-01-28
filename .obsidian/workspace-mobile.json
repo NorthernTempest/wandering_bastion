@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7571f5400a7c42",
+        "id": "35647780cfc88246",
         "type": "tabs",
         "children": [
           {
-            "id": "380df3bb3f4a3297",
+            "id": "6457be2fa593b093",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wandering Bastion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,8 +68,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "20a7890ac0459f74",
@@ -86,7 +80,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wandering Bastion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +96,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wandering Bastion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +106,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Wandering Bastion.md"
-          }
+          "state": {}
         }
       },
       {
@@ -134,9 +124,17 @@
           "type": "git-view",
           "state": {}
         }
+      },
+      {
+        "id": "a004b9b4b274da60",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +153,43 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "380df3bb3f4a3297",
+  "active": "a004b9b4b274da60",
   "lastOpenFiles": [
-    "Wandering Bastion.md"
+    "lore/places/nations/index.md",
+    "lore/places/worlds/index.md",
+    "lore/places/nations",
+    "lore/places/systems/ghrianar/dunfoyn.md",
+    "lore/places/worlds",
+    "lore/unknown/index.md",
+    "lore/places/systems/ghrianar/amhrankayllte.md",
+    "lore/places/systems/ghrianar/ghrian.md",
+    "lore/places/systems/ghrianar/index.md",
+    "lore/places/systems/index.md",
+    "lore/places/systems/ghrianar",
+    "lore/places/planes/inner/quasi-elemental/salt.md",
+    "lore/places/Untitled.md",
+    "lore/places/systems",
+    "lore/places/planes/inner/quasi-elemental/light.md",
+    "lore/places/planes/inner/quasi-elemental/necrosis.md",
+    "lore/places/planes/inner/quasi-elemental/fungi.md",
+    "lore/places/planes/inner/quasi-elemental/fallout.md",
+    "lore/places/planes/inner/quasi-elemental/exotic-matter.md",
+    "lore/places/planes/inner/quasi-elemental/prismatic.md",
+    "lore/places/planes/inner/quasi-elemental/dust.md",
+    "lore/places/planes/inner/quasi-elemental/vacuum.md",
+    "lore/places/planes/inner/quasi-elemental/flesh.md",
+    "lore/places/planes/inner/quasi-elemental/wood.md",
+    "lore/places/planes/inner/quasi-elemental/radiance.md",
+    "lore/places/planes/inner/para-elemental/ice.md",
+    "lore/places/planes/inner/para-elemental/smoke.md",
+    "lore/places/planes/inner/para-elemental/plasma.md",
+    "lore/places/planes/inner/para-elemental/acid.md",
+    "lore/places/planes/inner/para-elemental/thunder.md",
+    "lore/places/planes/outer/central",
+    "lore/places/planes/outer/moderate-circuit",
+    "lore/places/planes/outer/extreme-circuit",
+    "lore/places/planes/inner/quasi-elemental",
+    "lore/places/planes/inner/para-elemental",
+    "lore/places/planes/inner/dimension"
   ]
 }
