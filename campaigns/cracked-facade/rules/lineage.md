@@ -326,6 +326,10 @@ Speed:
 - 30 ft. walking speed
 Senses:
 - 60 ft. Darkvision
+Traits:
+- Relentless Fortitude: You do not fall unconscious when you have 0 remaining hit points. When you have 0 hit points, you are still dying and must still make death saving throws as normal. As normal, you remove all death saving throws when you are healed, you gain a failed death saving throw when you would take damage, and critical hits against you deal two failed death saving throws. Because you aren't unconscious, melee attacks do not automatically count as critical hits, and you are still able to take actions as normal. You may do this a number of times per day equal to your proficiency bonus and regain all uses of this ability after a long rest.
+- Savage attacks: Whenever you deal critical damage, it does an additional amount of damage equal to that of a normal hit. That means that if you would normally do 2d6+5 damage on a hot, you instead deal 6d6+10 damage.
+- Oversized Weapons: You can wield weapons that are too large for your size category if you have a Strength score of at least 17. These kinds of weapons can be purchased for twice the price of a normally sized weapon of their type and the weapon deals twice as many dice of damage as a normal sized weapon of its type.
 ## Halfling
 Type: you are a humanoid
 Age:
