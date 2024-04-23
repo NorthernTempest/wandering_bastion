@@ -327,9 +327,9 @@ Speed:
 Senses:
 - 60 ft. Darkvision
 Traits:
-- Relentless Fortitude: You do not fall unconscious when you have 0 remaining hit points. When you have 0 hit points, you are still dying and must still make death saving throws as normal. As normal, you remove all death saving throws when you are healed, you gain a failed death saving throw when you would take damage, and critical hits against you deal two failed death saving throws. Because you aren't unconscious, melee attacks do not automatically count as critical hits, and you are still able to take actions as normal. You may do this a number of times per day equal to your proficiency bonus and regain all uses of this ability after a long rest.
-- Savage attacks: Whenever you deal critical damage, it does an additional amount of damage equal to that of a normal hit. That means that if you would normally do 2d6+5 damage on a hot, you instead deal 6d6+10 damage.
-- Oversized Weapons: You can wield weapons that are too large for your size category if you have a Strength score of at least 17. These kinds of weapons can be purchased for twice the price of a normally sized weapon of their type and the weapon deals twice as many dice of damage as a normal sized weapon of its type.
+- Relentless Fortitude: You do not fall unconscious when you have 0 remaining hit points. When you have 0 hit points, you are still dying and must still make death saving throws as normal. As normal, you remove all death saving throws when you are healed, you gain a failed death saving throw when you would take damage, and critical hits against you deal two failed death saving throws. Because you aren't unconscious, melee attacks do not automatically count as critical hits, and you are still able to take actions as normal. You may stay conscious after dropping to 0 hit points a number of times per day equal to your proficiency bonus and regain all uses of this ability after a long rest.
+- Savage attacks: Whenever you deal critical damage, it does an additional amount of damage equal to that of a normal hit. That means that if you would normally do 2d6+5 damage on a hit, you instead deal 6d6+10 damage.
+- Wanderer's Endurance: you may go up to 5 days without food, water, or sleep without taking any penalties from starvation, dehydration, or sleep-deprivation, but on the sixth day of starvation, dehydration, or sleep-deprivation, you take 5 levels of exhaustion at once. In order to end your starvation after missing one or more days of sleep, food, or water, you must eat that many days of food, drink that many days worth of water, or sleep for that many days worth of sleep in addition to the amount you need to survive for that day. If you do so before you are exhausted on the 6th day, you do not receive exhaustion, and if you do so after you've received the exhaustion, you recover all your levels of exhaustion.
 ## Halfling
 Type: you are a humanoid
 Age:
@@ -345,6 +345,8 @@ Speed:
 - 25 ft. walking speed
 Senses:
 - Normal vision
+Traits:
+- Lucky:
 ## Human
 Type: you are a humanoid
 Age:
