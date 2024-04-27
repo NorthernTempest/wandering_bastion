@@ -1,8 +1,12 @@
 ---
 title: Character Creation Rules for the Cracked Facade Campaign
 tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
   - campaign/cracked-facade/rule/character-creation
   - pc
+  - important
 ---
 
 [<- Back to Cracked Facade Rules](./index.md)
@@ -63,8 +67,24 @@ In addition to the proficiencies you receive from your class and background, you
 
 ### Character Description
 
-- Backstory
+#### Backstory
 
+- Should be no less than 3 paragraphs.
+- Should be no more than 7 paragraphs. Feel free to write more, just don't expect me to remember it.
+- Free feat of your choice upon submission.
+- In order to help the player characters naturally form into a cohesive party, include how your character established a strong relationship with one of the following:
+	- Another player character
+	- L'Arc Chantante, a remarkably tall and world famous cathedral dedicated to the goddess Arcundus, located a few days from the eastern coast of the [Great Alliance of the Wounded Coast](../../../lore/place/nation/great-alliance.md)
+	- The nearby town #TODO
+	- The goddess Arcundus (ark-OOND-ous), a deity of the Sun, the Moon, architecture, and the movement of celestial bodies, or the pantheon of deities that she allies herself with.
+	- One or more of the staff at the cathedral. For example:
+		- Mother Wilhelmina of the Order of the Ellipses, beloved leader of the #TODO
+		- Acolyte Jensen, a minor noble from a nearby coastal city-state who had to run away from some trouble he was facing 
+		- #TODO
+- Come up with a reason why your character ends up staying at L'Arc Chantante the night before the festival. Some example reasons could be:
+	- Your character works at the cathedral as an acolyte, janitor, hunter, healer, or even a salesperson trying to hawk wares. A church as massive and famous as this one is a centre of commerce by it's very nature.
+	- You are poor enough or ill enough to need to find solace there.
+	- #TODO 
 ### Joining After Level 1
 
 - Any character that joins the campaign at a level higher than 1 will be granted a budget for purchasing items and may purchase items from the Sane Magical Prices document (see [Equipment](#equipment))
