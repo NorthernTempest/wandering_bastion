@@ -1,7 +1,5 @@
 # Lineages
 
-[<- Back to Lineages](./index.md)
-
 The different lineages below are the more common lineages in this setting. If you'd like another lineage to work with, Jesse can create others on request. Feel free to request lineages that aren't available here.
 
 Although none are listed here, anthropomorphic animal-related lineages like Aarakocra, Tabaxi, Kenku, Lizardfolk, Minotaurs, Mermaids, Centaurs, etc. are, collectively, another 'core' lineage in this setting, known as 'Beastfolk' with a large degree of diversity. Also, besides Aasimar (with blood from Angels from the NG plane of Paradisia in this setting) and Tieflings (with blood from Devils from the LE plane of Hell), there are similar lineages for each of the 16 planes in the [Extreme Circuit](../../../../lore/places/planes/outer/extreme-circuit/index.md) of the [Outer Planes](../../../../lore/places/planes/outer/index.md) (although I haven't named any yet) (except for Axiomat, which I just thought of).
