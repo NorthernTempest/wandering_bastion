@@ -2,10 +2,10 @@
 title: The Material Plane
 tags:
   - lore
-  - place
-  - plane
-  - prime-cluster
-  - material-plane
+  - lore/place
+  - lore/place/plane
+  - lore/place/plane/prime-cluster
+  - lore/place/plane/prime-cluster/material-plane
 ---
 [<- Back to The Prime Cluster](index.md)
 

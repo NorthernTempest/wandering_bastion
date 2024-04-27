@@ -2,10 +2,11 @@
 title: The Crushing Fathoms
 tags:
   - lore
-  - lore/plane
-  - lore/plane/prime-cluster
-  - lore/plane/prime-cluster/uncanny-reality
-  - lore/plane/prime-cluster/uncanny-reality/crushing-fathoms
+  - lore/place
+  - lore/place/plane
+  - lore/place/plane/prime-cluster
+  - lore/place/plane/prime-cluster/uncanny-reality
+  - lore/place/plane/prime-cluster/uncanny-reality/crushing-fathoms
 ---
 
 [<- Back to The Uncanny Realities](index.md)

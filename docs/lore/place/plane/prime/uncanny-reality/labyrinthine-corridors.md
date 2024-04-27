@@ -2,10 +2,11 @@
 title: The Labyrinthine Courts
 tags:
   - lore
-  - "#lore/plane"
-  - lore/plane/prime-cluster
-  - lore/plane/prime-cluster/uncanny-reality
-  - lore/plane/prime-cluster/uncanny-reality/labyrinthine-courts
+  - lore/place
+  - lore/place/plane
+  - lore/place/plane/prime-cluster
+  - lore/place/plane/prime-cluster/uncanny-reality
+  - lore/place/plane/prime-cluster/uncanny-reality/labyrinthine-courts
 ---
 
 [<- Back to The Uncanny Realities](index.md)

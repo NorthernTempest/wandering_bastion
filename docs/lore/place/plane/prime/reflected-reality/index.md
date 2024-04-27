@@ -2,18 +2,18 @@
 title: The Reflected Realities
 tags:
   - lore
-  - lore/plane
-  - lore/plane/prime-cluster
-  - lore/plane/prime-cluster/reflected-reality
+  - lore/place
+  - lore/place/plane
+  - lore/place/plane/prime-cluster
+  - lore/place/plane/prime-cluster/reflected-reality
 ---
-
 
 [<- Back to The Prime Cluster](../index.md)
 
 Unsettling reflections of reality in which horrible reflections of ourselves can be found.
 
-- [Doppelfeld](reflected-reality/doppelfeld.md)
-- [Mirage](reflected-reality/mirage.md)
-- [Reverb](reflected-reality/reverb.md)
-- [Reverie](reflected-reality/reverie.md)
-- [Silhouette](reflected-reality/silhouette.md)
+- [Doppelfeld](./doppelfeld.md)
+- [Mirage](./mirage.md)
+- [Reverb](./reverb.md)
+- [Reverie](./reverie.md)
+- [Silhouette](./silhouette.md)

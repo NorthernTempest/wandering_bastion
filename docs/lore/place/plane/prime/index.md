@@ -4,8 +4,9 @@ tags:
   - overview
   - plane-group
   - lore
-  - lore/plane
-  - lore/plane/prime-cluster
+  - lore/place
+  - lore/place/plane
+  - lore/place/plane/prime-cluster
 ---
 [<- Back to *The Planes*](../index.md)
 

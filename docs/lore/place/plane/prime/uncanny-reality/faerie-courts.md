@@ -2,10 +2,11 @@
 title: The Faerie Courts
 tags:
   - lore
-  - lore/plane
-  - lore/plane/prime-cluster
-  - lore/plane/prime-cluster/uncanny-reality
-  - lore/plane/prime-cluster/uncanny-reality/faerie-courts
+  - lore/place
+  - lore/place/plane
+  - lore/place/plane/prime-cluster
+  - lore/place/plane/prime-cluster/uncanny-reality
+  - lore/place/plane/prime-cluster/uncanny-reality/faerie-courts
 ---
 
 [<- Back to The Uncanny Realities](index.md)
