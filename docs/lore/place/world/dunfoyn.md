@@ -13,9 +13,6 @@ aliases:
 ***The Wandering Bastion***
 
 ## Nations
-### Great Lingering Sorrow, The
-
-Cursed Ancient Battlefield of Enormous Scale
 
 - [Alleby Commonwealth](../nation/alleby.md): friendly halfling military dictatorship
 - [Anavilisio State](../nation/anavilisio.md): mercantile plutocracy of industry
@@ -30,6 +27,7 @@ Cursed Ancient Battlefield of Enormous Scale
 - Gohlarr’ehd Savannah: wildlands of ancient ruins
 - Glorindt Dominion: eusocial deep gnome empire
 - [The Great Alliance of the Wounded Coast](../nation/great-alliance.md): allied city-states of bygone paragons
+- The Great Lingering Sorrow: cursed ancient battlefield of enormous scale
 - Harrowthorn Grand Duchy: home state of the benevolent vampire lord
 - Holy Eiga Union: union of undersea theocracies
 - Kaer Avenyr: crashed flying citadel of the storm dwarves
