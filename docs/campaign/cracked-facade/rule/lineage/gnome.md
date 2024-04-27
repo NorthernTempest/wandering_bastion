@@ -1,4 +1,12 @@
-## Gnome
+---
+title: Gnome
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - gnome
+---
 
 [<- Back to Lineages](index.md)
 

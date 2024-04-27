@@ -1,4 +1,12 @@
-## Elf
+---
+title: Elf
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - elf
+---
 
 [<- Back to Lineages](index.md)
 

@@ -1,4 +1,13 @@
-## Genasi, Water
+---
+title: Water Genasi
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - genasi
+  - genasi/water
+---
 
 [<- Back to Lineages](index.md)
 

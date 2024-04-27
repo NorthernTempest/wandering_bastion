@@ -1,4 +1,18 @@
-## Half-Orc
+---
+title: Half-Orc
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - orc
+  - orc/half
+  - half
+  - half/orc
+  - half/human
+  - human
+  - human/half
+---
 
 [<- Back to Lineages](index.md)
 

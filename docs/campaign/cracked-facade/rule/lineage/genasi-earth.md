@@ -1,4 +1,13 @@
-## Genasi, Earth
+---
+title: Earth Genasi
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - genasi
+  - genasi/earth
+---
 
 [<- Back to Lineages](index.md)
 

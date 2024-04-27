@@ -1,4 +1,15 @@
-## Tiefling
+---
+title: Tiefling
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - tiefling
+  - half
+  - half/outer
+  - half/outer/tiefling
+---
 
 [<- Back to Lineages](index.md)
 
@@ -34,14 +45,14 @@ Traits:
 - Fiendish Resistance: You have resistance to Necrotic damage and your choice of Acid, Cold, Fire, or Lightning damage.
 - Infernal Legacy: You learn a cantrip and, at 3rd and 5th level each, you learn a new spell and can cast those spells once each without expending a spell slot and, if the spell would normally require a material component, without requiring one. Intelligence, Wisdom, or Charisma is your spellcasting ability for these cantrips and spells (choose when you select this race). The specific spells you learn depends on your heritage as listed in the table below:
 
-| ***Legacy***     | ***Cantrip***    | ***Level 3 Spell***      | ***Level 5 Spell*** |
-| -------------- | -------------- | ---------------------- | ----------------- |
-| Asmodeus       | Thaumaturgy    | Hellish Rebuke         | Darkness          |
-| Zariel         | Thaumaturgy    | Searing Smite          | Branding Smite    |
-| Dispater       | Thaumaturgy    | Disguise Self          | Detect Thoughts   |
-| Mammon         | Mage Hand      | Tenser's Floating Disk | Arcane Lock       |
-| Fierna         | Friends        | Charm Person           | Suggestion        |
-| Levistus       | Ray of Frost   | Armor of Agathys       | Darkness          |
-| Glasya         | Minor Illusion | Disguise Self          | Invisibility      |
-| Baalzebul      | Thaumaturgy    | Ray of Sickness        | Crown of Madness  |
-| Mephistopheles | Mage Hand      | Burning Hands          | Flame Blade       |
+| ***Legacy***   | ***Cantrip***  | ***Level 3 Spell***    | ***Level 5 Spell*** |
+| -------------- | -------------- | ---------------------- | ------------------- |
+| Asmodeus       | Thaumaturgy    | Hellish Rebuke         | Darkness            |
+| Zariel         | Thaumaturgy    | Searing Smite          | Branding Smite      |
+| Dispater       | Thaumaturgy    | Disguise Self          | Detect Thoughts     |
+| Mammon         | Mage Hand      | Tenser's Floating Disk | Arcane Lock         |
+| Fierna         | Friends        | Charm Person           | Suggestion          |
+| Levistus       | Ray of Frost   | Armor of Agathys       | Darkness            |
+| Glasya         | Minor Illusion | Disguise Self          | Invisibility        |
+| Baalzebul      | Thaumaturgy    | Ray of Sickness        | Crown of Madness    |
+| Mephistopheles | Mage Hand      | Burning Hands          | Flame Blade         |

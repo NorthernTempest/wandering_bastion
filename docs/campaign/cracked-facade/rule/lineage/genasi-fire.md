@@ -1,4 +1,13 @@
-## Genasi, Fire
+---
+title: Fire Genasi
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - genasi
+  - genasi/fire
+---
 
 [<- Back to Lineages](index.md)
 

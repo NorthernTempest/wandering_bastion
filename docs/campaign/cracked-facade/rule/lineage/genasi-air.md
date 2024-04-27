@@ -1,4 +1,13 @@
-## Genasi, Air
+---
+title: Air Genasi
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - genasi
+  - genasi/air
+---
 
 [<- Back to Lineages](index.md)
 

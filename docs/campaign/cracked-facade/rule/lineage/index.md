@@ -1,4 +1,12 @@
-# Lineages
+---
+title: Lineages
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - overview
+---
 
 The different lineages below are the more common lineages in this setting. If you'd like another lineage to work with, Jesse can create others on request. Feel free to request lineages that aren't available here.
 

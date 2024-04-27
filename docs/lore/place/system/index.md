@@ -6,6 +6,8 @@ tags:
   - place
   - stellar-system
 ---
-[<- Back to Places](../index.md)
+[<- Back to The Material Plane](../plane/prime/material.md)
 
-- [Ordon](ordon.md)
+## [Ordon](ordon.md)
+
+

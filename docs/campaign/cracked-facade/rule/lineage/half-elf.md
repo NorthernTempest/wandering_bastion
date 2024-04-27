@@ -1,4 +1,18 @@
-## Half-Elf
+---
+title: Half-Elf
+tags:
+  - campaign
+  - campaign/cracked-facade
+  - campaign/cracked-facade/rule
+  - campaign/cracked-facade/rule/lineage
+  - elf
+  - elf/half
+  - half
+  - half/elf
+  - half/human
+  - human
+  - human/half
+---
 
 [<- Back to Lineages](index.md)
 
