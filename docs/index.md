@@ -13,11 +13,11 @@ This section of the document will describe the reality in which the Wandering Ba
 - [Places](./places/index.md)
 - [Creatures](./creatures/index.md)
 - [Objects](./objects/index.md)
-- [Events](events/index.md)
-- [Unknowns](unknown/index.md)
+- [Events](lore/event/index.md)
+- [Unknowns](lore/mystery/index.md)
 
-## [Campaigns](./campaigns/index.md)
+## [Campaigns](campaign/index.md)
 
 This section of the document will contain anything pertaining to a particular campaign set in the universe of the Wandering Bastion.
 
-- [Cracked Facade](./campaigns/cracked-facade/index.md)
+- [Cracked Facade](campaign/cracked-facade/index.md)
