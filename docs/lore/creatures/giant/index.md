@@ -1,5 +1,5 @@
 ---
-title: Plants
+title: Giants
 tags:
   - overview
   - species

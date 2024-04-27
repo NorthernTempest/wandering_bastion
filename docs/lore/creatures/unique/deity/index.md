@@ -1,7 +1,7 @@
 ---
-title: Plants
+title: Deities
 tags:
   - overview
-  - species
+  - unique-creature
   - creature
 ---

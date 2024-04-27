@@ -1,5 +1,5 @@
 ---
-title: Plants
+title: Elementals
 tags:
   - overview
   - species

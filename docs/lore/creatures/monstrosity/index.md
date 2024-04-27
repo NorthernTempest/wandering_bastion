@@ -1,5 +1,5 @@
 ---
-title: Plants
+title: Monstrosities
 tags:
   - overview
   - species

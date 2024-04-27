@@ -1,5 +1,5 @@
 ---
-title: Plants
+title: Beasts
 tags:
   - overview
   - species

@@ -1,7 +1,7 @@
 ---
-title: Plants
+title: Monsters
 tags:
   - overview
-  - species
+  - unique-creature
   - creature
 ---
