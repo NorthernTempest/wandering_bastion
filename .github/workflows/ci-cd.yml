@@ -27,3 +27,10 @@ jobs:
             mkdocs-material-
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
+      - run: |
+          gh api \
+          --method PUT \
+          -H "Accept: application/vnd.github+json" \
+          -H "X-GitHub-Api-Version: 2022-11-28" \
+          /repos/NorthernTempest/wandering-bastion/pages \
+          -f "cname=wandering-bastion.northerntempest.ca" -f "source[branch]=gh-pages" -f "source[path]=/"
