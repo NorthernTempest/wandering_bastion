@@ -64,8 +64,17 @@ In addition to the proficiencies you receive from your class and background, you
 ### Equipment
 
 - We will be using [Sane Magical Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?usp=sharing&resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) to determine magic item pricing.
+- A character can attune to a number of magic items equal to their proficiency bonus.
 
 ### Character Description
+
+A character's motivations are core to telling a great story. A party of misfits with tendencies to act on their own probably wouldn't stay a party for very long.
+
+#### Traits and Flaws
+
+- Make a character that is both
+	- willing to work with others
+	- and willing to put themselves in danger for the sake of the party. They do not need to be willing to do it out of the goodness of their own hearts. They could want to do it out of greed or fear of dying, for example.
 
 #### Backstory
 
@@ -74,17 +83,20 @@ In addition to the proficiencies you receive from your class and background, you
 - Free feat of your choice upon submission.
 - In order to help the player characters naturally form into a cohesive party, include how your character established a strong relationship with one of the following:
 	- Another player character
-	- L'Arc Chantante, a remarkably tall and world famous cathedral dedicated to the goddess Arcundus, located a few days from the eastern coast of the [Great Alliance of the Wounded Coast](../../../lore/place/nation/great-alliance.md)
-	- The nearby town #TODO
-	- The goddess Arcundus (ark-OOND-ous), a deity of the Sun, the Moon, architecture, and the movement of celestial bodies, or the pantheon of deities that she allies herself with.
+	- L'Arc Chantante, a remarkably tall, ancient, and world famous cathedral dedicated to the goddess Arcundus, located 7 days walk from the eastern coast of the [Great Alliance of the Wounded Coast](../../../lore/place/nation/great-alliance.md).
+	- The goddess Arcundus (ark-OOND-us), a deity of the Sun, the Moon, architecture, and the movement of celestial bodies, or the pantheon of deities that she allies herself with.
 	- One or more of the staff at the cathedral. For example:
-		- Mother Wilhelmina of the Order of the Ellipses, beloved leader of the #TODO
-		- Acolyte Jensen, a minor noble from a nearby coastal city-state who had to run away from some trouble he was facing 
-		- #TODO
-- Come up with a reason why your character ends up staying at L'Arc Chantante the night before the festival. Some example reasons could be:
+		- Mother Wilhelmina of the Order of the Arcs, beloved leader of the cathedral's multidenominational priesthood.
+		- Acolyte Jensen (YEN-sen), a minor noble from a nearby coastal city-state who had to run away from some trouble he was facing in the city-state of Lippelend (LIP-el-end), some 3 days to the east of here.
+		- The savant named Yves (EEV) who is the official artist of L'Arc Chantante.
+	- The nearby town of Ybbrinth (YIB-brinth) is a bustling hillside town, bordered by a river to the south, and by a forest to the north. On the opposite side of the river, there is a pair of 200 or so foot tall cliffs that form the shape of a v, from the cusp of which, the ground slopes quickly down the hill to meet the river. Between these two cliffs, at the top of the hill is where L'Arc Chantante sits. The people of the town are genial and know little of famine, war, or strife.
+- Come up with a reason why your character ends up staying within the walls of L'Arc Chantante the night before the festival. Some example reasons could be:
 	- Your character works at the cathedral as an acolyte, janitor, hunter, healer, or even a salesperson trying to hawk wares. A church as massive and famous as this one is a centre of commerce by it's very nature.
-	- You are poor enough or ill enough to need to find solace there.
-	- #TODO 
+	- You are poor enough, injured badly enough, or sick enough to need to beg for solace there, where you would naturally be accepted.
+	- You are seeking penance, sanctuary, or confession, but it's too busy for the priesthood to attend to you. Therefor, you have been given a room for the night.
+	- You are here to celebrate the Sunspark Festival, a sacred holiday around the world for adherents of Arcundus, but also a widely beloved regional holiday, as the festival celebrates the summer solstice, at which point, for one hour every year, the crystalline window at the focal point of the titular arch of L'Arc Chantante is illuminated, bathing the whole cathedral in incredible shimmering light. Thousands are expected to be present on the day of the solstice. It is even said that Arcundus herself is always physically present at the hour of illumination, but hides herself among the throngs.
+	- You are here to hawk goods or services at the festival, and are in good standing with the church, so you've been permitted to camp out on the grounds and are given food and cover from any rain if you.
+
 ### Joining After Level 1
 
 - Any character that joins the campaign at a level higher than 1 will be granted a budget for purchasing items and may purchase items from the Sane Magical Prices document (see [Equipment](#equipment))
