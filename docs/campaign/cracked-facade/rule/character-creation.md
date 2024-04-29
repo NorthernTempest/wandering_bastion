@@ -83,11 +83,11 @@ A character's motivations are core to telling a great story. A party of misfits 
 - Free feat of your choice upon submission.
 - In order to help the player characters naturally form into a cohesive party, include how your character established a strong relationship with one of the following:
 	- Another player character
-	- L'Arc Chantante, a remarkably tall, ancient, and world famous cathedral dedicated to the goddess Arcundus, located 7 days walk from the eastern coast of the [Great Alliance of the Wounded Coast](../../../lore/place/nation/great-alliance.md).
+	- L'Arc Chantante, a remarkably tall, ancient, and world famous cathedral dedicated to the goddess Arcundus, located 7 days walk from the western coast of the [Great Alliance of the Wounded Coast](../../../lore/place/nation/great-alliance.md).
 	- The goddess Arcundus (ark-OOND-us), a deity of the Sun, the Moon, architecture, and the movement of celestial bodies, or the pantheon of deities that she allies herself with.
 	- One or more of the staff at the cathedral. For example:
 		- Mother Wilhelmina of the Order of the Arcs, beloved leader of the cathedral's multidenominational priesthood.
-		- Acolyte Jensen (YEN-sen), a minor noble from a nearby coastal city-state who had to run away from some trouble he was facing in the city-state of Lippelend (LIP-el-end), some 3 days to the east of here.
+		- Acolyte Jensen (YEN-sen), a minor noble from a nearby coastal city-state who had to run away from some trouble he was facing in the city-state of Lippelend (LIP-el-end), some 11 days to the northwest.
 		- The savant named Yves (EEV) who is the official artist of L'Arc Chantante.
 	- The nearby town of Ybbrinth (YIB-brinth) is a bustling hillside town, bordered by a river to the south, and by a forest to the north. On the opposite side of the river, there is a pair of 200 or so foot tall cliffs that form the shape of a v, from the cusp of which, the ground slopes quickly down the hill to meet the river. Between these two cliffs, at the top of the hill is where L'Arc Chantante sits. The people of the town are genial and know little of famine, war, or strife.
 - Come up with a reason why your character ends up staying within the walls of L'Arc Chantante the night before the festival. Some example reasons could be:
