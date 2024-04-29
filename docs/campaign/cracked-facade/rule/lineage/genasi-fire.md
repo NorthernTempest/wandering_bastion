@@ -1,17 +1,14 @@
 ---
 title: Fire Genasi
 tags:
-  - campaign
-  - campaign/cracked-facade
-  - campaign/cracked-facade/rule
   - campaign/cracked-facade/rule/lineage
-  - genasi
-  - genasi/fire
+  - lore/creature/species/elemental/genasi/fire
+  - lore/creature/species/half/outer/genasi/fire
 ---
 
 [<- Back to Lineages](index.md)
 
-Type: you are an elemental
+Type: you are an [Elemental](../../../../lore/creature/species/elemental/index.md)
 
 Age:
 

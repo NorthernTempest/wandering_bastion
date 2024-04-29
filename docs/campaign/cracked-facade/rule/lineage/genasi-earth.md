@@ -1,12 +1,9 @@
 ---
 title: Earth Genasi
 tags:
-  - campaign
-  - campaign/cracked-facade
-  - campaign/cracked-facade/rule
   - campaign/cracked-facade/rule/lineage
-  - genasi
-  - genasi/earth
+  - lore/creature/species/elemental/genasi/earth
+  - lore/creature/species/half/outer/genasi/earth
 ---
 
 [<- Back to Lineages](index.md)

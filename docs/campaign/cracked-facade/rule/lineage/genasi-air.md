@@ -1,12 +1,9 @@
 ---
 title: Air Genasi
 tags:
-  - campaign
-  - campaign/cracked-facade
-  - campaign/cracked-facade/rule
   - campaign/cracked-facade/rule/lineage
-  - genasi
-  - genasi/air
+  - lore/creature/species/elemental/genasi/air
+  - lore/creature/species/half/outer/genasi/air
 ---
 
 [<- Back to Lineages](index.md)

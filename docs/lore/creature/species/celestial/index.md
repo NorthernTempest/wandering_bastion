@@ -2,7 +2,10 @@
 title: Celestials
 tags:
   - overview
-  - species
-  - creature
+  - lore
+  - lore/creature
+  - lore/creature/species
+  - lore/creature/species/celestial
 ---
-[<- Back to Creatures](../../index.md)
+
+[<- Back to Species](../index.md)

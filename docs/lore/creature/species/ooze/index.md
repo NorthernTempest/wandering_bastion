@@ -5,4 +5,4 @@ tags:
   - species
   - creature
 ---
-[<- Back to Creatures](../../index.md)
+[<- Back to Species](../index.md)

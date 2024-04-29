@@ -1,12 +1,9 @@
 ---
 title: Water Genasi
 tags:
-  - campaign
-  - campaign/cracked-facade
-  - campaign/cracked-facade/rule
   - campaign/cracked-facade/rule/lineage
-  - genasi
-  - genasi/water
+  - lore/creature/species/elemental/genasi/water
+  - lore/creature/species/half/outer/genasi
 ---
 
 [<- Back to Lineages](index.md)
