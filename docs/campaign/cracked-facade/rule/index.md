@@ -1,9 +1,8 @@
 ---
 title: Cracked Facade Rules
 tags:
-  - campaign
-  - campaign/cracked-facade
   - campaign/cracked-facade/rule
+  - overview
 ---
 
 [<- Back to A Cracked Facade](../index.md)

@@ -1,10 +1,8 @@
 ---
 title: Recurring Events
 tags:
-  - lore
-  - lore/event
-  - lore/event/recurring
   - overview
+  - lore/event/recurring
 ---
 
 [<- Back to Events](../index.md)

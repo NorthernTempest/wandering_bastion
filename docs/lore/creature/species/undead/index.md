@@ -2,7 +2,7 @@
 title: Undead
 tags:
   - overview
-  - species
-  - creature
+  - lore/creature/species/undead
 ---
-[<- Back to Creatures](../../index.md)
+
+[<- Back to Species](../index.md)

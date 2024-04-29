@@ -1,7 +1,6 @@
 ---
 title: A Cracked Facade
 tags:
-  - campaign
   - campaign/cracked-facade
   - overview
 ---

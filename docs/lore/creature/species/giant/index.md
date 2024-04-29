@@ -2,7 +2,7 @@
 title: Giants
 tags:
   - overview
-  - species
-  - creature
+  - lore/creature/species/giant
 ---
-[<- Back to Creatures](../../index.md)
+
+[<- Back to Species](../index.md)

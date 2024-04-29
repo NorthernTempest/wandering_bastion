@@ -2,7 +2,7 @@
 title: Fiends
 tags:
   - overview
-  - species
-  - creature
+  - lore/creature/species/fiend
 ---
-[<- Back to Creatures](../../index.md)
+
+[<- Back to Species](../index.md)

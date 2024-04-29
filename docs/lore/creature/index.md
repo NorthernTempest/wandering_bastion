@@ -2,13 +2,12 @@
 title: Creatures
 tags:
   - overview
-  - lore
   - lore/creature
 ---
 
 [<- Back to Lore](../index.md)
 
-## Species
+## [Species](./species/index.md)
 
 Information about these species is categorized by creature types according to 5e D&D.
 

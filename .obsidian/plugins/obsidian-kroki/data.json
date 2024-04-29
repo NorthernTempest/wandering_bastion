@@ -1,0 +1,344 @@
+{
+  "server_url": "https://kroki.io/",
+  "header": "",
+  "diagramTypes": [
+    {
+      "prettyName": "BlockDiag",
+      "krokiBlockName": "blockdiag",
+      "obsidianBlockName": "kroki-blockdiag",
+      "description": "block diag !!",
+      "url": "https://github.com/blockdiag/blockdiag",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "BPMN",
+      "krokiBlockName": "bpmn",
+      "obsidianBlockName": "kroki-bpmn",
+      "description": "",
+      "url": "https://github.com/bpmn-io/bpmn-js",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Bytefield",
+      "krokiBlockName": "bytefield",
+      "obsidianBlockName": "kroki-bytefield",
+      "description": "",
+      "url": "https://github.com/Deep-Symmetry/bytefield-svg/",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "SeqDiag",
+      "krokiBlockName": "seqdiag",
+      "obsidianBlockName": "kroki-seqdiag",
+      "description": "",
+      "url": "https://github.com/blockdiag/seqdiag",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "ActDiag",
+      "krokiBlockName": "actdiag",
+      "obsidianBlockName": "kroki-actdiag",
+      "description": "",
+      "url": "https://github.com/blockdiag/actdiag",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "NwDiag",
+      "krokiBlockName": "nwdiag",
+      "obsidianBlockName": "kroki-nwdiag",
+      "description": "Nw Diag !!!",
+      "url": "https://github.com/blockdiag/nwdiag",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "PacketDiag",
+      "krokiBlockName": "packetdiag",
+      "obsidianBlockName": "kroki-packetdiag",
+      "description": "",
+      "url": "https://github.com/blockdiag/nwdiag",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "RackDiag",
+      "krokiBlockName": "rackdiag",
+      "obsidianBlockName": "kroki-rackdiag",
+      "description": "",
+      "url": "https://github.com/blockdiag/nwdiag",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "C4 with PlantUML",
+      "krokiBlockName": "c4plantuml",
+      "obsidianBlockName": "kroki-c4plantuml",
+      "description": "",
+      "url": "https://github.com/RicardoNiepel/C4-PlantUML",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Ditaa",
+      "krokiBlockName": "ditaa",
+      "obsidianBlockName": "kroki-ditaa",
+      "description": "",
+      "url": "http://ditaa.sourceforge.net/",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Diagrams.net",
+      "krokiBlockName": "diagramsnet",
+      "obsidianBlockName": "kroki-diagramsnet",
+      "description": "",
+      "url": "https://github.com/jgraph/drawio",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Erd",
+      "krokiBlockName": "erd",
+      "obsidianBlockName": "kroki-erd",
+      "description": "",
+      "url": "https://github.com/BurntSushi/erd",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Excalidraw",
+      "krokiBlockName": "excalidraw",
+      "obsidianBlockName": "kroki-excalidraw",
+      "description": "",
+      "url": "https://github.com/excalidraw/excalidraw",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "GraphViz",
+      "krokiBlockName": "graphviz",
+      "obsidianBlockName": "kroki-graphviz",
+      "description": "",
+      "url": "https://www.graphviz.org/",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Mermaid",
+      "krokiBlockName": "mermaid",
+      "obsidianBlockName": "kroki-mermaid",
+      "description": "",
+      "url": "https://github.com/knsv/mermaid",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Nomnoml",
+      "krokiBlockName": "nomnoml",
+      "obsidianBlockName": "kroki-nomnoml",
+      "description": "",
+      "url": "https://github.com/skanaar/nomnoml",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Pikchr",
+      "krokiBlockName": "pikchr",
+      "obsidianBlockName": "kroki-pikchr",
+      "description": "",
+      "url": "https://github.com/drhsqlite/pikchr",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "PlantUML",
+      "krokiBlockName": "plantuml",
+      "obsidianBlockName": "kroki-plantuml",
+      "description": "",
+      "url": "https://github.com/plantuml/plantuml",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Structurizr",
+      "krokiBlockName": "structurizr",
+      "obsidianBlockName": "kroki-structurizr",
+      "description": "",
+      "url": "https://structurizr.com/",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Svgbob",
+      "krokiBlockName": "svgbob",
+      "obsidianBlockName": "kroki-svgbob",
+      "description": "",
+      "url": "https://github.com/ivanceras/svgbob",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "UMlet",
+      "krokiBlockName": "umlet",
+      "obsidianBlockName": "kroki-umlet",
+      "description": "",
+      "url": "https://github.com/umlet/umlet",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Vega",
+      "krokiBlockName": "vega",
+      "obsidianBlockName": "kroki-vega",
+      "description": "",
+      "url": "https://github.com/vega/vega",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "Vega-Lite",
+      "krokiBlockName": "vegalite",
+      "obsidianBlockName": "kroki-vegalite",
+      "description": "",
+      "url": "https://github.com/vega/vega-lite",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "D2",
+      "krokiBlockName": "d2",
+      "obsidianBlockName": "kroki-d2",
+      "description": "",
+      "url": "https://github.com/terrastruct/d2",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "WireViz",
+      "krokiBlockName": "wireviz",
+      "obsidianBlockName": "kroki-wireviz",
+      "description": "",
+      "url": "https://github.com/formatc1702/WireViz",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    },
+    {
+      "prettyName": "WaveDrom",
+      "krokiBlockName": "wavedrom",
+      "obsidianBlockName": "kroki-wavedrom",
+      "description": "",
+      "url": "https://github.com/wavedrom/wavedrom",
+      "enabled": true,
+      "toggle": {
+        "disabled": false,
+        "on": true,
+        "toggleEl": {}
+      }
+    }
+  ]
+}

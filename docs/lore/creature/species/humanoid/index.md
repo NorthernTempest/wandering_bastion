@@ -2,7 +2,7 @@
 title: Humanoids
 tags:
   - overview
-  - species
-  - creature
+  - lore/creature/species/humanoid
 ---
-[<- Back to Creatures](../../index.md)
+
+[<- Back to Species](../index.md)

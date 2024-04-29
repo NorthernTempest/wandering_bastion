@@ -1,9 +1,6 @@
 ---
 title: Holidays
 tags:
-  - lore
-  - lore/event
-  - lore/event/recurring
   - lore/event/recurring/holiday
   - overview
 ---

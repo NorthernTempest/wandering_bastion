@@ -2,7 +2,7 @@
 title: Plants
 tags:
   - overview
-  - species
-  - creature
+  - lore/creature/species/plant
 ---
-[<- Back to Creatures](../../index.md)
+
+[<- Back to Species](../index.md)

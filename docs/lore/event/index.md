@@ -1,7 +1,6 @@
 ---
 title: Events
 tags:
-  - lore
   - lore/event
   - overview
 ---

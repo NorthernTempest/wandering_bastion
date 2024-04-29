@@ -2,7 +2,7 @@
 title: Oozes
 tags:
   - overview
-  - species
-  - creature
+  - lore/creature/species/ooze
 ---
+
 [<- Back to Species](../index.md)

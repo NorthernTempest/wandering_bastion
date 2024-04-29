@@ -2,7 +2,7 @@
 title: Monstrosities
 tags:
   - overview
-  - species
-  - creature
+  - lore/creature/species/monstrosity
 ---
-[<- Back to Creatures](../../index.md)
+
+[<- Back to Species](../index.md)
