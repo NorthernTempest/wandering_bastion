@@ -43,6 +43,9 @@ theme:
 plugins:
   - tags:
       tags_file: tags.md
+      listings_map:
+        scoped:
+          scope: true
   - kroki:
       FileTypes:
         - png
