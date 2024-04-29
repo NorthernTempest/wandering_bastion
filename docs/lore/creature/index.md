@@ -2,7 +2,8 @@
 title: Creatures
 tags:
   - overview
-  - creature
+  - lore
+  - lore/creature
 ---
 
 [<- Back to Lore](../index.md)
@@ -11,20 +12,20 @@ tags:
 
 Information about these species is categorized by creature types according to 5e D&D.
 
-- [Aberrations](aberration/index.md)
-- [Beasts](beast/index.md)
-- [Celestial](celestial/index.md)
-- [Construct](construct/index.md)
-- [Dragons](dragon/index.md)
-- [Elementals](elemental/index.md)
-- [Fey](fey/index.md)
-- [Fiends](fiend/index.md)
-- [Giants](giant/index.md)
-- [Humanoid](humanoid/index.md)
-- [Monstrosities](monstrosity/index.md)
-- [Oozes](ooze/index.md)
-- [Plants](plant/index.md)
-- [Undead](undead/index.md)
+- [Aberrations](species/aberration/index.md)
+- [Beasts](species/beast/index.md)
+- [Celestial](species/celestial/index.md)
+- [Construct](species/construct/index.md)
+- [Dragons](species/dragon/index.md)
+- [Elementals](species/elemental/index.md)
+- [Fey](species/fey/index.md)
+- [Fiends](species/fiend/index.md)
+- [Giants](species/giant/index.md)
+- [Humanoid](species/humanoid/index.md)
+- [Monstrosities](species/monstrosity/index.md)
+- [Oozes](species/ooze/index.md)
+- [Plants](species/plant/index.md)
+- [Undead](species/undead/index.md)
 
 ## [Unique Creatures](unique/index.md)
 
