@@ -30,4 +30,6 @@ Although none are listed here, anthropomorphic animal-related lineages like Aara
 | [Halfling](halfling.md)          | Small           | Str, Dex, Con, or Cha | 25 ft.                                         | Normal, Adv. for smell                |
 | [Human](human.md)                | Medium          | Any                   | 30 ft.                                         | Normal                                |
 | [Kobold](kobold.md)              | Small           | Dex, Int, Wis, Cha    | 25 ft.                                         | 60 ft. Dark.                          |
+| [Pill Bug](pill-bug.md)          | Medium          | Str or Con            | 25 ft.                                         | 60 ft. Dark                           |
+| [Bugbear](bugbear.md)            | Medium          | Str, Dex, or Con      | 30 ft.                                         | 60 ft. Dark                           |
 | [Tiefling](tiefling.md)          | Small or Medium | Str, Dex, Int, or Cha | Depends                                        | 60 ft. Dark.                          |

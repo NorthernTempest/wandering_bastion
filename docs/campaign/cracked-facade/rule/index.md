@@ -23,7 +23,7 @@ These rules describe changes to spellcasting and spells.
 
 #### Concentration
 
-A spellcaster can concentrate on a number of spells equal to their proficiency bonus.
+A spellcaster can concentrate on a number of spells equal to their proficiency bonus. For every spell the caster is concentrating on beyond the first, the DC for concentration checks goes up by 1.
 
 ### Exploration
 
