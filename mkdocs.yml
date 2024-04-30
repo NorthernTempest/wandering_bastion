@@ -58,9 +58,9 @@ plugins:
       shadow: false
   - search
 markdown_extensions:
-  - material.extensions.preview:
-      targets:
-        include: /*
+  # - material.extensions.preview:
+  #     targets:
+  #       include: /*
   # Python Markdown
   - abbr
   - admonition
