@@ -1,12 +1,8 @@
 ---
 title: Character Creation Rules for the Cracked Facade Campaign
 tags:
-  - campaign
-  - campaign/cracked-facade
-  - campaign/cracked-facade/rule
   - campaign/cracked-facade/rule/character-creation
-  - pc
-  - important
+  - player/important
 ---
 
 [<- Back to Cracked Facade Rules](./index.md)
