@@ -17,6 +17,8 @@ Age:
 Size:
 
 - Height of 4'0" ~ 4'6" (roll 3d8 +  to generate height in inches)
+- Weight of 210 ~ 270 lbs. (roll 2d4 + 2d12 * 5 + 170)
+- Medium size category
 
 Ability Score Bonus:
 
