@@ -60,7 +60,7 @@ plugins:
 markdown_extensions:
   - material.extensions.preview:
       targets:
-        include: *
+        include: /*
   # Python Markdown
   - abbr
   - admonition
