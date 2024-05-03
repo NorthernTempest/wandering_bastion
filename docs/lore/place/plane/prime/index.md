@@ -1,5 +1,5 @@
 ---
-title: The Prime Cluster
+title: Prime Cluster
 tags:
   - overview
   - plane-group
@@ -8,11 +8,10 @@ tags:
   - lore/place/plane
   - lore/place/plane/prime-cluster
 ---
-[<- Back to *The Planes*](../index.md)
 
 ## [The Material Plane](./material.md)
 
-Home. The only one we know.
+Home of mortal kind. Perhaps the only one we truly know.
 
 ## [Reflected Realities](reflected-reality/index.md)
 

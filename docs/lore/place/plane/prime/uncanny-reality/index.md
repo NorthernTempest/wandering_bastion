@@ -1,5 +1,5 @@
 ---
-title: The Uncanny Realities
+title: Uncanny Realities
 tags:
   - lore
   - lore/place

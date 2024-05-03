@@ -1,5 +1,5 @@
 ---
-title: The Reflected Realities
+title: Reflected Realities
 tags:
   - lore
   - lore/place
