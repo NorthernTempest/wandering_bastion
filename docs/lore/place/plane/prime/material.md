@@ -1,5 +1,5 @@
 ---
-title: The Material Plane
+title: Material Plane
 tags:
   - lore
   - lore/place
