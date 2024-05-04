@@ -4,7 +4,7 @@ tags:
   - overview
   - lore/creature
 ---
-
+The [Wandering Bastion](../../index.md) campaign setting is filled with life. Some of it will kill you. Some of it will leave you alone.
 ## [Species](./species/index.md)
 
 Information about these species is categorized by creature types according to 5e D&D.

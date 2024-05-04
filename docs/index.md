@@ -14,7 +14,7 @@ This section of the document will describe the reality in which the Wandering Ba
 - [Creatures](./lore/creature/index.md)
 - [Objects](./lore/object/index.md)
 - [Events](./lore/event/index.md)
-- [Unknowns](./lore/mystery/index.md)
+- [Unknowns](lore/concept/mystery/index.md)
 
 ## [Campaigns](./campaign/index.md)
 

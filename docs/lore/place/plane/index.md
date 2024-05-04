@@ -1,5 +1,5 @@
 ---
-title: The Hourglass Cosmogony
+title: Hourglass Cosmogony
 tags:
   - overview
   - lore/place/plane
