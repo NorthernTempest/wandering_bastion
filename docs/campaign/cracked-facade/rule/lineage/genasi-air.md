@@ -6,8 +6,6 @@ tags:
   - lore/creature/species/half/outer/genasi/air
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: you are an elemental
 
 Age:

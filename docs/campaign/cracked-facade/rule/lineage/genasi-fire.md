@@ -6,8 +6,6 @@ tags:
   - lore/creature/species/half/outer/genasi/fire
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: you are an [Elemental](../../../../lore/creature/species/elemental/index.md)
 
 Age:

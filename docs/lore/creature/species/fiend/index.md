@@ -5,4 +5,3 @@ tags:
   - lore/creature/species/fiend
 ---
 
-[<- Back to Species](../index.md)

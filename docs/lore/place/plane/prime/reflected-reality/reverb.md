@@ -9,6 +9,4 @@ tags:
   - lore/place/plane/prime-cluster/reflected-reality/reverb
 ---
 
-[<- Back to The Reflected Realities](index.md)
-
 The plane of echoes.

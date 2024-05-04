@@ -5,4 +5,3 @@ tags:
   - lore/creature/species/celestial
 ---
 
-[<- Back to Species](../index.md)

@@ -7,6 +7,5 @@ tags:
   - lore/creature/unique/deity
   - lore/creature/unique/deity/core
 ---
-[<- Back to Deities](../index.md)
 
 - [Arcundus](arcundus.md)

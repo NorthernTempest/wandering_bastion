@@ -5,4 +5,3 @@ tags:
   - lore/creature/species/ooze
 ---
 
-[<- Back to Species](../index.md)

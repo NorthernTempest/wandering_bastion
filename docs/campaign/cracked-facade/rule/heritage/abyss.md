@@ -1,7 +1,5 @@
 # Abyss Heritage
 
-[<- Back to Heritages](index.md)
-
 You either come from the outer plane known as the Abyss or the place you come from or people you grew up around had close ties to that destructive and terrifying plane.
 
 Languages. You know Common, Abyssal, and one other language of your choice.

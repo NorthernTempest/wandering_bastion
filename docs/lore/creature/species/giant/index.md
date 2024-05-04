@@ -5,4 +5,3 @@ tags:
   - lore/creature/species/giant
 ---
 
-[<- Back to Species](../index.md)

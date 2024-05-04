@@ -5,8 +5,6 @@ tags:
   - overview
 ---
 
-[<- Back to A Cracked Facade](../index.md)
-
 This document is where rules are recorded for the D&D 5e campaign A Cracked Facade that takes place in the Wandering Bastion campaign setting. Any rules are subject to change as we figure things out.
 
 ## [Character Creation](./character-creation.md)

@@ -19,8 +19,6 @@ portfolio:
   - movement of celestial bodies
 ---
 
-[<- Back to Core Deities](index.md)
-
 ## Holidays
 
 Arcundus is celebrated most commonly on the solstices and equinoxes. The [Sunspark Festival](../../../../event/recurring/holiday/sunspark-festival.md) is one of the more popular holiday traditions that her followers attend.

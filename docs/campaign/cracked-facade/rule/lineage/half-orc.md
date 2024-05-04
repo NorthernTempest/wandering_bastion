@@ -8,8 +8,6 @@ tags:
   - half/human
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: you are a humanoid
 
 Age:

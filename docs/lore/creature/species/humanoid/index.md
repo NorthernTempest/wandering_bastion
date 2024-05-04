@@ -5,4 +5,3 @@ tags:
   - lore/creature/species/humanoid
 ---
 
-[<- Back to Species](../index.md)

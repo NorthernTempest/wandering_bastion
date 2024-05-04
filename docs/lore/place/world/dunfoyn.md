@@ -8,7 +8,6 @@ tags:
 aliases:
   - wandering-bastion
 ---
-[<- Back to Ordonian Stellar System](../system/ordon.md)
 
 ***The Wandering Bastion***
 

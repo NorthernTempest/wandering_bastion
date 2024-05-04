@@ -5,8 +5,6 @@ tags:
   - lore/creature/species/dragon/kobold
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: you are a dragon
 
 Age:

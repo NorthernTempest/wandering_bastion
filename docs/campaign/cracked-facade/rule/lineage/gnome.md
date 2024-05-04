@@ -8,8 +8,6 @@ tags:
   - gnome
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: you are a construct
 
 Age:
@@ -47,14 +45,13 @@ Traits:
 	- Collect: As an action, you can pull something out of your backpack that even you forgot was there. Make a DC 15 Charisma (Sleight of Hand) check. On a success, you replace up to 150 gp worth of coinage, currency and trade goods in your backpack with a piece of equipment of equivalent value. You bought or made this item last time you were in town but forgot about it.
 	- Deposit: As an action, you can place something abnormally large in someone's pocket. You must be able to lift the object that you are stowing in someone's pocket, but they do not have to be able to do so. Make a Dexterity (Sleight of Hand) check. The DC of that check depends on the size of the item, as shown on this table.
 
-| *Object Size*            | *DC*  |
-| ---------------------- | --- |
-| Fine (< 6")            | 10  |
-| Diminutive (6" - 1')   | 12  |
-| Tiny (1' - 2')         | 15  |
-| Small (2' - 4')        | 18  |
-| Medium (4' - 8')       | 21  |
-| Large (8' - 16')       | 25  |
-| Huge (16' - 32')       | 30  |
-| Gargantuan (32' - 64') | 40  |
- 
+| *Object Size*            | *DC* |
+| ------------------------ | ---- |
+| Fine (< 6")              | 10   |
+| Diminutive (6" - 1')     | 12   |
+| Tiny (1' - 2')           | 15   |
+| Small (2' - 4')          | 18   |
+| Medium (4' - 8')         | 21   |
+| Large (8' - 16')         | 25   |
+| Huge (16' - 32')         | 30   |
+| Gargantuan (32' - 64')   | 40   |

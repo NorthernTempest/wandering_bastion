@@ -9,6 +9,4 @@ tags:
   - lore/place/plane/prime-cluster/reflected-reality/silhouette
 ---
 
-[<- Back to The Reflected Realities](index.md)
-
 The plane of shadows.

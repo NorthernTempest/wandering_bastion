@@ -5,8 +5,6 @@ tags:
   - player/important
 ---
 
-[<- Back to Cracked Facade Rules](./index.md)
-
 ## Character Creation and Character Options
 
 This section of the document describes rules related to creating and advancing a player character.

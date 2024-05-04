@@ -11,8 +11,6 @@ tags:
   - half/outer/tiefling
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: you are a fiend
 
 Age:

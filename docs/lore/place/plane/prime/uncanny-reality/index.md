@@ -8,8 +8,6 @@ tags:
   - lore/place/plane/prime-cluster/uncanny-reality
 ---
 
-[<- Back to The Prime Cluster](../index.md)
-
 Vast empty spaces where people can suddenly find themselves terribly lost.
 
 - [Chasmic Caverns](./chasmic-caverns.md)

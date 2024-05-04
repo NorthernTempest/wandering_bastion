@@ -8,8 +8,6 @@ tags:
   - dunfoyn
 ---
 
-[<- Back to Dunfoyn](../world/dunfoyn.md)
-
 ***Mercantile Plutocracy of Industry***
 
 **Alignment** SN; **Capital**

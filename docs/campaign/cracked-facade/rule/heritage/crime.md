@@ -1,7 +1,5 @@
 # Crime Heritage
 
-[<- Back to Heritages](index.md)
-
 You grew up in a community openly run by crimelords or the nastier parts of a larger city.
 
 Languages. You know Common, Dead Speech, and one other language of your choice.

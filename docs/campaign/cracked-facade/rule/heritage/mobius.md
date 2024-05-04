@@ -1,8 +1,6 @@
 # Mobius Heritage
 
-[<- Back to Heritages](index.md)
-
-
+Ability Score Bonus.
 
 Languages. You know Common, Ancient, and one other language of your choice.
 

@@ -1,15 +1,9 @@
 ---
 title: Dragonborn
 tags:
-  - campaign
-  - campaign/cracked-facade
-  - campaign/cracked-facade/rule
   - campaign/cracked-facade/rule/lineage
-  - dragon
   - dragon/dragonborn
 ---
-
-[<- Back to Lineages](index.md)
 
 Type: you are a dragon
 

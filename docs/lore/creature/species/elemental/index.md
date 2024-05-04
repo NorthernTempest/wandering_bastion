@@ -5,4 +5,3 @@ tags:
   - lore/creature/species/elemental
 ---
 
-[<- Back to Species](../index.md)

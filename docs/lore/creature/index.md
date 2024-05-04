@@ -5,8 +5,6 @@ tags:
   - lore/creature
 ---
 
-[<- Back to Lore](../index.md)
-
 ## [Species](./species/index.md)
 
 Information about these species is categorized by creature types according to 5e D&D.

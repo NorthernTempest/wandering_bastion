@@ -1,7 +1,5 @@
 # Wild Heritage
 
-[<- Back to Heritages](index.md)
-
 
 
 Languages. You know Common, Draconic, and one other language of your choice.

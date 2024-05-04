@@ -5,8 +5,6 @@ tags:
   - overview
 ---
 
-[<- Back to Campaigns](../index.md)
-
 > *A normal life is only possible if we all believe that we're safe and sound. However, it's only ever possible to implement safeguards if we're starkly aware of precisely how much danger we're in.*
 >
 > \- unknown

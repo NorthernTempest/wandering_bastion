@@ -5,8 +5,6 @@ tags:
   - overview
 ---
 
-[<- Back to Creatures](../index.md)
-
 ## Categories
 
 - [Aberrations](aberration/index.md)

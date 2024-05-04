@@ -8,8 +8,6 @@ tags:
   - dwarf
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: you are a giant
 
 Age:

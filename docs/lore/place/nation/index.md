@@ -7,8 +7,6 @@ tags:
   - overview
 ---
 
-[<- Back to Places](../index.md)
-
 ## Nations of [Dunfoyn](../world/dunfoyn.md)
 
 - [Alleby Commonwealth](./alleby.md): friendly halfling military dictatorship

@@ -11,8 +11,6 @@ tags:
   - half/outer/aasimar
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: You are a celestial
 
 Age:

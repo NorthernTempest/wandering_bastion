@@ -5,7 +5,6 @@ tags:
   - unique-creature
   - creature
 ---
-[<- Back to Creatures](../index.md)
 
 These individual creatures are categorized into one of 4 groups.
 

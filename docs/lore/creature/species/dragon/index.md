@@ -5,4 +5,3 @@ tags:
   - lore/creature/species/dragon
 ---
 
-[<- Back to Species](../index.md)

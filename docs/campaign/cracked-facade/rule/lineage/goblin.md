@@ -9,8 +9,6 @@ tags:
   - halfling/goblin
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: you are a humanoid
 
 Age:

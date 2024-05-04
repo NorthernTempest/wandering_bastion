@@ -1,7 +1,5 @@
 # Academia Heritage
 
-[<- Back to Heritages](index.md)
-
 You come from one of the many communities centered around a well known college or library.
 
 Languages. You know Common, Draconic, and one other language of your choice.

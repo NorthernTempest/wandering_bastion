@@ -8,8 +8,6 @@ tags:
   - elf
 ---
 
-[<- Back to Lineages](index.md)
-
 Type: you are fey
 
 Age:

@@ -5,7 +5,6 @@ tags:
   - place
   - stellar-system
 ---
-[<- Back to Stellar Systems](index.md)
 
 ## [Dunfoyn](../world/dunfoyn.md)
 

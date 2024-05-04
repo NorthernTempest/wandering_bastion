@@ -5,4 +5,3 @@ tags:
   - overview
 ---
 
-[<- Back to Locations](../index.md)
