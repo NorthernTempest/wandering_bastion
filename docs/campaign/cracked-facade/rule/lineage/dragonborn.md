@@ -35,22 +35,22 @@ Traits:
 - Draconic Ancestry: Pick one of the types of dragons from the table below. Your draconic abilities are based on that type of dragon's abilities
 
 | *Dragon Type* | *Damage Type* | *Breath Weapon Save* | *Draconic Revelation* |
-| ----------- | ----------- | ------------------ | ------------------- |
-| Black       | Acid        | Dexterity Save     | Chromatic Ward      |
-| Blue        | Lightning   | Dexterity Save     | Chromatic Ward      |
-| Green       | Poison      | Constitution Save  | Chromatic Ward      |
-| Red         | Fire        | Dexterity Save     | Chromatic Ward      |
-| White       | Cold        | Constitution Save  | Chromatic Ward      |
-| Brass       | Fire        | Dexterity Save     | Metallic Shout      |
-| Bronze      | Lightning   | Dexterity Save     | Metallic Shout      |
-| Copper      | Acid        | Dexterity Save     | Metallic Shout      |
-| Gold        | Fire        | Dexterity Save     | Metallic Shout      |
-| Silver      | Cold        | Constitution Save  | Metallic Shout      |
-| Amethyst    | Force       | Strength Save      | Gem Psionics        |
-| Crystal     | Radiant     | Constitution Save  | Gem Psionics        |
-| Emerald     | Psychic     | Intelligence Save  | Gem Psionics        |
-| Sapphire    | Thunder     | Constitution Save  | Gem Psionics        |
-| Topaz       | Necrotic    | Constitution Save  | Gem Psionics        |
+| ------------- | ------------- | -------------------- | --------------------- |
+| Black         | Acid          | Dexterity Save       | Chromatic Immunity    |
+| Blue          | Lightning     | Dexterity Save       | Chromatic Immunity    |
+| Green         | Poison        | Constitution Save    | Chromatic Immunity    |
+| Red           | Fire          | Dexterity Save       | Chromatic Immunity    |
+| White         | Cold          | Constitution Save    | Chromatic Immunity    |
+| Brass         | Fire          | Dexterity Save       | Metallic Shout        |
+| Bronze        | Lightning     | Dexterity Save       | Metallic Shout        |
+| Copper        | Acid          | Dexterity Save       | Metallic Shout        |
+| Gold          | Fire          | Dexterity Save       | Metallic Shout        |
+| Silver        | Cold          | Constitution Save    | Metallic Shout        |
+| Amethyst      | Force         | Strength Save        | Gem Psionics          |
+| Crystal       | Radiant       | Constitution Save    | Gem Psionics          |
+| Emerald       | Psychic       | Intelligence Save    | Gem Psionics          |
+| Sapphire      | Thunder       | Constitution Save    | Gem Psionics          |
+| Topaz         | Necrotic      | Constitution Save    | Gem Psionics          |
 
 - Draconic Resistance: You have resistance to the damage type associated with your Draconic Ancestry.
 - Breath Weapon: When you take the attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a saving throw, as listed in your draconic ancestry, with a DC of 8 + the higher of your Constitution or Charisma modifier + your proficiency bonus. On a failed save, the creature takes 1d6 damage of the type listed in your Draconic Ancestry. This damage increases by 1d6 every odd level. The radius of your breath weapon increases by 5 feet at 5th level and every 5 levels afterwards. Beginning at level 8, whenever a creature saves against your Breath Weapon, they still take half damage. You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a short or long rest.
