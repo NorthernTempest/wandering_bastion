@@ -6,7 +6,7 @@ tags:
   - lore/place
 ---
 
-L'Arc Chantante is an ancient cathedral of incredible size. The cathedral is dedicated to the goddess [Arcundus](../../creature/unique/deity/core/arcundus.md).
+L'Arc Chantante is an ancient cathedral of incredible size. The cathedral is dedicated to the goddess [Arcundus](../../creature/unique/deity/ancient/arcundus.md).
 
 The massive interior chamber where service is performed is estimated to be around 800 feet tall, and 1300 feet long, and 500 feet wide at its widest. Unlike Christian cathedrals, the footprint of L'Arc Chantante is shaped like a half ellipse, the walls angling inwards towards the Eastern wall, giving the impression that the room is about twice as far away from the entrance than it actually is.
 
@@ -20,4 +20,4 @@ Along with the main cathedral itself, several dozen buildings have been erected 
 
 Countless additions have been constructed over and over again across the many years the cathedral has stood, adding to the structure in complex ways. As a result, the building is made from many different materials. The earliest construction seems to be mostly wood and daub, establishing what's believed to be the core original structure. The size of the original structure, however, defies immediate explanation. Wooden beams and daub are not normally capable of such heights. Magic is, of course, the natural first guess.
 
-On the summer solstice, the cathedral hosts thousands of devotees to [Arcundus](../../creature/unique/deity/core/arcundus.md), as part of the [Sunspark Festival](../../event/recurring/holiday/sunspark-festival.md).
+Despite its seemingly impractical size, the building is still used in regular religious service and, according to legend, has never stopped offering service. Despite the fact that the building is dedicated to [Arcundus](../../creature/unique/deity/ancient/arcundus.md), the clergy of the cathedral at this time are multidenominational in faith and offer services in the name of many of the good-aligned members of the Pantheon of the Ancients. On the summer solstice, the cathedral hosts thousands of devotees to [Arcundus](../../creature/unique/deity/ancient/arcundus.md), as part of the [Sunspark Festival](../../event/recurring/holiday/sunspark-festival.md).
