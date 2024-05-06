@@ -5,7 +5,7 @@ tags:
   - overview
 ---
 
-Listed below, you'll find the different kinds of creatures that you will find across [Dunfoyn](../../place/world/dunfoyn.md) and the rest of the [Wandering Bastion](../../../index.md) campaign setting. If you're looking for an individual creature, you'll want to look at [Unique Creatures](../unique/index.md).
+Listed below, you'll find the different kinds of creatures that you will find across [Dunfoyn](../../place/planet/ordon/dunfoyn.md) and the rest of the [Wandering Bastion](../../../index.md) campaign setting. If you're looking for an individual creature, you'll want to look at [Unique Creatures](../unique/index.md).
 
 ## [Aberrations](aberration/index.md)
 

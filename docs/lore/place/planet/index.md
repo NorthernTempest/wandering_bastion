@@ -7,6 +7,6 @@ tags:
   - world
 ---
 
-## [Ordonian System](../system/ordon.md)
+## [Ordonian System](ordon/index.md)
 
-[Dunfoyn](dunfoyn.md)
+[Dunfoyn](ordon/dunfoyn.md)

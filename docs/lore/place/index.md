@@ -10,11 +10,11 @@ Imagine that the world as you know it and all the stars and planets in the sky a
 
 ## [Stellar Systems](system/index.md)
 
-- [Ordonian Stellar System](system/ordon.md)
-	- [Dunfoyn](world/dunfoyn.md)
+- [Ordonian Stellar System](planet/ordon/index.md)
+	- [Dunfoyn](planet/ordon/dunfoyn.md)
 
-## [Nations](nation/index.md)
+## [Nations](state/index.md)
 
-## [Worlds](world/index.md)
+## [Worlds](planet/index.md)
 
 ## [Planes](plane/index.md)

@@ -1,5 +1,5 @@
 ---
-title: The Great Alliance of the Wounded Coast
+title: Great Alliance of the Wounded Coast
 tags:
   - dunfoyn
   - lore
@@ -16,9 +16,9 @@ The eight city-state members of this alliance and the lands that surround them w
 
 ## Locations
 
-### Hilltower
+### [Arsleaf Peninsula](arsleaf-peninsula/index.md)
 
-A small village #TODO
+- [Ybbrinth](arsleaf-peninsula/ybbrinth.md)
 
 ## Economy
 

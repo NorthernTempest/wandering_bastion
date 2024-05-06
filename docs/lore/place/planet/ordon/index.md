@@ -6,6 +6,6 @@ tags:
   - stellar-system
 ---
 
-## [Dunfoyn](../world/dunfoyn.md)
+## [Dunfoyn](dunfoyn.md)
 
 Dunfoyn is the planet nicknamed 'The Wandering Bastion', the titular world of the setting.

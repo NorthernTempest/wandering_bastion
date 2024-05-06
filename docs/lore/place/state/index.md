@@ -1,20 +1,16 @@
 ---
-title: Dunfoyn
+title: Nations
 tags:
   - lore
-  - world
   - place
-  - dunfoyn
-aliases:
-  - wandering-bastion
+  - nation
+  - overview
 ---
 
-***The Wandering Bastion***
+## Nations of [Dunfoyn](../planet/ordon/dunfoyn.md)
 
-## Nations
-
-- [Alleby Commonwealth](../nation/alleby.md): friendly halfling military dictatorship
-- [Anavilisio State](../nation/anavilisio.md): mercantile plutocracy of industry
+- [Alleby Commonwealth](alleby.md): friendly halfling military dictatorship
+- [Anavilisio State](anavilisio.md): mercantile plutocracy of industry
 - Avydar Chasm: volcanic rift to the planes of earth and fire
 - Carx District: wall against an aberrant fold in reality
 - Cavanunga Nation: harmonious state of dreaming elf-kings
@@ -25,8 +21,7 @@ aliases:
 - Free City of Brinham: academic city-state of art, magic, and philosophy
 - Gohlarr’ehd Savannah: wildlands of ancient ruins
 - Glorindt Dominion: eusocial deep gnome empire
-- [The Great Alliance of the Wounded Coast](../nation/great-alliance.md): allied city-states of bygone paragons
-- The Great Lingering Sorrow: cursed ancient battlefield of enormous scale
+- [The Great Alliance of the Wounded Coast](great-alliance/index.md): allied city-states of bygone paragons
 - Harrowthorn Grand Duchy: home state of the benevolent vampire lord
 - Holy Eiga Union: union of undersea theocracies
 - Kaer Avenyr: crashed flying citadel of the storm dwarves

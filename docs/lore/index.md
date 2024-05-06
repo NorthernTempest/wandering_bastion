@@ -20,11 +20,11 @@ The Wandering Bastion is a world that has been hidden away in a reality invaded 
 
 - [The Hourglass Cosmogony](place/plane/index.md)
 - [Stellar Systems](place/system/index.md)
-- [Worlds](place/world/index.md)
-- [Nations](place/nation/index.md)
+- [Worlds](place/planet/index.md)
+- [Nations](place/state/index.md)
 - [Regions](place/region/index.md)
 - [Landmarks](place/landmark/index.md)
-- [Settlements](place/settlement/index.md)
+- [Settlements](place/state/great-alliance/arsleaf-peninsula/index.md)
 - [Buildings](place/building/index.md)
 
 ## [Objects](./object/index.md)
