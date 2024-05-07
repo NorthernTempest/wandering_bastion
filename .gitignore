@@ -4,6 +4,9 @@
 .obsidian/workspace*.json
 .obsidian/graph.json
 
+# MKDocs
+.cache
+
 # GM Stuff
 plot
 secret

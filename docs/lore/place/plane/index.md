@@ -25,4 +25,4 @@ Coterminous planes are planes that meet at specific locations. For example, you 
 
 Other adjacent planes coexist in the same space with one another, overlapping and blending a little into one another. For example, [Silhouette](prime/reflected-reality/silhouette.md) is always visible from the [Material Plane](./prime/material.md). Shadows which come from [Silhouette](prime/reflected-reality/silhouette.md) are projected by every lit object in the [Material Plane](./prime/material.md) and some creatures from that plane can pass bodily through into ours at any location and at will. It usually takes magic or a special ability to move between coexistent planes but, in some cases, it's possible to pass between the two worlds either through willing it or through specific movements. In general, it's more akin to not knowing how to move our bodies across the planar threshold than it just not being possible for our bodies to do so.
 
-![The Hourglass Cosmogony](../../../img/cosmogony.svg)
+![The Hourglass Cosmogony](../../../img/cosmogony.svg){ loading=lazy data-title="The Hourglass Cosmogony" }

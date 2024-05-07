@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="cosmogony.svg"
    id="svg5"
    version="1.1"
-   viewBox="0 0 515.90552 729.63777"
-   height="1122.5197"
-   width="793.70081"
+   viewBox="0 0 1248 2007.7919"
+   height="3088.9106"
+   width="1920"
    inkscape:export-filename="D:\Google Drive\RPG\Games\Planned Games\Worldbuilding\Dangers of Dúnfoyn\World\Maps\Cosmogonical\cosmogony.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="7.2407734"
-     inkscape:cx="283.04987"
-     inkscape:cy="874.14695"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="3212.9164"
+     inkscape:cy="3548.7922"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g65360-0-86-3-7-9-8"
+     inkscape:current-layer="layer1"
      inkscape:snap-object-midpoints="true"
      inkscape:object-paths="false"
      inkscape:snap-smooth-nodes="true"
@@ -44,7 +44,9 @@
      width="8.5in"
      height="1122.5196px"
      inkscape:snap-intersection-paths="true"
-     scale-x="0.65" />
+     scale-x="0.65"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <marker
@@ -96,9 +98,9 @@
      id="layer1">
     <g
        id="g529703"
-       transform="translate(-138.89763,-196.38255)">
+       transform="matrix(2.9627956,0,0,2.9627956,-551.78659,-658.82916)">
       <circle
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5291;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle2212"
          cx="396.8504"
          cy="561.20142"
@@ -143,7 +145,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.89561"
-               y="153.00595"
+               y="152.28709"
                id="tspan81896">Fathoms</tspan></text>
         </g>
         <g
@@ -169,7 +171,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.98759"
-               y="153.00595"
+               y="152.28709"
                id="tspan507403">feld</tspan></text>
         </g>
         <g
@@ -195,7 +197,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.74782"
-               y="153.01111"
+               y="152.29225"
                id="tspan248980-1-7">Space</tspan></text>
         </g>
         <path
@@ -266,7 +268,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.98243"
-               y="152.93773"
+               y="152.21887"
                id="tspan42795">Courts</tspan></text>
         </g>
         <g
@@ -292,12 +294,12 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.98243"
-               y="148.94795"
+               y="148.34891"
                id="tspan51399">inthine</tspan><tspan
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.98243"
-               y="154.02046"
+               y="152.82236"
                id="tspan48391">Corridors</tspan></text>
         </g>
         <g
@@ -344,7 +346,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.99586"
-               y="153.00595"
+               y="152.28709"
                id="tspan75710">ette</tspan></text>
         </g>
         <g
@@ -391,7 +393,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.93179"
-               y="153.00595"
+               y="152.28709"
                id="tspan84658">Caverns</tspan></text>
         </g>
         <g
@@ -417,7 +419,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="105"
-               y="152.93773"
+               y="152.21887"
                id="tspan86484">Skies</tspan></text>
         </g>
         <circle
@@ -512,7 +514,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.96486"
-               y="152.50159"
+               y="151.78273"
                id="tspan137469">atory</tspan></text>
         </g>
         <g
@@ -559,7 +561,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="105.08888"
-               y="153.00595"
+               y="152.28709"
                id="tspan125549">lands</tspan></text>
         </g>
         <g
@@ -606,7 +608,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.9969"
-               y="152.57806"
+               y="151.85921"
                id="tspan146739">opolis</tspan></text>
         </g>
         <g
@@ -993,7 +995,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="105.02756"
-               y="152.25496"
+               y="151.65591"
                id="tspan112955">Meadows</tspan></text>
         </g>
         <g
@@ -1113,12 +1115,12 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.97072"
-               y="149.35181"
+               y="148.75276"
                id="tspan248978">Negative</tspan><tspan
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.97072"
-               y="154.42432"
+               y="153.22621"
                id="tspan248980">Energy</tspan></text>
         </g>
         <g
@@ -1144,7 +1146,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.74782"
-               y="153.01111"
+               y="152.29225"
                id="tspan248980-1">Time</tspan></text>
         </g>
         <g
@@ -1170,7 +1172,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690">of Air</tspan></text>
         </g>
         <g
@@ -1196,7 +1198,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-6">of Fog</tspan></text>
         </g>
         <g
@@ -1222,7 +1224,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29259px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="151.65327"
+               y="151.09416"
                id="tspan279148">Magnetism</tspan></text>
         </g>
         <g
@@ -1248,7 +1250,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan286700">of Ooze</tspan></text>
         </g>
         <g
@@ -1274,7 +1276,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53">Plasma</tspan></text>
         </g>
         <g
@@ -1300,7 +1302,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-9">Steam</tspan></text>
         </g>
         <g
@@ -1326,7 +1328,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-6">Metal</tspan></text>
         </g>
         <g
@@ -1352,7 +1354,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-63">Crystals</tspan></text>
         </g>
         <g
@@ -1378,7 +1380,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-97">Ice</tspan></text>
         </g>
         <g
@@ -1404,7 +1406,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-5">Snow</tspan></text>
         </g>
         <g
@@ -1430,7 +1432,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-93">Thunder</tspan></text>
         </g>
         <g
@@ -1456,7 +1458,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36">Smoke</tspan></text>
         </g>
         <g
@@ -1482,7 +1484,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36-9">Fallout</tspan></text>
         </g>
         <g
@@ -1508,12 +1510,12 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29259px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.80386"
-               y="149.64146"
+               y="149.08235"
                id="tspan225690-53-36-9-6">Exotic</tspan><tspan
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29259px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.80386"
-               y="154.37581"
+               y="153.25758"
                id="tspan400322">Matter</tspan></text>
         </g>
         <g
@@ -1539,7 +1541,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36-0">Acid</tspan></text>
         </g>
         <g
@@ -1565,7 +1567,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.74782"
-               y="153.01111"
+               y="152.29225"
                id="tspan216732">Frost</tspan></text>
         </g>
         <g
@@ -1591,7 +1593,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.74782"
-               y="153.01111"
+               y="152.29225"
                id="tspan221458">Water</tspan></text>
         </g>
         <g
@@ -1617,7 +1619,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.91129"
-               y="151.88806"
+               y="151.28902"
                id="tspan214862">Lightning</tspan></text>
         </g>
         <g
@@ -1643,12 +1645,12 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.78985"
-               y="149.35181"
+               y="148.75276"
                id="tspan234594">Positive</tspan><tspan
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.78985"
-               y="154.42432"
+               y="153.22621"
                id="tspan234596">Energy</tspan></text>
         </g>
         <path
@@ -1678,7 +1680,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.9845"
-               y="153.01111"
+               y="152.29225"
                id="tspan416413">Necrosis</tspan></text>
         </g>
         <g
@@ -1704,7 +1706,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36-9-1">Dust</tspan></text>
         </g>
         <g
@@ -1730,7 +1732,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36-9-2">Salt</tspan></text>
         </g>
         <g
@@ -1756,7 +1758,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36-9-42">Vacuum</tspan></text>
         </g>
         <g
@@ -1782,7 +1784,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36-9-0">Fungi</tspan></text>
         </g>
         <g
@@ -1808,7 +1810,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36-9-9">Flesh</tspan></text>
         </g>
         <g
@@ -1834,7 +1836,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36-9-7">Wood</tspan></text>
         </g>
         <g
@@ -1860,7 +1862,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29259px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="151.65327"
+               y="151.09416"
                id="tspan225690-53-36-9-8">Radiance</tspan></text>
         </g>
         <g
@@ -1886,7 +1888,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-36-9-45">Force</tspan></text>
         </g>
         <g
@@ -1912,12 +1914,12 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29259px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.94534"
-               y="149.29501"
+               y="148.7359"
                id="tspan225690-53-36-9-00">Prismatic</tspan><tspan
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.29259px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.94534"
-               y="154.02936"
+               y="152.91113"
                id="tspan444842">Light</tspan></text>
         </g>
         <g
@@ -1943,7 +1945,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.92662"
-               y="153.00595"
+               y="152.28709"
                id="tspan225690-53-3">Magma</tspan></text>
         </g>
         <g
@@ -1969,7 +1971,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.74782"
-               y="153.01111"
+               y="152.29225"
                id="tspan223670">Earth</tspan></text>
         </g>
         <g
@@ -1995,7 +1997,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.97726"
-               y="153.00595"
+               y="152.28709"
                id="tspan210688">of Fire</tspan></text>
         </g>
         <path
@@ -2024,7 +2026,7 @@
                sodipodi:role="line"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;stroke-width:0.264583"
                x="104.96176"
-               y="153.00595"
+               y="152.28709"
                id="tspan21254">Plane</tspan></text>
         </g>
       </g>
@@ -2147,7 +2149,7 @@
            y="563.57104"
            id="tspan84658-1-5-3-1">Reflected Realities</tspan></text>
       <circle
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5291;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1709"
          cx="396.8504"
          cy="561.20142"
@@ -2155,16 +2157,17 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:5.33333px;line-height:1.25;font-family:ChaosGlyph;-inkscape-font-specification:ChaosGlyph"
-       x="386.14661"
-       y="234.64343"
+       style="font-size:1.70667px;line-height:1.25;font-family:ChaosGlyph;-inkscape-font-specification:ChaosGlyph;stroke-width:0.32"
+       x="123.56691"
+       y="75.085815"
        id="text487271"><tspan
          sodipodi:role="line"
          id="tspan487269"
-         x="386.14661"
-         y="234.64343" /></text>
+         x="123.56691"
+         y="75.085815"
+         style="stroke-width:0.32" /></text>
     <g
        id="g507391"
-       transform="translate(0,-5.6410829)" />
+       transform="matrix(0.32,0,0,0.32,2.2666287e-5,-1.8051597)" />
   </g>
 </svg>
