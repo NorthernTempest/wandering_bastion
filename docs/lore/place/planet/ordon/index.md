@@ -1,9 +1,7 @@
 ---
 title: Ordonian System
 tags:
-  - lore
-  - place
-  - stellar-system
+  - stellar-system/binary
 ---
 
 ## [Dunfoyn](dunfoyn.md)

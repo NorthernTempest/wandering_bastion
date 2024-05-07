@@ -2,10 +2,7 @@
 title: Dunfoyn
 subtitle: The Wandering Bastion
 tags:
-  - lore
-  - world
-  - place
-  - dunfoyn
+  - planet/rocky
 ---
 
 Related:
