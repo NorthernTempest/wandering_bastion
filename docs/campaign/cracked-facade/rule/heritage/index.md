@@ -1,5 +1,7 @@
 # Heritages
 
+**Heritages replace part of your race, not your background. Lineages replace the remainder of your race.**
+
 A heritage is the result of the culture that you come from. As you grew up, those around you taught you many of the skills you now know. Where you came from and the types of people around you shaped which abilities they were.
 
 Below are a selection of only some of the Heritages on the Wandering Bastion. Some are inspired by the [Tales of the Valiant Alpha Release by Kobold Press](https://koboldpress.com/kpstore/product/tales-of-the-valiant-alpha-release-pdf/). Others are purely homebrew of my own creation. Feel free to request heritages that aren't shown here.
