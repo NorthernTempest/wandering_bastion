@@ -12,6 +12,16 @@ The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the 
 
 Each date is based on a specific epoch, defined by the number of years since the event that initiated it. The current epoch is the Epoch of the Last Stand.
 
+- Epoch of Creation
+- Epoch of Myth
+- Epoch of Many Worlds
+- Epoch of the Void
+- Epoch of Worlds United
+- Epoch of Clashing Deities
+- Epoch of Accord
+- Epoch of the Last Stand
+- Epoch of Prophecy
+
 ### Years
 
 Each year is 365.242196 days long
