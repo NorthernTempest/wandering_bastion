@@ -1,5 +1,5 @@
 ---
-title: Homebrew Rules for Cracked Facade Campaign
+title: Homebrew Rules
 tags:
   - campaign/cracked-facade/rule/homebrew
 ---

@@ -1,5 +1,5 @@
 ---
-title: Character Creation Rules for the Cracked Facade Campaign
+title: Character Creation Rules
 tags:
   - campaign/cracked-facade/rule/character-creation
   - player/important
