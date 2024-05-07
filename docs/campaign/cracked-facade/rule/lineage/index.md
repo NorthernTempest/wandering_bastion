@@ -3,6 +3,7 @@ title: Lineages
 tags:
   - campaign/cracked-facade/rule/lineage
   - overview
+subtitle: Species of your Race
 ---
 
 **Lineages replace part of your race. Heritages replace the rest of your race, not your background.**

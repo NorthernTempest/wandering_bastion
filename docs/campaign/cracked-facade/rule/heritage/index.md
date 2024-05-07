@@ -1,5 +1,6 @@
 ---
 title: Heritages
+subtitle: Culture of your Race
 tags:
   - campaign/cracked-facade/rule/heritage
   - overview
