@@ -14,8 +14,8 @@ aliases:
 Dunfoyn is the final safe haven from the [Aberrant Horde](../../../creature/species/aberration/index.md) in all of the [Material Plane](../../plane/prime/material.md). Since the [[Five Errant Gates]] brought the surviving life of the [[5 last planets]] to Dunfoyn 40,000 years ago, Dunfoyn has been free from the threat of [Aberrations](../../../creature/species/aberration/index.md). That is until the [Ifvra Party Encounter](../../../event/history/last-stand/ifvra-party-encounter.md)
 ## Nations
 
-- [Alleby Commonwealth](../../state/alleby.md): friendly halfling military dictatorship
-- [Anavilisio State](../../state/anavilisio.md): mercantile plutocracy of industry
+- [Alleby Commonwealth](../../state/alleby/index.md): friendly halfling military dictatorship
+- [Anavilisio State](../../state/anavilisio/index.md): mercantile plutocracy of industry
 - Avydar Chasm: volcanic rift to the planes of earth and fire
 - Carx District: wall against an aberrant fold in reality
 - Cavanunga Nation: harmonious state of dreaming elf-kings
@@ -26,7 +26,7 @@ Dunfoyn is the final safe haven from the [Aberrant Horde](../../../creature/spec
 - Free City of Brinham: academic city-state of art, magic, and philosophy
 - Gohlarr’ehd Savannah: wildlands of ancient ruins
 - Glorindt Dominion: eusocial deep gnome empire
-- [The Great Alliance of the Wounded Coast](../../state/great-alliance/index.md): allied city-states of bygone paragons
+- [The Great Alliance of the Wounded Coast](../../state/wounded-coast/index.md): allied city-states of bygone paragons
 - The Great Lingering Sorrow: cursed ancient battlefield of enormous scale
 - Harrowthorn Grand Duchy: home state of the benevolent vampire lord
 - Holy Eiga Union: union of undersea theocracies

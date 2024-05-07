@@ -1,9 +1,7 @@
 ---
 title: Arsleaf Peninsula
 tags:
-  - lore
-  - lore/place
-  - lore/place/region
+  - region
 ---
 
 Arsleaf Peninsula is located in the [The Great Alliance of the Wounded Coast](../index.md)
@@ -16,4 +14,4 @@ Arsleaf Peninsula is located in the [The Great Alliance of the Wounded Coast](..
 
 ## Landmarks
 
-- [Arcfall River](river-arcfall.md)
+- [Arcfall River](arcfall.md)

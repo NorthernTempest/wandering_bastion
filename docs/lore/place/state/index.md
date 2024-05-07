@@ -1,53 +1,51 @@
 ---
-title: Nations
+title: Nations and Territories
 tags:
-  - lore
-  - place
-  - nation
   - overview
 ---
-
+This section of the website describes all the nations and territories of [Dunfoyn](../planet/ordon/dunfoyn.md), as well as the various regions and significant landforms that they contain.
 ## Nations of [Dunfoyn](../planet/ordon/dunfoyn.md)
 
-- [Alleby Commonwealth](alleby.md): friendly halfling military dictatorship
-- [Anavilisio State](anavilisio.md): mercantile plutocracy of industry
-- Avydar Chasm: volcanic rift to the planes of earth and fire
-- Carx District: wall against an aberrant fold in reality
-- Cavanunga Nation: harmonious state of dreaming elf-kings
-- Discordia Kingdom: cursed land of fairy tales
-- Ehrlung Demesne: jungle theocracy of the mad beast god
-- Eivnel Colony-Nation: arcanocratic jungle nation on the coast
-- Everata Fortress State: bastion of heaven on earth
-- Free City of Brinham: academic city-state of art, magic, and philosophy
-- Gohlarr’ehd Savannah: wildlands of ancient ruins
-- Glorindt Dominion: eusocial deep gnome empire
-- [The Great Alliance of the Wounded Coast](great-alliance/index.md): allied city-states of bygone paragons
-- Harrowthorn Grand Duchy: home state of the benevolent vampire lord
-- Holy Eiga Union: union of undersea theocracies
-- Kaer Avenyr: crashed flying citadel of the storm dwarves
-- Kaer Ayungar: socialist republic of the ice dwarves
-- Kaer Bannovir: country of the dale dwarven banns
-- Kaer Strybdyr: massive citadel of the rock dwarves under the mountain
-- Lands of Ujyrvanamgyn: socialist democratic homeland of gnomes
-- The Lost Flotilla: floating refugee nation
-- Lozartu Empire: isolationist empire of the rainforest
-- Mihrttal Expanse: forest of silent spirits
-- Najj Rangelands: land of living barbarian ancestor gods
-- Nourik Breach: land of void and stars
-- Oevrim City: city-state of lost technologies
-- Oregallian Grand Empire: empire of corrupt nobility
-- Peleton Wilds: reformed demon lord's domain
-- Pyreswept Lands: communist state of the ember dwarves
-- Razig Empire: home base of the pirate lords
-- Secheral Sea: storm-wracked rift to the planes of air and water
-- Sekhmeti Nation: enlightened monarchy of the river
-- Siblikund Desert: trackless expanse of cold sands
-- Takaratal Kingdom: ravaged kingdom of gold
-- Tearna Republic: democratic land of monsters and exiles
-- Temble Kingdom: quiet pastoral halfling kingdom
-- Temelin Empire: legendary ancient empire returned to our time
-- Unholy Lands of Frostchurch: domain of the sleeping corpse god
-- Venyr Empire: empire of the immortal grand queen
-- Wizard Waste Badlands: forest of sleeping spirits
-- Wyrmwrought Reach: noocratic ancestor council of the kobold clans
-- Xyaotaol Island: jungle ape island nation
+- [Alleby Commonwealth](alleby/index.md): friendly halfling military dictatorship
+- [Anavilisio State](anavilisio/index.md): mercantile plutocracy of industry
+- [Avyadar Chasm](avyadar/index.md): volcanic rift to the planes of earth and fire
+- [Carx District](carx/index.md): wall against an aberrant fold in reality
+- [Cavanunga Nation](cavanunga/index.md): harmonious state of dreaming elf-kings
+- [Discordia Kingdom](discordia/index.md): cursed land of fairy tales
+- [Ehrlung Demesne](ehrlung/index.md): jungle theocracy of the mad beast god
+- [Eivnel Colony](eivnel/index.md): arcanocratic jungle nation on the coast
+- [Everata Fortress State](everata/index.md): bastion of heaven on earth
+- [Free City of Brinham](brinham/index.md): academic city-state of art, magic, and philosophy
+- [Gohlarr’ehd Savannah](gohlarrehd/index.md): wildlands of ancient ruins
+- [Glorindt Dominion](glorindt/index.md): eusocial deep gnome empire
+- [The Great Alliance of the Wounded Coast](wounded-coast/index.md): allied city-states of bygone paragons
+- [Harrowthorn Grand Duchy](harrowthorn/index.md): home of the benevolent vampire lord
+- [Holy Eiga Union](eiga/index.md): union of undersea theocracies
+- [Kaer Avenyr](avenyr/index.md): crashed flying citadel of the storm dwarves
+- [Kaer Ayungar](ayungar/index.md): socialist republic of the ice dwarves
+- [Kaer Bannovir](bannovir/index.md): country of the dale dwarven banns
+- [Kaer Strybdyr](strybdyr/index.md): massive citadel of the rock dwarves under the mountain
+- [Lands of Ujyrvanamgyn](ujyrvanamgyn/index.md): socialist democratic homeland of gnomes
+- [Lost Flotilla](lost-flotilla/index.md): floating refugee nation
+- [Lozartu Empire](lozartu/index.md): isolationist empire of the rainforest
+- [Mihrttal Expanse](mihrttal/index.md): forest of silent spirits
+- [Najj Rangelands](najj/index.md): land of living barbarian ancestor gods
+- [Nourik Breach](nourik/index.md): land of void and stars
+- [Oevrim City](oevrim/index.md): city-state of lost technologies
+- [Oregallian Grand Empire](oregallia/index.md): empire of corrupt nobility
+- [Peleton Wilds](peleton/index.md): reformed demon lord's domain
+- [Pyreswept Lands](pyreswept/index.md): communist state of the ember dwarves
+- [Razig Empire](razig/index.md): home base of the pirate lords
+- [Secheral Sea](secheral/index.md): storm-wracked rift to the planes of air and water
+- [Sekhmeti Nation](sehkmeti/index.md): enlightened monarchy of the river
+- [Siblikund Desert](siblikund/index.md): trackless expanse of cold sands
+- [Takaratal Kingdom](takaratal/index.md): ravaged kingdom of gold
+- [Tearna Republic](tearna/index.md): democratic land of monsters and exiles
+- [Temble Shire](temble/index.md): quiet pastoral kingdom
+- [Temelin Grand Empire](temelin/index.md): legendary ancient empire returned to our time
+- [Unholy Lands of Frostchurch](frostchurch/index.md): domain of the sleeping corpse god
+- [Venyr Empire](venyr/index.md): empire of the immortal grand queen
+- [Wizard Waste Badlands](wizard-waste/index.md): wasteland of a terrible arcano-cataclysm
+- [Wyrmwrought Reach](wyrmwrought/index.md): kobold clans of the noocratic ancestor council
+- [Xyaotaol Island](xyaotaol/index.md): jungle island kingdom
+- [Ygorral Sovereignty](ygorral/index.md): redeemed archdevil's domain

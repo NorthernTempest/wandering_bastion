@@ -1,15 +1,9 @@
 ---
 title: Alleby Commonwealth
+subtitle: Friendly Halfling Military Dictatorship
 tags:
-  - lore
-  - place
-  - nation
-  - halfling
-  - dictatorship
-  - dunfoyn
+  - government/monarchy
 ---
-
-***Friendly Halfling Military Dictatorship***
 
 **Alignment** LN; **Capital** Haresfoot Fort City (132,600)
 
@@ -30,3 +24,5 @@ tags:
 Until 80 years ago, the soft rolling hills from to were a monarchical society ruled over by The High Hill King, a title passed down the Archwind family line. After the events of the Spotless Sun Cult Murders, riots backed by the military called for a constitutional monarchy which the royal family agreed to after a 23 week long civil war.
 
 The first election was overseen by the military and the military backed party was elected to power. Since then, The National Party of Alleby has established a totalitarian regime that has stood virtually unopposed since its founding.
+
+One major change that has been implemented since the first election is that all non-halflings have been successfully rehomed. Now, cities across the country are full of Halflings and only halflings.
