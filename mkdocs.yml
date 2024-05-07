@@ -9,9 +9,12 @@ theme:
     - navigation.indexes
     - navigation.instant
     - navigation.instant.prefetch
+    - navigation.instant.preview
     - navigation.instant.progress
     - navigation.path
+    - navigation.sections
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.suggest
@@ -44,7 +47,6 @@ theme:
         name: Switch to system preference
 plugins:
   - tags:
-      tags_file: tags.md
       listings_map:
         scoped:
           scope: true
@@ -58,9 +60,6 @@ plugins:
       shadow: false
   - search
 markdown_extensions:
-  # - material.extensions.preview:
-  #     targets:
-  #       include: /*
   # Python Markdown
   - abbr
   - admonition
