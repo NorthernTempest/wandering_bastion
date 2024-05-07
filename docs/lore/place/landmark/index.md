@@ -1,10 +1,5 @@
 ---
-title: Buildings
+title: Buildings & Landmarks
 tags:
-  - lore
-  - lore/place
-  - lore/place/building
   - overview
 ---
-
-

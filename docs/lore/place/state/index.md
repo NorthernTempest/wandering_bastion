@@ -1,5 +1,5 @@
 ---
-title: Nations and Territories
+title: Nations & Territories
 tags:
   - overview
 ---

@@ -1,5 +1,5 @@
 ---
-title: History of the Wandering Bastion Campaign Setting
+title: History
 tags:
   - lore/event/history
 ---
