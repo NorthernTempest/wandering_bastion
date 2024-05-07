@@ -1,7 +1,13 @@
-# Flame Heritage
+---
+title: Flame Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/flame
+---
 
-Languages. You know Common, Ignan, and one other language of your choice.
+You were born in either the [Plane of Fire](../../../../lore/place/plane/inner/energy/fire.md) or a place closely associated with it.
 
-Skill Proficiency. You have proficiency in your choice of either Acrobatics or Arcana.
+**Languages**. You know Common, Ignan, and one other language of your choice.
 
-Tool Proficiency. You have proficiency in your choice of either Artisan's Tools or one Musical Instrument.
+**Skill Proficiency**. You have proficiency in your choice of either Acrobatics or Arcana.
+
+**Tool Proficiency**. You have proficiency in your choice of either Artisan's Tools or one Musical Instrument.

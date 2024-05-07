@@ -1,4 +1,8 @@
-# Noble Heritage
+---
+title: Noble Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/noble
+---
 
 Languages. You know Common, Draconic, and one other language of your choice.
 

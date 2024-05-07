@@ -1,4 +1,8 @@
-# Heaven Heritage
+---
+title: Heaven Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/heaven
+---
 
 Languages. You know Common, Celestial, and one other language of your choice.
 

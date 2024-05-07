@@ -1,4 +1,8 @@
-# Hex Heritage
+---
+title: Hex Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/hex
+---
 
 Languages. You know Common, Sylvan, and one other language of your choice.
 

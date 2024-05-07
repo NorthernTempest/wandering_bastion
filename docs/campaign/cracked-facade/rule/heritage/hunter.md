@@ -1,4 +1,8 @@
-# Hunter Heritage
+---
+title: Hunter Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/hunter
+---
 
 Languages. You know Common, Wild Speech, and one other language of your choice.
 

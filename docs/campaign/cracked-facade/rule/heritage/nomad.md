@@ -1,4 +1,8 @@
-# Nomad Heritage
+---
+title: Nomad Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/nomad
+---
 
 Languages. You know Common, Draconic, and one other language of your choice.
 

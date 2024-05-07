@@ -1,4 +1,8 @@
-# Mountain Heritage
+---
+title: Mountain Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/mountain
+---
 
 Languages. You know Common, Terran, and one other language of your choice.
 

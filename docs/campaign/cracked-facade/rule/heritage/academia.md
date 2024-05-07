@@ -1,4 +1,8 @@
-# Academia Heritage
+---
+title: Academia Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/academia
+---
 
 You come from one of the many communities centered around a well known college or library.
 

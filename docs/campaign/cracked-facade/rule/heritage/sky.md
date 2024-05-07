@@ -1,6 +1,8 @@
-# Sky Heritage
-
-
+---
+title: Sky Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/sky
+---
 
 Languages. You know Common, Draconic, and one other language of your choice.
 

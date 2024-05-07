@@ -1,4 +1,8 @@
-# Fae Heritage
+---
+title: Fae Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/fae
+---
 
 Languages. You know Common, Sylvan, and one other language of your choice.
 

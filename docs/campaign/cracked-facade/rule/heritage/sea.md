@@ -1,4 +1,8 @@
-# Sea Heritage
+---
+title: Sea Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/sea
+---
 
 Languages. You know Common, Draconic, and one other language of your choice.
 

@@ -1,6 +1,8 @@
-# Trades Heritage
-
-
+---
+title: Trades Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/trades
+---
 
 Languages. You know Common, Draconic, and one other language of your choice.
 

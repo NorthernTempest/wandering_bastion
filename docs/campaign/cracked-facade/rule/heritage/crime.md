@@ -1,4 +1,8 @@
-# Crime Heritage
+---
+title: Crime Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/crime
+---
 
 You grew up in a community openly run by crimelords or the nastier parts of a larger city.
 

@@ -1,6 +1,8 @@
-# Shadow Heritage
-
-
+---
+title: Shadow Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/shadow
+---
 
 Languages. You know Common, Draconic, and one other language of your choice.
 

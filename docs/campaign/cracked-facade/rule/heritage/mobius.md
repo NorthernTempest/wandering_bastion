@@ -1,4 +1,8 @@
-# Mobius Heritage
+---
+title: Mobius Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/mobius
+---
 
 Ability Score Bonus.
 

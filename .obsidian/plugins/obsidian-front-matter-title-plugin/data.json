@@ -39,14 +39,14 @@
       }
     },
     "tab": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
       }
     },
     "header": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
@@ -81,7 +81,7 @@
       }
     },
     "inlineTitle": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""

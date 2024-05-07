@@ -1,4 +1,8 @@
-# Abyss Heritage
+---
+title: Abyss Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/abyss
+---
 
 You either come from the outer plane known as the Abyss or the place you come from or people you grew up around had close ties to that destructive and terrifying plane.
 

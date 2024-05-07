@@ -1,4 +1,8 @@
-# Mine Heritage
+---
+title: Mine Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/mine
+---
 
 Languages. You know Common, Giant, and one other language of your choice.
 

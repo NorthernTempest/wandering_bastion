@@ -1,6 +1,8 @@
-# Urban Heritage
-
-
+---
+title: Urban Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/urban
+---
 
 Languages. You know Common, Draconic, and one other language of your choice.
 

@@ -1,4 +1,8 @@
-# Deep Heritage
+---
+title: Deep Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/deep
+---
 
 You come from the Deeplands or spent much of your childhood with people from there.
 

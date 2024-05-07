@@ -1,4 +1,8 @@
-# Dungeon Heritage
+---
+title: Dungeon Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/dungeon
+---
 
 You come from a dungeon town, a community that sprung up around a dungeon as adventurers brought up treasures and wealth out of its depths.
 

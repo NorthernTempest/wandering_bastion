@@ -1,4 +1,8 @@
-# Grove Heritage
+---
+title: Grove Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/grove
+---
 
 Languages. You know Common, Wild Speech, and one other language of your choice.
 

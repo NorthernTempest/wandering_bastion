@@ -1,6 +1,8 @@
-# Wild Heritage
-
-
+---
+title: Wild Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/wild
+---
 
 Languages. You know Common, Draconic, and one other language of your choice.
 

@@ -1,4 +1,8 @@
-# Hell Heritage
+---
+title: Hell Heritage
+tags:
+  - campaign/cracked-facade/rule/heritage/hell
+---
 
 Languages. You know Common, Infernal, and one other language of your choice.
 
