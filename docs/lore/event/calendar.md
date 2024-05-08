@@ -11,11 +11,12 @@ The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the 
 ### Epochs
 
 
-- Epoch of Creation
-- Epoch of Myth
-- Epoch of Many Worlds
-- Epoch of the Void
-- Epoch of Worlds United
+- Epoch Before Epochs, which counts years in reverse order since not even the members of the [Pantheon of the Originators](../creature/unique/deity/originator/index.md) know for certain when the planes other than the [Material Plane](../place/plane/prime/material.md) came to be.
+- Epoch of Creation, which begins with the creation of the Material Plane.
+- Epoch of Myth, which begins with the ascension of the first [Deitiy](../creature/unique/deity/index.md) of the [Pantheon of the Ancients](../creature/unique/deity/ancient/index.md), [Arcundus](../creature/unique/deity/ancient/arcundus.md).
+- Epoch of Civilization, which begins with the ascension of the first [Deity](../creature/unique/deity/index.md) of the [Pantheon of the Ascended](../creature/unique/deity/ascended/index.md).
+- Epoch of the Void, which begins when the [Aberrations](../creature/species/aberration/index.md) overrode their first [Planet](../place/planet/index.md) on the [Material Plane](../place/plane/prime/material.md)
+- Epoch of Worlds United, which begins when all remaining life in the su
 - Epoch of Clashing Deities
 - Epoch of Accord
 - Epoch of the Last Stand
