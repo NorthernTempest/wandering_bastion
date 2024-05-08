@@ -42,16 +42,16 @@ Each year is split into 4 seasons of 91 days each. The first day of each season 
 
 ### Months
 
-There are 12 months per year, three for each season. Each month is 30 days long. The months of the year, in order, are as follows. Entries in parentheses are not part of any month.
+There are 12 months per year, three for each season. Each month is 30 days long. The months of the year, in order, are as follows. Months are used only colloquially and usually when referring to what time of the season it is. Entries in parentheses are not part of any month and, notably, the months were named from the perspective of people living in the northern hemisphere.
 
 - (New Year's Day)
 - (a Leap Day if it's a leap year)
 - (Winter Solstice)
-- Dark-Frost
-- Sleep-Frost
-- Melting-Frost
+- Dark-Frost. This month falls on the darkest and coldest days of the year.
+- Sleep-Frost. In agricultural communities, there tends to be less work to be done during this month.
+- Melting-Frost. At this point of the year, winter starts to warm up and rivers start to flow again.
 - (Spring Equinox)
-- River-Bloom
+- River-Bloom. Rivers start flowing and even flooding around this 
 - Song-Bloom
 - Cinder-Bloom
 - (Summer Solstice)
@@ -71,13 +71,13 @@ There are 13 weeks per season. Each week is 7 days long. The length of the week 
 
 There are 7 days per week. Each day is 24 hours long. Each day represents one rotation of [Dunfoyn](../place/planet/ordon/dunfoyn.md). Noon takes place at the local zenith of the common centre of orbit between [Ordon A](../place/planet/ordon/ordon-a.md) and [Ordon B](../place/planet/ordon/ordon-b.md). The days of the week, in order, are:
 
-- Sun Day, which is traditionally a day of rest.
+- Sun Day, which is traditionally a day of rest. The solstices and equinoxes all fall on Sun Days.
 - Moon Day, which is traditionally a day of rest, but only pastoral or remote cultures follow this tradition anymore. Also, Dunfoyn doesn't have a moon, which is why people don't respect is a day of rest anymore.
 - Dues Day, a work day to pay off debts.
 - Winds Day, a work day of good fortunes.
 - Turns Day, a work day of making significant changes in your life. 
 - Fest Day, a work day of revelry.
-- Star Day, which is traditionally a day of rest.
+- Star Day, which is traditionally a day of rest. Holidays that fall on Star Days tend to be reflective and quiet rather than celebratory.
 
 ### Hours
 
