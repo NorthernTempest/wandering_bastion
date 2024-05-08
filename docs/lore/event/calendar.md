@@ -6,7 +6,7 @@ This page lists the different Calendars native to the [Wandering Bastion](../../
 
 ## Aelfaran Calendar
 
-The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the calendar originally created by the Elves and Gnomes native to [Aelfar](../place/planet/plaer/aelfar.md) shortly after their arrival at [Dunfoyn](../place/planet/ordon/dunfoyn.md). It is notably extremely accurate in terms of leap dates. Reportedly, humans found that the Aelfaran calendar closely matched the calendars that they used on [[../place/plane/inner/matter/earth]]. Rather than determining the date by the month like with the Gregorian Calendar (which was used by humans back on Earth, where they came from), the date is usually written \<Day\> \<Week\> \<Season\> \<Year\> \<Epoch\>. e.g., the 231st day of the year 640 ELS (Epoch of the Last Stand) would be written Turns Day of the 6th Week of Summer, 640 ELS. 
+The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the calendar originally created by the Elves and Gnomes native to [Aelfar](../place/planet/plaer/aelfar.md) shortly after their arrival at [Dunfoyn](../place/planet/ordon/dunfoyn.md). It is notably extremely accurate in terms of leap dates. Reportedly, humans found that the Aelfaran calendar closely matched the calendars that they used on [Earth](../place/plane/inner/matter/earth). Rather than determining the date by the month like with the Gregorian Calendar (which was used by humans back on Earth, where they came from), the date is usually written <Day\> <Week\> <Season\> <Year\> <Epoch\>. e.g., the 231st day of the year 640 ELS (Epoch of the Last Stand) would be written Turns Day of the 6th Week of Summer, 640 ELS. 
 
 ### Epochs
 
@@ -74,8 +74,8 @@ There are 7 days per week. Each day is 24 hours long. Each day represents one ro
 - Sun Day, which is traditionally a day of rest.
 - Moon Day, which is traditionally a day of rest, but only pastoral or remote cultures follow this tradition anymore. Also, Dunfoyn doesn't have a moon, which is why people don't respect is a day of rest anymore.
 - Dues Day, a work day to pay off debts.
-- Winds Day, a work day of good fortune.
-- Turns Day, a work day of changing fortunes. 
+- Winds Day, a work day of good fortunes.
+- Turns Day, a work day of making significant changes in your life. 
 - Fest Day, a work day of revelry.
 - Star Day, which is traditionally a day of rest.
 
