@@ -5,16 +5,16 @@
 
 	--md-sat-default-fg: 80%;
 	--md-sat-default-bg: 10%;
-	--md-sat-primary-fg: 50%;
+	--md-sat-primary-fg: 95%;
 	--md-sat-primary-bg: 10%;
-	--md-sat-accent-fg: 75%;
+	--md-sat-accent-fg: 95%;
 	--md-sat-accent-bg: 10%;
 
 	--md-lum-default-fg: 95%;
 	--md-lum-default-bg: 10%;
-	--md-lum-primary-fg: 40%;
+	--md-lum-primary-fg: 70%;
 	--md-lum-primary-bg: 10%;
-	--md-lum-accent-fg: 40%;
+	--md-lum-accent-fg: 80%;
 	--md-lum-accent-bg: 10%;
 
 	--md-default-fg-color: hsla(var(--md-hue-default), var(--md-sat-default-fg), var(--md-lum-default-fg), 0.92);
@@ -99,23 +99,24 @@
 
 	--md-sat-default-fg: 80%;
 	--md-sat-default-bg: 10%;
-	--md-sat-primary-fg: 50%;
+	--md-sat-primary-fg: 100%;
 	--md-sat-primary-bg: 10%;
-	--md-sat-accent-fg: 75%;
+	--md-sat-accent-fg: 100%;
 	--md-sat-accent-bg: 10%;
 
 	--md-lum-default-fg: 5%;
 	--md-lum-default-bg: 90%;
-	--md-lum-primary-fg: 50%;
-	--md-lum-primary-bg: 80%;
-	--md-lum-accent-fg: 50%;
-	--md-lum-accent-bg: 80%;
+	--md-lum-primary-fg: 35%;
+	--md-lum-primary-bg: 90%;
+	--md-lum-accent-fg: 35%;
+	--md-lum-accent-bg: 90%;
 
 	--md-default-fg-color: hsla(var(--md-hue-default), var(--md-sat-default-fg), var(--md-lum-default-fg), 0.92);
 	--md-default-fg-color--light: hsla(var(--md-hue-default), var(--md-sat-default-fg), var(--md-lum-default-fg), 0.56);
 	--md-default-fg-color--lighter: hsla(var(--md-hue-default), var(--md-sat-default-fg), var(--md-lum-default-fg), 0.32);
 	--md-default-fg-color--lightest: hsla(var(--md-hue-default), var(--md-sat-default-fg), var(--md-lum-default-fg), 0.12);
 	--md-default-fg-color--dark: hsla(var(--md-hue-default), var(--md-sat-default-fg), var(--md-lum-default-fg), 1);
+	
 	--md-default-bg-color: hsla(var(--md-hue-default), var(--md-sat-default-bg), var(--md-lum-default-bg), 1);
 	--md-default-bg-color--light: hsla(var(--md-hue-default), var(--md-sat-default-bg), var(--md-lum-default-bg), 0.56);
 	--md-default-bg-color--lighter: hsla(var(--md-hue-default), var(--md-sat-default-bg), var(--md-lum-default-bg), 0.32);
@@ -127,6 +128,7 @@
 	--md-primary-fg-color--lighter: hsla(var(--md-hue-primary), var(--md-sat-primary-fg), var(--md-lum-primary-fg), 0.32);
 	--md-primary-fg-color--lightest: hsla(var(--md-hue-primary), var(--md-sat-primary-fg), var(--md-lum-primary-fg), 0.12);
 	--md-primary-fg-color--dark: hsla(var(--md-hue-primary), var(--md-sat-primary-fg), var(--md-lum-primary-fg), 1);
+
 	--md-primary-bg-color: hsla(var(--md-hue-primary), var(--md-sat-primary-bg), var(--md-lum-primary-bg), 1);
 	--md-primary-bg-color--light: hsla(var(--md-hue-primary), var(--md-sat-primary-bg), var(--md-lum-primary-bg), 0.56);
 	--md-primary-bg-color--lighter: hsla(var(--md-hue-primary), var(--md-sat-primary-bg), var(--md-lum-primary-bg), 0.32);
@@ -138,6 +140,7 @@
 	--md-accent-fg-color--lighter: hsl(var(--md-hue-accent), var(--md-sat-accent-fg), var(--md-lum-accent-fg), 0.32);
 	--md-accent-fg-color--lightest: hsl(var(--md-hue-accent), var(--md-sat-accent-fg), var(--md-lum-accent-fg), 0.12);
 	--md-accent-fg-color--dark: hsl(var(--md-hue-accent), var(--md-sat-accent-fg), var(--md-lum-accent-fg), 1);
+
 	--md-accent-bg-color: hsl(var(--md-hue-accent), var(--md-sat-accent-bg), var(--md-lum-accent-bg), 1);
 	--md-accent-bg-color--light: hsl(var(--md-hue-accent), var(--md-sat-accent-bg), var(--md-lum-accent-bg), 0.56);
 	--md-accent-bg-color--lighter: hsl(var(--md-hue-accent), var(--md-sat-accent-bg), var(--md-lum-accent-bg), 0.32);
