@@ -10,20 +10,22 @@ The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the 
 
 ### Epochs
 
+Epochs are different periods of history bookended by historically important events. Epochs do not overlap. It is said that every Epoch starts on a year divisible by 128. The reason for that, if it is true, is unknown. 
+
 - Epoch Before Epochs, which counts years in reverse order since not even the members of the [Pantheon of the Originators](../creature/unique/deity/originator/index.md) know for certain when the planes other than the [Material Plane](../place/plane/prime/material.md) came to be.
 - Epoch of Creation, which begins with the creation of the Material Plane.
 - Epoch of Myth, which begins with the ascension of the first [Deitiy](../creature/unique/deity/index.md) of the [Pantheon of the Ancients](../creature/unique/deity/ancient/index.md), [Arcundus](../creature/unique/deity/ancient/arcundus.md).
 - Epoch of Civilization, which begins with the ascension of the first [Deity](../creature/unique/deity/index.md) of the [Pantheon of the Ascended](../creature/unique/deity/ascended/index.md).
 - [Epoch of the Void](history/void/index.md), which begins when the [Aberrations](../creature/species/aberration/index.md) overrode their first [Planet](../place/planet/index.md) on the [Material Plane](../place/plane/prime/material.md).
 - Epoch of Worlds United, which begins when all remaining life in the [Material Plane](../place/plane/prime/material.md) escaped the [Aberrations](../creature/species/aberration/index.md) through the [Five Errant Gates](../object/magic-items/5-errant-gates.md).
-- Epoch of Clashing Planes, which begins with the instantiation of the [[history/clashing-planes/war]] between the [Deities](../creature/unique/deity/index.md) over whether or not to destroy the [Material Plane](../place/plane/prime/material.md) and start again.
-- Epoch of Accord, which begins with the end of the [War of Clashing Planes](history/clashing-planes/war.md).
+- Epoch of Clashing Planes, which begins with the instantiation of the [War of Clashing Planes](./history/clashing-planes/war.md) between the [Deities](../creature/unique/deity/index.md) over whether or not to destroy the [Material Plane](../place/plane/prime/material.md) and start again.
+- Epoch of Accord, an era of peace which begins with the end of the [War of Clashing Planes](history/clashing-planes/war.md).
 - [Epoch of the Last Stand](history/last-stand/index.md), which begins with the [Ifvra Party Encounter](history/last-stand/ifvra-party-encounter.md), the first sighting of [Aberrations](../creature/species/aberration/index.md) on [Dunfoyn](../place/planet/ordon/dunfoyn.md) since the Epoch of Worlds United.
 - Epoch of Prophecy, which is destined to begin when the [Five Errant Gates](../object/magic-items/5-errant-gates.md) open again. Whether the eponymous [Prophecy of Shattered Reality](../concept/prophecy/shattered-reality.md) is a prophecy of doom or triumph is yet to be determined.
 
 ### Years
 
-Each year is 365.242196 days long, and these
+Each year is 365.242196 days long.
 
 #### Extra Days & Leap Years
 
@@ -53,15 +55,15 @@ There are 12 months per year, three for each season. Each month is 30 days long.
 - (Spring Equinox)
 - River-Bloom. Rivers start flowing and even flooding around this time of the year.
 - Song-Bloom. This is about the time of year when baby birds hatch. This month is named after the singing of songbirds even though it's baby birds that you hear around now, and there's nothing song like about that.
-- Cinder-Bloom
+- Cinder-Bloom. The start of some of the hottest days of the year. Summer is longer on [Dunfoyn](../place/planet/ordon/dunfoyn.md) than on other planets with more circular orbits.
 - (Summer Solstice)
-- Flam-Sun
-- Storm-Sun
-- Setting-Sun
+- Flame-Sun. Easily the hottest days of the year. Temperatures are still fairly mild because during Summer in the northern Hemisphere, [Dunfoyn](../place/planet/ordon/dunfoyn.md) is significantly further away in its elliptical orbit around [Ordon A](../place/planet/ordon/ordon-a.md) and [Ordon B](../place/planet/ordon/ordon-b.md).
+- Storm-Sun. This is the rainy season.
+- Setting-Sun. Things start cooling down.
 - (Autumn Equinox)
-- Ash-Leaf
-- Fog-Leaf
-- Last-Leaf
+- Ash-Leaf. Things start getting colder. Any wild fires start going out.
+- Fog-Leaf. Fogs start rolling in.
+- Last-Leaf. Trees are almost all leafless and winter is near.
 
 ### Weeks
 
