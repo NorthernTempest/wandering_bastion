@@ -15,11 +15,11 @@ The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the 
 - Epoch of Myth, which begins with the ascension of the first [Deitiy](../creature/unique/deity/index.md) of the [Pantheon of the Ancients](../creature/unique/deity/ancient/index.md), [Arcundus](../creature/unique/deity/ancient/arcundus.md).
 - Epoch of Civilization, which begins with the ascension of the first [Deity](../creature/unique/deity/index.md) of the [Pantheon of the Ascended](../creature/unique/deity/ascended/index.md).
 - [Epoch of the Void](history/void/index.md), which begins when the [Aberrations](../creature/species/aberration/index.md) overrode their first [Planet](../place/planet/index.md) on the [Material Plane](../place/plane/prime/material.md).
-- Epoch of Worlds United, which begins when all remaining life in the [Material Plane](../place/plane/prime/material.md) escaped the [Aberrations](../creature/species/aberration/index.md) through the [Five Errant Gates](../object/magic-items/5-errant-gates).
+- Epoch of Worlds United, which begins when all remaining life in the [Material Plane](../place/plane/prime/material.md) escaped the [Aberrations](../creature/species/aberration/index.md) through the [Five Errant Gates](../object/magic-items/5-errant-gates.md).
 - Epoch of Clashing Planes, which begins with the instantiation of the [[War of Clashing Planes]] between the [Deities](../creature/unique/deity/index.md) over whether or not to destroy the [Material Plane](../place/plane/prime/material.md) and start again.
 - Epoch of Accord, which begins with the end of the [[War of Clashing Planes]].
 - [Epoch of the Last Stand](history/last-stand/index.md), which begins with the [Ifvra Party Encounter](history/last-stand/ifvra-party-encounter.md), the first sighting of [Aberrations](../creature/species/aberration/index.md) on [Dunfoyn](../place/planet/ordon/dunfoyn.md) since the Epoch of Worlds United.
-- Epoch of Prophecy, which is destined to begin when the [Five Errant Gates](../object/magic-items/5-errant-gates.md) open again. Whether the eponymous [Prophecy of Shattered Reality](../concept/prophecy/shattered-reality) is a prophecy of doom or triumph is yet to be determined.
+- Epoch of Prophecy, which is destined to begin when the [Five Errant Gates](../object/magic-items/5-errant-gates.md) open again. Whether the eponymous [Prophecy of Shattered Reality](../concept/prophecy/shattered-reality.md) is a prophecy of doom or triumph is yet to be determined.
 
 ### Years
 
