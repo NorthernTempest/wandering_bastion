@@ -2,7 +2,7 @@
 title: Arcundus
 gender: female
 tags:
-  - lore/creature/unique/deity/ancient/arcundus
+  - deity/ancient
 domains:
   - light
   - twilight

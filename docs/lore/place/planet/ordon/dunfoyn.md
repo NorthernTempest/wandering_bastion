@@ -9,4 +9,4 @@ Related:
 
 - [Nations & Territories](../../state/index.md)
 
-Dunfoyn is the final safe haven from the [Aberrant Horde](../../../creature/species/aberration/index.md) in all of the [Material Plane](../../plane/prime/material.md). Since the [[Five Errant Gates]] brought the surviving life of the [[5 Lost Planets]] to Dunfoyn 40,000 years ago, Dunfoyn has been free from the threat of [Aberrations](../../../creature/species/aberration/index.md). That is until the [Ifvra Party Encounter](../../../event/history/last-stand/ifvra-party-encounter.md).
+Dunfoyn is the final safe haven from the [Aberrant Horde](../../../creature/species/aberration/index.md) in all of the [Material Plane](../../plane/prime/material.md). Since the [Five Errant Gates](../../../object/magic-items/5-errant-gates.md) brought the surviving life of the [Five Lost Planets](../5-lost-planets) to Dunfoyn 40,000 years ago, Dunfoyn has been free from the threat of [Aberrations](../../../creature/species/aberration/index.md). That is until the [Ifvra Party Encounter](../../../event/history/last-stand/ifvra-party-encounter.md).
