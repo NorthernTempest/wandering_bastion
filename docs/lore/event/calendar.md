@@ -6,7 +6,7 @@ This page lists the different Calendars native to the [Wandering Bastion](../../
 
 ## Aelfaran Calendar
 
-The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the calendar originally created by the Elves and Gnomes native to [Aelfar](../place/planet/plaer/aelfar.md) shortly after their arrival at [Dunfoyn](../place/planet/ordon/dunfoyn.md). It is notably extremely accurate in terms of leap dates. Reportedly, humans found that the Aelfaran calendar closely matched the calendars that they used on [Earth](../place/plane/inner/matter/earth). Rather than determining the date by the month like with the Gregorian Calendar (which was used by humans back on Earth, where they came from), the date is usually written <Day\> <Week\> <Season\> <Year\> <Epoch\>. e.g., the 231st day of the year 640 ELS (Epoch of the Last Stand) would be written Turns Day of the 6th Week of Summer, 640 ELS. 
+The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the calendar originally created by the Elves and Gnomes native to [Aelfar](../place/planet/plaer/aelfar.md) shortly after their arrival at [Dunfoyn](../place/planet/ordon/dunfoyn.md). It is notably extremely accurate in terms of leap dates. Reportedly, humans found that the Aelfaran calendar closely matched the calendars that they used on [Earth](../place/planet/sol/earth.md). Rather than determining the date by the month like with the Gregorian Calendar (which was used by humans back on Earth, where they came from), the date is usually written <Day\> <Week\> <Season\> <Year\> <Epoch\>. e.g., the 231st day of the year 640 ELS (Epoch of the Last Stand) would be written Turns Day of the 6th Week of Summer, 640 ELS. 
 
 ### Epochs
 
@@ -16,8 +16,8 @@ The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the 
 - Epoch of Myth, which begins with the ascension of the first [Deitiy](../creature/unique/deity/index.md) of the [Pantheon of the Ancients](../creature/unique/deity/ancient/index.md), [Arcundus](../creature/unique/deity/ancient/arcundus.md).
 - Epoch of Civilization, which begins with the ascension of the first [Deity](../creature/unique/deity/index.md) of the [Pantheon of the Ascended](../creature/unique/deity/ascended/index.md).
 - Epoch of the Void, which begins when the [Aberrations](../creature/species/aberration/index.md) overrode their first [Planet](../place/planet/index.md) on the [Material Plane](../place/plane/prime/material.md)
-- Epoch of Worlds United, which begins when all remaining life in the su
-- Epoch of Clashing Deities
+- Epoch of Worlds United, which begins when all remaining life in the [Material Plane](../place/plane/prime/material.md) escaped the [Aberrations](../creature/species/aberration/index.md) through the [[5 Errant Gates]].
+- Epoch of Clashing Planes, 
 - Epoch of Accord
 - Epoch of the Last Stand
 - Epoch of Prophecy
@@ -52,8 +52,8 @@ There are 12 months per year, three for each season. Each month is 30 days long.
 - Sleep-Frost. In agricultural communities, there tends to be less work to be done during this month.
 - Melting-Frost. At this point of the year, winter starts to warm up and rivers start to flow again.
 - (Spring Equinox)
-- River-Bloom. Rivers start flowing and even flooding around this 
-- Song-Bloom
+- River-Bloom. Rivers start flowing and even flooding around this time of the year.
+- Song-Bloom. This is about the time of year when baby birds hatch. This month is named after the singing of songbirds even though it's baby birds that you hear around now, and there's nothing song like about that.
 - Cinder-Bloom
 - (Summer Solstice)
 - Flam-Sun
