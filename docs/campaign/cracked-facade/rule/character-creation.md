@@ -1,8 +1,7 @@
 ---
 title: Character Creation Rules
 tags:
-  - campaign/cracked-facade/rule/character-creation
-  - player/important
+  - rules/player
 ---
 
 This section of the document describes rules related to creating and advancing a player character.
@@ -72,7 +71,7 @@ Player characters get one feat at level 1 if their background doesn't already gr
 
 A character's motivations are core to telling a great story. A party of misfits with tendencies to act on their own probably wouldn't stay a party for very long.
 
-#### Traits and Flaws
+#### Traits, Bonds, and Flaws
 
 - Make a character that is both
 	- willing to work with others
@@ -97,7 +96,7 @@ A character's motivations are core to telling a great story. A party of misfits 
 	- You are poor enough, injured badly enough, or sick enough to need to beg for solace there, where you would naturally be accepted.
 	- You are seeking penance, sanctuary, or confession, but it's too busy for the priesthood to attend to you. Therefor, you have been given a room for the night.
 	- You are here to celebrate the Sunspark Festival, a sacred holiday around the world for adherents of [Arcundus](../../../lore/creature/unique/deity/ancient/arcundus.md), but also a widely beloved regional holiday, as the festival celebrates the summer solstice, at which point, for one hour every year, the crystalline window at the focal point of the titular arch of [L'Arc Chantante](../../../lore/place/landmark/larc-chantante.md) is illuminated, bathing the whole cathedral in incredible shimmering light. Thousands are expected to be present on the day of the solstice. It is even said that [Arcundus](../../../lore/creature/unique/deity/ancient/arcundus.md) herself is always physically present at the hour of illumination, but hides herself among the throngs.
-	- You are here to hawk goods or services at the festival, and are in good standing with the church, so you've been permitted to camp out on the grounds and are given food and cover from any rain if you.
+	- You are here to hawk goods or services at the festival, and are in good standing with the church, so you've been permitted to camp out on the grounds and are given food and cover from any rain if you need it.
 
 ## Joining After Level 1
 
