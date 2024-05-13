@@ -10,4 +10,7 @@ Below is a list of pages that describe non-physical concepts common in the Wande
 ## Broader Concepts
 
 - [Alignment](alignment.md)
+
+## [Prophecies](prophecy/index.md)
+
 ## [Mysteries](mystery/index.md)

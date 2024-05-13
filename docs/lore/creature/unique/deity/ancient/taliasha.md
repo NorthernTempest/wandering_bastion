@@ -1,7 +1,7 @@
 ---
 title: Taliasha
 tags:
-  - lore/creature/unique/deity/ancient/taliasha
+  - deity/ancient
 ---
 
 **Pronounced** Tah-lee-AH-shah; **AKA** The Vow that Binds, Bloody Vengeance, She of Countless Partners

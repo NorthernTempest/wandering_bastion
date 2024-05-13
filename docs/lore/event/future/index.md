@@ -1,4 +1,4 @@
 ---
-title: Future Events and Prophecies
+title: Future Events
 tags:
 ---
