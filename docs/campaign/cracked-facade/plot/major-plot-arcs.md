@@ -12,41 +12,37 @@ Start ^Cd6nteBp
 
 End ^pLkDjtlt
 
-Defeated ^783zOyrg
+Defeat ^783zOyrg
 
-Gates\nDestroyed ^jWlrHZgN
+Gates Destroyed ^jWlrHZgN
 
 Leave\nThe World ^KH6UsV38
 
 Kill\nAzathoth ^41eiILHJ
 
-The Monastery of the\nArches burns to the ground ^RdRtmJ0v
+The Monastery of the Arches burns to the ground ^RdRtmJ0v
 
-Investigate the fire ^xq9gLg7D
+Investigate the fire? ^xq9gLg7D
 
-Identify the Gate\nin the Monastery ^Qd5ol7gY
+Identify the Gate in the Monastery ^Qd5ol7gY
 
-Identify Earl\nNolthe Torbogenfällt\nas the Arsonist ^zqT3Pcbe
+Identify Earl Nolthe Torbogenfällt as the Arsonist ^zqT3Pcbe
 
-Ignore the investigation\nand find work ^cniARnfl
+Ignore the fire and find work ^cniARnfl
 
-Find work with\nMaster Stanislav\nUtěkal ^GZaO2AIn
+Protect Le Petite Arc for Miss Ilske Dietingen ^YK1ucCw7
 
-Find work\nwith Lady Ilske\nDietingen ^YK1ucCw7
+Investigate the Abandoned Dorms for Earl Nolthe Torbogenfällt ^gpzUOis9
 
-Find work\nwith Earl Nolthe\nTorbogenfällt ^gpzUOis9
+Earl Nolthe Torbogenfällt Dies ^zLwcBTqH
 
-Take job to clear\nout the abandoned\nMonastery Dorms ^PGfZmFvH
+Take job to hunt a Thessalhydra for Stanislav Utěkal ^guuv61uf
 
-Kill Earl\nNolthe Torbogenfällt ^zLwcBTqH
-
-Take job\nto hunt a\nThessalhydra ^guuv61uf
-
-While out hunting,\nMaster Stanislav attacked\nEarl Torbogenfällt, both\ndie in process ^gkFnUQhX
+Master Stanislav Dies ^gkFnUQhX
 
 Destroy the Themisian\nGate of Eleven Tombs ^iMCuIuKO
 
-Destroy the Themisian\nGate of Seven Arches ^YXSheUTT
+Destroy the Themisian Gate of Seven Arches ^YXSheUTT
 
 Destroy the Themisian\nGate of Five Scripts ^JgPzmmgS
 
@@ -54,7 +50,7 @@ Destroy the Themisian\nGate of Three Ballads ^ZD1fCGXx
 
 Destroy the Themisian\nGate of Alpha and Omega ^q7kanknH
 
-Seek out the\nother four gates ^4XkWO0Mc
+Seek out the other four gates ^4XkWO0Mc
 
 Seek out the\nGate of Eleven Tombs ^I79kO14h
 
@@ -74,7 +70,9 @@ Ask for answer\nfrom the Oracle ^JEhRFxE0
 
 Ask for answer\nfrom the Flumphs ^gqMVzRiF
 
-The Gate of Seven\nArches is activated ^Qc58lNr4
+The Gate of Five Arches is activated ^Qc58lNr4
+
+Yes ^1vAUxxI8
 
 %%
 # Drawing
@@ -86,8 +84,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 	"elements": [
 		{
 			"type": "ellipse",
-			"version": 7,
-			"versionNonce": 1471122006,
+			"version": 66,
+			"versionNonce": 695594162,
 			"index": "b1O",
 			"isDeleted": false,
 			"id": "7JEHFVbi4JGhDGV3Gz40q",
@@ -97,11 +95,11 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 505.0558032989502,
-			"y": -855.9821395874023,
+			"x": 1017.0704843805852,
+			"y": -726.4821395874023,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 68.875,
+			"width": 96.52421144512837,
 			"height": 85,
 			"seed": 584582934,
 			"groupIds": [],
@@ -117,14 +115,14 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550482975,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 31,
-			"versionNonce": 104215580,
+			"version": 35,
+			"versionNonce": 41970727,
 			"index": "b1P",
 			"isDeleted": false,
 			"id": "nXkEOrEo6Jp9aigtkr1P6",
@@ -134,8 +132,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -63.529001235961914,
-			"y": 1488.2202377319336,
+			"x": 371.77153270468193,
+			"y": 2137.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 83.12211479693505,
@@ -150,30 +148,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "pLkDjtlt"
 				},
 				{
-					"id": "YmDDoqJcrjPSZVOK8Q6I8",
-					"type": "arrow"
-				},
-				{
 					"id": "G4nGL_WgM7zOSWsF-3lk8",
-					"type": "arrow"
-				},
-				{
-					"id": "8-TeGbwb04IZiDQcvuq02",
-					"type": "arrow"
-				},
-				{
-					"id": "oB3L1prXVCGARwWasDBIU",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415702508,
+			"updated": 1715550495852,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 7,
-			"versionNonce": 892850070,
+			"version": 194,
+			"versionNonce": 40862921,
 			"index": "b1Q",
 			"isDeleted": false,
 			"id": "D0uwL6QjRFzXLWGI_nNkG",
@@ -183,11 +169,11 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1188.2596797943115,
-			"y": 1316.5922622680664,
+			"x": 934.8658136938961,
+			"y": 2104.180641721411,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 115.42857360839844,
+			"width": 117.7480392159755,
 			"height": 115.42857360839844,
 			"seed": 793098646,
 			"groupIds": [],
@@ -197,24 +183,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "783zOyrg"
-				},
-				{
-					"id": "oEfMhlOFeQqt8VfgZ4UhT",
-					"type": "arrow"
-				},
-				{
-					"id": "YmDDoqJcrjPSZVOK8Q6I8",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550839891,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 7,
-			"versionNonce": 916397258,
+			"version": 45,
+			"versionNonce": 774886183,
 			"index": "b1R",
 			"isDeleted": false,
 			"id": "ZCcAUCLLHSeot7PG3VgJN",
@@ -224,11 +202,11 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -881.1465740203857,
-			"y": 1310.7827377319336,
+			"x": 324.2946570794711,
+			"y": 1910.4940490722656,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 127.04762268066406,
+			"width": 179.2355988511454,
 			"height": 127.04762268066406,
 			"seed": 1892030166,
 			"groupIds": [],
@@ -248,14 +226,14 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550853550,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 6,
-			"versionNonce": 1543859414,
+			"version": 8,
+			"versionNonce": 1468321641,
 			"index": "b1S",
 			"isDeleted": false,
 			"id": "EfMOpgO-qq84CoXfOSRR5",
@@ -265,8 +243,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -452.60490226745605,
-			"y": 1310.3928604125977,
+			"x": 1429.4189014434814,
+			"y": -747.8958282470703,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 127.82737731933594,
@@ -279,20 +257,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "KH6UsV38"
-				},
-				{
-					"id": "8-TeGbwb04IZiDQcvuq02",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550495056,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 6,
-			"versionNonce": 1660220298,
+			"version": 8,
+			"versionNonce": 1001853703,
 			"index": "b1T",
 			"isDeleted": false,
 			"id": "BgR_DOROr9ae1kb8t5jAH",
@@ -302,8 +276,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -274.7775249481201,
-			"y": 1316.511905670166,
+			"x": 1214.5379467010498,
+			"y": -741.776782989502,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 115.58928680419922,
@@ -316,20 +290,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "41eiILHJ"
-				},
-				{
-					"id": "oB3L1prXVCGARwWasDBIU",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550493382,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 7,
-			"versionNonce": 699228694,
+			"version": 8,
+			"versionNonce": 312844524,
 			"index": "b1U",
 			"isDeleted": false,
 			"id": "Bb3xj13IvifwYNTL-okG_",
@@ -339,8 +309,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 381.53795051574707,
-			"y": -737.1071395874023,
+			"x": 907.3772373199463,
+			"y": -519.9821395874023,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 315.91070556640625,
@@ -363,14 +333,14 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550482975,
 			"link": null,
 			"locked": false
 		},
 		{
-			"type": "rectangle",
-			"version": 9,
-			"versionNonce": 467792458,
+			"type": "diamond",
+			"version": 70,
+			"versionNonce": 66310663,
 			"index": "b1V",
 			"isDeleted": false,
 			"id": "TK8WHfXtZ_gKJg-AOO6vV",
@@ -380,12 +350,12 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 429.5141315460205,
-			"y": -607.1071395874023,
+			"x": 928.2687552394063,
+			"y": -347.36886797109537,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 219.9583282470703,
-			"height": 47.5,
+			"width": 267.97206274107515,
+			"height": 170,
 			"seed": 240188374,
 			"groupIds": [],
 			"frameId": null,
@@ -400,26 +370,22 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"type": "arrow"
 				},
 				{
-					"id": "auHUBAe7PYIOs0AEJRW3l",
+					"id": "plab1rJYZ2NBbV_9OWlWA",
 					"type": "arrow"
 				},
 				{
-					"id": "fEM2K4ikNRoVCi9RLqE8g",
-					"type": "arrow"
-				},
-				{
-					"id": "SryPCCas4QzlSoL50-3ra",
+					"id": "4S87tESiC7demzoAHnba-",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550619960,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 12,
-			"versionNonce": 19181398,
+			"version": 174,
+			"versionNonce": 1123576905,
 			"index": "b1W",
 			"isDeleted": false,
 			"id": "EMS3fpLhaV4jEfJ-DTm6y",
@@ -429,8 +395,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 462.7671184539795,
-			"y": -22.107139587402344,
+			"x": 293.2842040644882,
+			"y": -64.08506963911736,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 220.79762268066406,
@@ -447,38 +413,38 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "Qd5ol7gY"
 				},
 				{
-					"id": "auHUBAe7PYIOs0AEJRW3l",
+					"id": "Knm0trGLsAY3bY92mmRQK",
 					"type": "arrow"
 				},
 				{
-					"id": "j4wm_Q8YW9Ihuxay4NjGb",
+					"id": "B-9wlCLA5T3_4Tg5GHfDp",
 					"type": "arrow"
 				},
 				{
-					"id": "sdFKVrLwXQ6HuuNbP-shE",
+					"id": "eqwiLHZQ3bN3tUaJiXOT6",
 					"type": "arrow"
 				},
 				{
-					"id": "C-CiqaE-IHc7IVqGJemmF",
+					"id": "7PiRa-SmCVJJjU6V5iqc0",
 					"type": "arrow"
 				},
 				{
-					"id": "NYtkAAs-yjRTb2Kue6FOu",
+					"id": "bJg36hrj5mVPRqLqx1ANE",
 					"type": "arrow"
 				},
 				{
-					"id": "g7che0obotV8_Y4hVBsVH",
+					"id": "kNYYgzwhBFM93WisSwB78",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715552108607,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 293,
-			"versionNonce": 461135908,
+			"version": 714,
+			"versionNonce": 1881971495,
 			"index": "b1X",
 			"isDeleted": false,
 			"id": "lo1G9XlX5nlnQATlCHFxB",
@@ -488,12 +454,12 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 609.2152302402594,
-			"y": -249.81821025112242,
+			"x": 652.7976895567069,
+			"y": 54.78380292985128,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 270.625,
-			"height": 112.5,
+			"width": 230.07603972418678,
+			"height": 85,
 			"seed": 857243222,
 			"groupIds": [],
 			"frameId": null,
@@ -506,30 +472,42 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "zqT3Pcbe"
 				},
 				{
-					"id": "fEM2K4ikNRoVCi9RLqE8g",
+					"id": "Bna3C_e63dA2pbTwcHWXB",
 					"type": "arrow"
 				},
 				{
-					"id": "DLdUraEOQaUJdwbqAeQxk",
+					"id": "7PiRa-SmCVJJjU6V5iqc0",
 					"type": "arrow"
 				},
 				{
-					"id": "E5qd5nW8ppDaf2IUOiWXF",
+					"id": "yZ4FcDtm25I1APEglKHWp",
 					"type": "arrow"
 				},
 				{
-					"id": "j4wm_Q8YW9Ihuxay4NjGb",
+					"id": "kNYYgzwhBFM93WisSwB78",
+					"type": "arrow"
+				},
+				{
+					"id": "awlLN62-lQ2VdDaL9TlUD",
+					"type": "arrow"
+				},
+				{
+					"id": "ntRx4l8UMxzNxqlfFN3VN",
+					"type": "arrow"
+				},
+				{
+					"id": "u33pg5QuIoCVt1Ek2r7Ry",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415755068,
+			"updated": 1715552204375,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 10,
-			"versionNonce": 515921046,
+			"version": 229,
+			"versionNonce": 2130347401,
 			"index": "b1Y",
 			"isDeleted": false,
 			"id": "qJyJiRUOlUy2irEFCLe2l",
@@ -539,11 +517,11 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 818.8296375274658,
-			"y": -509.60713958740234,
+			"x": 1488.6127962986316,
+			"y": -285.5391338928936,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 275.16070556640625,
+			"width": 190.50021088984795,
 			"height": 85,
 			"seed": 526533526,
 			"groupIds": [],
@@ -555,73 +533,30 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "cniARnfl"
 				},
 				{
-					"id": "SryPCCas4QzlSoL50-3ra",
+					"id": "4S87tESiC7demzoAHnba-",
 					"type": "arrow"
 				},
 				{
-					"id": "UqDK55W-7_VtXiCgDVGsr",
+					"id": "6N6kW6epzjdDahbI6hLza",
 					"type": "arrow"
 				},
 				{
-					"id": "bXJirLOyvUBqJmBzqVmtx",
+					"id": "tm8XqLQ8OMcQxRzLfx2UJ",
 					"type": "arrow"
 				},
 				{
-					"id": "vGrbgDRx8Gb6blv_04zVM",
+					"id": "eu8tNNnXqZUstl15nbvcB",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715552020440,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 7,
-			"versionNonce": 1804429258,
-			"index": "b1Z",
-			"isDeleted": false,
-			"id": "bNJIkQ66D_h_ZKmrgFlVJ",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 461.25073432922363,
-			"y": -379.60713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 228.53573608398438,
-			"height": 112.5,
-			"seed": 12673238,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "GZaO2AIn"
-				},
-				{
-					"id": "UqDK55W-7_VtXiCgDVGsr",
-					"type": "arrow"
-				},
-				{
-					"id": "JMX1JgdQ7eKyp6xBn0EHd",
-					"type": "arrow"
-				}
-			],
-			"updated": 1715415654336,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "rectangle",
-			"version": 7,
-			"versionNonce": 1815433686,
+			"version": 114,
+			"versionNonce": 2048620361,
 			"index": "b1a",
 			"isDeleted": false,
 			"id": "kqGDeYPpCFeiTNM8_khle",
@@ -631,8 +566,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 739.786470413208,
-			"y": -379.60713958740234,
+			"x": 1778.7394059517305,
+			"y": -64.82431146553836,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 206.76190185546875,
@@ -649,22 +584,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "YK1ucCw7"
 				},
 				{
-					"id": "bXJirLOyvUBqJmBzqVmtx",
-					"type": "arrow"
-				},
-				{
-					"id": "IgEa4nf1nl2QHKkqRq9AR",
+					"id": "eu8tNNnXqZUstl15nbvcB",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715552020440,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 8,
-			"versionNonce": 434232970,
+			"version": 362,
+			"versionNonce": 1210705737,
 			"index": "b1b",
 			"isDeleted": false,
 			"id": "Q4D06194-49-eMcl1VPjA",
@@ -674,11 +605,11 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1159.8102626800537,
-			"y": -379.60713958740234,
+			"x": 1020.6533378776578,
+			"y": -115.61793401513586,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 218.03573608398438,
+			"width": 271.3834450582539,
 			"height": 112.5,
 			"seed": 1987289942,
 			"groupIds": [],
@@ -692,73 +623,26 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "gpzUOis9"
 				},
 				{
-					"id": "vGrbgDRx8Gb6blv_04zVM",
+					"id": "6N6kW6epzjdDahbI6hLza",
 					"type": "arrow"
 				},
 				{
-					"id": "DLdUraEOQaUJdwbqAeQxk",
+					"id": "Knm0trGLsAY3bY92mmRQK",
 					"type": "arrow"
 				},
 				{
-					"id": "P1PbichNPUIBCBmZ1TOwx",
+					"id": "Bna3C_e63dA2pbTwcHWXB",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715552030168,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 8,
-			"versionNonce": 1419290390,
-			"index": "b1c",
-			"isDeleted": false,
-			"id": "VrX7rcxUrBbePOJO6Tx59",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1120.957612991333,
-			"y": -217.10713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 251.4642791748047,
-			"height": 112.5,
-			"seed": 1980811414,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "PGfZmFvH"
-				},
-				{
-					"id": "P1PbichNPUIBCBmZ1TOwx",
-					"type": "arrow"
-				},
-				{
-					"id": "IgEa4nf1nl2QHKkqRq9AR",
-					"type": "arrow"
-				},
-				{
-					"id": "e1s2gWc8dB_Qucx-H2TYn",
-					"type": "arrow"
-				}
-			],
-			"updated": 1715415654336,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "rectangle",
-			"version": 7,
-			"versionNonce": 1543077194,
+			"version": 670,
+			"versionNonce": 1376003399,
 			"index": "b1d",
 			"isDeleted": false,
 			"id": "AZa7S2M-Y5aZJ3ZVsmQky",
@@ -768,12 +652,12 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 823.8564167022705,
-			"y": -22.107139587402344,
+			"x": 847.1022744833122,
+			"y": 229.82302570791092,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 262.5,
-			"height": 80,
+			"width": 183.61625789303503,
+			"height": 85,
 			"seed": 1767327190,
 			"groupIds": [],
 			"frameId": null,
@@ -786,22 +670,30 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "zLwcBTqH"
 				},
 				{
-					"id": "E5qd5nW8ppDaf2IUOiWXF",
+					"id": "5iuVEVzcJGElchL1DUBni",
 					"type": "arrow"
 				},
 				{
-					"id": "WYbVtXY0hAA2agpJbpfPr",
+					"id": "awlLN62-lQ2VdDaL9TlUD",
+					"type": "arrow"
+				},
+				{
+					"id": "0yyOKOOF8Fn9aDQx6u0E8",
+					"type": "arrow"
+				},
+				{
+					"id": "P1WudD1XIexWPyTQ9mz-O",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715552221440,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 7,
-			"versionNonce": 408900694,
+			"version": 340,
+			"versionNonce": 1117392649,
 			"index": "b1e",
 			"isDeleted": false,
 			"id": "zJQ7FOqpQTO6BKixIpe3Q",
@@ -811,11 +703,11 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 377.7433109283447,
-			"y": -217.10713958740234,
+			"x": 1462.2099407550345,
+			"y": -63.892880748124526,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 191.63690185546875,
+			"width": 215.9912907350264,
 			"height": 112.5,
 			"seed": 1096555286,
 			"groupIds": [],
@@ -829,22 +721,26 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "guuv61uf"
 				},
 				{
-					"id": "JMX1JgdQ7eKyp6xBn0EHd",
+					"id": "8JByFERvwaGeky0I5Lnj6",
 					"type": "arrow"
 				},
 				{
-					"id": "jx1A-GJBnsURP8ZxlYHwU",
+					"id": "5iuVEVzcJGElchL1DUBni",
+					"type": "arrow"
+				},
+				{
+					"id": "tm8XqLQ8OMcQxRzLfx2UJ",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715552017104,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 74,
-			"versionNonce": 699907492,
+			"version": 704,
+			"versionNonce": 1029994025,
 			"index": "b1f",
 			"isDeleted": false,
 			"id": "6hkWnYrRYsPZ7YTrkVvpF",
@@ -854,12 +750,12 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -58.326399556536785,
-			"y": 28.483793914964053,
+			"x": 1209.6086314751644,
+			"y": 254.99626326642476,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 339.2559509277344,
-			"height": 145,
+			"width": 171.9914897900041,
+			"height": 75.30647452594576,
 			"seed": 76826710,
 			"groupIds": [],
 			"frameId": null,
@@ -872,22 +768,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "gkFnUQhX"
 				},
 				{
-					"id": "jx1A-GJBnsURP8ZxlYHwU",
-					"type": "arrow"
-				},
-				{
-					"id": "EsxcnAT8H6JKqh_ivsjVK",
+					"id": "8JByFERvwaGeky0I5Lnj6",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415728553,
+			"updated": 1715552129154,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 9,
-			"versionNonce": 559831446,
+			"version": 13,
+			"versionNonce": 1642463305,
 			"index": "b1g",
 			"isDeleted": false,
 			"id": "viBFwIrcLk3omNFCol2Ce",
@@ -897,8 +789,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -290.3965587615967,
-			"y": 920.3928604125977,
+			"x": -98.30431175231934,
+			"y": 1360.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 263.2738037109375,
@@ -911,28 +803,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "iMCuIuKO"
-				},
-				{
-					"id": "m3WDKq9My2PYRl9RgGV3F",
-					"type": "arrow"
-				},
-				{
-					"id": "-zLbItUWOoDjx_zHRpa69",
-					"type": "arrow"
-				},
-				{
-					"id": "GYFtQP1VMHxet8ZvoaWFr",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550508899,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 10,
-			"versionNonce": 1836987082,
+			"version": 52,
+			"versionNonce": 2092089223,
 			"index": "b1h",
 			"isDeleted": false,
 			"id": "DvrBK8xuhE8_9GeyXKOA5",
@@ -942,8 +822,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 283.64806175231934,
-			"y": 270.39286041259766,
+			"x": 82.69568824768066,
+			"y": 217.19210436967842,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 263.2738037109375,
@@ -958,30 +838,26 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "YXSheUTT"
 				},
 				{
-					"id": "C-CiqaE-IHc7IVqGJemmF",
+					"id": "B-9wlCLA5T3_4Tg5GHfDp",
 					"type": "arrow"
 				},
 				{
-					"id": "HYEyDk5dvTRCcRtdy1XXI",
+					"id": "ntRx4l8UMxzNxqlfFN3VN",
 					"type": "arrow"
 				},
 				{
-					"id": "7w2DVSs6euQ3oGmOqGi7G",
-					"type": "arrow"
-				},
-				{
-					"id": "b1EbRvC4lNKpT0J0S_7jR",
+					"id": "P1WudD1XIexWPyTQ9mz-O",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715552221440,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 9,
-			"versionNonce": 1456125654,
+			"version": 13,
+			"versionNonce": 786761255,
 			"index": "b1i",
 			"isDeleted": false,
 			"id": "b0CtxO2BSmB6LqNe6NA9R",
@@ -991,8 +867,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -577.9456768035889,
-			"y": 660.3928604125977,
+			"x": -98.30431175231934,
+			"y": 995.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 263.2738037109375,
@@ -1005,28 +881,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "JgPzmmgS"
-				},
-				{
-					"id": "sWiO8xiY7qQ5RuHVtFc1-",
-					"type": "arrow"
-				},
-				{
-					"id": "rc-SqebVNH3Xt5lLoHzfH",
-					"type": "arrow"
-				},
-				{
-					"id": "iUDeVmjMCVslh23W4FB_0",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550509427,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 9,
-			"versionNonce": 1501645194,
+			"version": 13,
+			"versionNonce": 259508231,
 			"index": "b1j",
 			"isDeleted": false,
 			"id": "SIloCTG-GbMDHC9kJrPZw",
@@ -1036,8 +900,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 153.90105628967285,
-			"y": 660.3928604125977,
+			"x": 264.69568824768066,
+			"y": 995.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 263.2738037109375,
@@ -1050,28 +914,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "ZD1fCGXx"
-				},
-				{
-					"id": "n74S6EuzqfRXAeS5VNlxc",
-					"type": "arrow"
-				},
-				{
-					"id": "hA1ZtKDymDzvvzL8jTt2Z",
-					"type": "arrow"
-				},
-				{
-					"id": "pG23VHtzzzaJQ1vaqksGE",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550511096,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 8,
-			"versionNonce": 1899588630,
+			"version": 10,
+			"versionNonce": 1911583657,
 			"index": "b1k",
 			"isDeleted": false,
 			"id": "d8FmXqlfW66gscs9_Wjf9",
@@ -1081,8 +933,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -967.6555080413818,
-			"y": 1180.3928604125977,
+			"x": 263.2998447418213,
+			"y": 1725.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 300.06549072265625,
@@ -1097,22 +949,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "q7kanknH"
 				},
 				{
-					"id": "8LuoI7QeXrX7OYWB2pMSv",
-					"type": "arrow"
-				},
-				{
 					"id": "PhUvYOuaJe_o48RgEtK1f",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550498363,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 10,
-			"versionNonce": 1785956426,
+			"version": 15,
+			"versionNonce": 979589639,
 			"index": "b1l",
 			"isDeleted": false,
 			"id": "LS_WOyW7qNTwIay_10_wp",
@@ -1122,8 +970,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 162.56621742248535,
-			"y": 400.39286041259766,
+			"x": 118.09449195861816,
+			"y": 600.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 192.4761962890625,
@@ -1136,32 +984,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "4XkWO0Mc"
-				},
-				{
-					"id": "7w2DVSs6euQ3oGmOqGi7G",
-					"type": "arrow"
-				},
-				{
-					"id": "g8N8gdSNr-mX6TWwVWHod",
-					"type": "arrow"
-				},
-				{
-					"id": "8XrT-0MKWl1HmCb1drQ80",
-					"type": "arrow"
-				},
-				{
-					"id": "Q3hb-w02QdALXH-uP4r1l",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550513724,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 9,
-			"versionNonce": 1319074134,
+			"version": 14,
+			"versionNonce": 1100995689,
 			"index": "b1m",
 			"isDeleted": false,
 			"id": "reH0YA_2SSzNWdkjt4UbG",
@@ -1171,8 +1003,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -204.09298515319824,
-			"y": 790.3928604125977,
+			"x": -95.31918907165527,
+			"y": 1180.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 257.3035583496094,
@@ -1185,32 +1017,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "I79kO14h"
-				},
-				{
-					"id": "rc-SqebVNH3Xt5lLoHzfH",
-					"type": "arrow"
-				},
-				{
-					"id": "hA1ZtKDymDzvvzL8jTt2Z",
-					"type": "arrow"
-				},
-				{
-					"id": "m3WDKq9My2PYRl9RgGV3F",
-					"type": "arrow"
-				},
-				{
-					"id": "xj05Xy8sEDecbjR3l6XNg",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550510508,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 8,
-			"versionNonce": 137359114,
+			"version": 12,
+			"versionNonce": 1216370727,
 			"index": "b1n",
 			"isDeleted": false,
 			"id": "2oqyGK62ZvnAE1rzBz0GS",
@@ -1220,8 +1036,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -211.76859092712402,
-			"y": 530.3928604125977,
+			"x": -82.30431175231934,
+			"y": 815.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 231.2738037109375,
@@ -1234,28 +1050,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "ucZDBkXX"
-				},
-				{
-					"id": "g8N8gdSNr-mX6TWwVWHod",
-					"type": "arrow"
-				},
-				{
-					"id": "sWiO8xiY7qQ5RuHVtFc1-",
-					"type": "arrow"
-				},
-				{
-					"id": "qSW7sut0z8ISm5I7MAARR",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550512347,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 8,
-			"versionNonce": 1179770518,
+			"version": 12,
+			"versionNonce": 413493865,
 			"index": "b1o",
 			"isDeleted": false,
 			"id": "23i87swJSe2g0XTmildeL",
@@ -1265,8 +1069,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 242.13320350646973,
-			"y": 530.3928604125977,
+			"x": 269.60937690734863,
+			"y": 815.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 253.44642639160156,
@@ -1279,28 +1083,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "448zkTei"
-				},
-				{
-					"id": "8XrT-0MKWl1HmCb1drQ80",
-					"type": "arrow"
-				},
-				{
-					"id": "n74S6EuzqfRXAeS5VNlxc",
-					"type": "arrow"
-				},
-				{
-					"id": "Y_f9K6ulBJ8ZYX1khFS-K",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550513091,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 8,
-			"versionNonce": 1731296714,
+			"version": 12,
+			"versionNonce": 1382713385,
 			"index": "b1p",
 			"isDeleted": false,
 			"id": "ptC0ZI0Mxyoq3L672-XVf",
@@ -1310,8 +1102,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -401.3087673187256,
-			"y": 1050.3928604125977,
+			"x": -116.70015525817871,
+			"y": 1545.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 300.06549072265625,
@@ -1324,28 +1116,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "34sQww9w"
-				},
-				{
-					"id": "-zLbItUWOoDjx_zHRpa69",
-					"type": "arrow"
-				},
-				{
-					"id": "8LuoI7QeXrX7OYWB2pMSv",
-					"type": "arrow"
-				},
-				{
-					"id": "VQFESbX09Wi1g4SdF5HV3",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550507736,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 20,
-			"versionNonce": 2097519574,
+			"version": 36,
+			"versionNonce": 1919293031,
 			"index": "b1q",
 			"isDeleted": false,
 			"id": "ITTlPnHt_60plfz-XASc_",
@@ -1355,8 +1135,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 128.5096836090088,
-			"y": 1196.6428604125977,
+			"x": -492.6436061859131,
+			"y": 1744.2678604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 289.952392578125,
@@ -1369,76 +1149,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "bSQG9Bd4"
-				},
-				{
-					"id": "NYtkAAs-yjRTb2Kue6FOu",
-					"type": "arrow"
-				},
-				{
-					"id": "pJyiCJXXod5fgCmphwB_W",
-					"type": "arrow"
-				},
-				{
-					"id": "b1EbRvC4lNKpT0J0S_7jR",
-					"type": "arrow"
-				},
-				{
-					"id": "Q3hb-w02QdALXH-uP4r1l",
-					"type": "arrow"
-				},
-				{
-					"id": "Y_f9K6ulBJ8ZYX1khFS-K",
-					"type": "arrow"
-				},
-				{
-					"id": "pG23VHtzzzaJQ1vaqksGE",
-					"type": "arrow"
-				},
-				{
-					"id": "qSW7sut0z8ISm5I7MAARR",
-					"type": "arrow"
-				},
-				{
-					"id": "iUDeVmjMCVslh23W4FB_0",
-					"type": "arrow"
-				},
-				{
-					"id": "xj05Xy8sEDecbjR3l6XNg",
-					"type": "arrow"
-				},
-				{
-					"id": "GYFtQP1VMHxet8ZvoaWFr",
-					"type": "arrow"
-				},
-				{
-					"id": "VQFESbX09Wi1g4SdF5HV3",
-					"type": "arrow"
-				},
-				{
-					"id": "HN9mb74S0xmet6IJ4oe53",
-					"type": "arrow"
-				},
-				{
-					"id": "xPi0GfICWucovO19jLNx0",
-					"type": "arrow"
-				},
-				{
-					"id": "DWFVNZwLbIRv2gstW9wv8",
-					"type": "arrow"
-				},
-				{
-					"id": "MlHYvFlUnVwp0PoCWBQ__",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550506946,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 7,
-			"versionNonce": 1955804298,
+			"version": 9,
+			"versionNonce": 165641415,
 			"index": "b1r",
 			"isDeleted": false,
 			"id": "6cmvKknk2les-VD1At3LX",
@@ -1448,8 +1168,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -704.0989513397217,
-			"y": 1334.3065490722656,
+			"x": 48.5855655670166,
+			"y": 1931.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 201.49404907226562,
@@ -1464,20 +1184,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "j1jRzwiX"
-				},
-				{
-					"id": "HN9mb74S0xmet6IJ4oe53",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550499057,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 6,
-			"versionNonce": 953135382,
+			"version": 8,
+			"versionNonce": 1794104265,
 			"index": "b1s",
 			"isDeleted": false,
 			"id": "7DNZIImCvuIcH2OPHkjwT",
@@ -1487,8 +1203,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -109.18824577331543,
-			"y": 1318.0565490722656,
+			"x": -321.1197872161865,
+			"y": 1917.7678604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 268.9047546386719,
@@ -1503,20 +1219,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "JLES0NL6"
-				},
-				{
-					"id": "xPi0GfICWucovO19jLNx0",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550499685,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 7,
-			"versionNonce": 1108349770,
+			"version": 9,
+			"versionNonce": 322160393,
 			"index": "b1t",
 			"isDeleted": false,
 			"id": "ywL40BiA1kZqNx913ESaQ",
@@ -1526,8 +1238,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 649.408483505249,
-			"y": 1334.3065490722656,
+			"x": -628.1049098968506,
+			"y": 1931.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 206.875,
@@ -1542,20 +1254,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "JEhRFxE0"
-				},
-				{
-					"id": "DWFVNZwLbIRv2gstW9wv8",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550492038,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 6,
-			"versionNonce": 891625046,
+			"version": 8,
+			"versionNonce": 1021199943,
 			"index": "b1u",
 			"isDeleted": false,
 			"id": "xGhBh6tTYcJFzKvXK_chH",
@@ -1565,8 +1273,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 906.283483505249,
-			"y": 1334.3065490722656,
+			"x": -959.6555080413818,
+			"y": 1934.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 231.9761962890625,
@@ -1581,20 +1289,16 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				{
 					"type": "text",
 					"id": "gqMVzRiF"
-				},
-				{
-					"id": "MlHYvFlUnVwp0PoCWBQ__",
-					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715550494504,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 14,
-			"versionNonce": 1912805898,
+			"version": 365,
+			"versionNonce": 1239367015,
 			"index": "b1v",
 			"isDeleted": false,
 			"id": "WlkhlTGCazMV3uMCY2GpM",
@@ -1604,8 +1308,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 813.473970413208,
-			"y": 140.39286041259766,
+			"x": 312.2722732320102,
+			"y": 379.5371419295708,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 225.90475463867188,
@@ -1620,46 +1324,26 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					"id": "Qc58lNr4"
 				},
 				{
-					"id": "e1s2gWc8dB_Qucx-H2TYn",
+					"id": "eqwiLHZQ3bN3tUaJiXOT6",
 					"type": "arrow"
 				},
 				{
-					"id": "EsxcnAT8H6JKqh_ivsjVK",
+					"id": "0yyOKOOF8Fn9aDQx6u0E8",
 					"type": "arrow"
 				},
 				{
-					"id": "WYbVtXY0hAA2agpJbpfPr",
-					"type": "arrow"
-				},
-				{
-					"id": "sdFKVrLwXQ6HuuNbP-shE",
-					"type": "arrow"
-				},
-				{
-					"id": "g7che0obotV8_Y4hVBsVH",
-					"type": "arrow"
-				},
-				{
-					"id": "HYEyDk5dvTRCcRtdy1XXI",
-					"type": "arrow"
-				},
-				{
-					"id": "pJyiCJXXod5fgCmphwB_W",
-					"type": "arrow"
-				},
-				{
-					"id": "oEfMhlOFeQqt8VfgZ4UhT",
+					"id": "u33pg5QuIoCVt1Ek2r7Ry",
 					"type": "arrow"
 				}
 			],
-			"updated": 1715415654336,
+			"updated": 1715552204375,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 15,
-			"versionNonce": 124009508,
+			"version": 144,
+			"versionNonce": 1325570729,
 			"index": "b1w",
 			"isDeleted": false,
 			"id": "i0hE-k0L5iEUaP8BdXPD_",
@@ -1669,12 +1353,12 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 539.493491958618,
-			"y": -769.9821395880188,
+			"x": 1065.3325901031494,
+			"y": -639.4821395874023,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 0,
-			"height": 27.575000000616456,
+			"height": 117.5,
 			"seed": 196862358,
 			"groupIds": [],
 			"frameId": null,
@@ -1682,18 +1366,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715415697705,
+			"updated": 1715550483048,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "7JEHFVbi4JGhDGV3Gz40q",
-				"gap": 1,
-				"focus": -0.000005478320663694306
+				"gap": 2,
+				"focus": 0
 			},
 			"endBinding": {
 				"elementId": "Bb3xj13IvifwYNTL-okG_",
-				"gap": 5.299999999999997,
-				"focus": 0.0000011943860371412157
+				"gap": 2,
+				"focus": 0
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1705,14 +1389,14 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				],
 				[
 					0,
-					27.575000000616456
+					117.5
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1076038180,
+			"version": 138,
+			"versionNonce": 291370823,
 			"index": "b1x",
 			"isDeleted": false,
 			"id": "SuxWI89uPmBTBQKnlD0Nb",
@@ -1722,12 +1406,12 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 539.493491958618,
-			"y": -656.1071395874023,
+			"x": 1064.739457945976,
+			"y": -437.98213958740234,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 43.700000000000045,
+			"width": 1.2595311098668844,
+			"height": 89.02198681113447,
 			"seed": 741818070,
 			"groupIds": [],
 			"frameId": null,
@@ -1735,18 +1419,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715415697705,
+			"updated": 1715550596413,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "Bb3xj13IvifwYNTL-okG_",
-				"gap": 1,
-				"focus": -0.0000011943860371412154
+				"gap": 2,
+				"focus": 0
 			},
 			"endBinding": {
 				"elementId": "TK8WHfXtZ_gKJg-AOO6vV",
-				"gap": 5.300000000000011,
-				"focus": 0.000001784784090254942
+				"gap": 2,
+				"focus": 0
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1757,1929 +1441,15 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					0
 				],
 				[
-					0,
-					43.700000000000045
+					-1.2595311098668844,
+					89.02198681113447
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1721476644,
-			"index": "b1y",
-			"isDeleted": false,
-			"id": "auHUBAe7PYIOs0AEJRW3l",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 429.8442519586183,
-			"y": -558.6071395874023,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 142.29099999999994,
-			"height": 534.572,
-			"seed": 2010444822,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697707,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "TK8WHfXtZ_gKJg-AOO6vV",
-				"gap": 1,
-				"focus": 0.0000028053825836399536
-			},
-			"endBinding": {
-				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
-				"gap": 1.9279999999999973,
-				"focus": -0.7769339734358188
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-106.32576000000017,
-					24
-				],
-				[
-					35.96523999999977,
-					534.572
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 585,
-			"versionNonce": 1140662948,
-			"index": "b1z",
-			"isDeleted": false,
-			"id": "fEM2K4ikNRoVCi9RLqE8g",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 482.0005719586182,
-			"y": -558.6071395874023,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 177.80009951821353,
-			"height": 328.0772946877355,
-			"seed": 143262038,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415755068,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "TK8WHfXtZ_gKJg-AOO6vV",
-				"gap": 1,
-				"focus": 0.000002747290460282402
-			},
-			"endBinding": {
-				"elementId": "lo1G9XlX5nlnQATlCHFxB",
-				"gap": 5.164638763427774,
-				"focus": -0.7066754205066335
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-55.75008000000008,
-					24
-				],
-				[
-					122.05001951821345,
-					328.0772946877355
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 165063716,
-			"index": "b20",
-			"isDeleted": false,
-			"id": "SryPCCas4QzlSoL50-3ra",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 650.4724597930908,
-			"y": -570.3802138157318,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 305.9370321655274,
-			"height": 55.47307422832955,
-			"seed": 1907058326,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697710,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "TK8WHfXtZ_gKJg-AOO6vV",
-				"gap": 1,
-				"focus": 0.000005024976252962333
-			},
-			"endBinding": {
-				"elementId": "qJyJiRUOlUy2irEFCLe2l",
-				"gap": 5.300000000000011,
-				"focus": -0.000003622261759366
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					305.9370321655274,
-					35.773074228329506
-				],
-				[
-					305.9370321655274,
-					55.47307422832955
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1762478116,
-			"index": "b21",
-			"isDeleted": false,
-			"id": "UqDK55W-7_VtXiCgDVGsr",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 817.8296375274658,
-			"y": -445.9585104103807,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 242.31114556884768,
-			"height": 61.051370822978356,
-			"seed": 334373846,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697712,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "qJyJiRUOlUy2irEFCLe2l",
-				"gap": 1,
-				"focus": 0.037901129295409494
-			},
-			"endBinding": {
-				"elementId": "bNJIkQ66D_h_ZKmrgFlVJ",
-				"gap": 5.300000000000011,
-				"focus": -9.662611158326895e-7
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-242.31114556884768,
-					41.35137082297837
-				],
-				[
-					-242.31114556884768,
-					61.051370822978356
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1860572708,
-			"index": "b22",
-			"isDeleted": false,
-			"id": "bXJirLOyvUBqJmBzqVmtx",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 876.2692919586182,
-			"y": -423.60713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 33.10179999999991,
-			"height": 38.69999999999999,
-			"seed": 1902590230,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697713,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "qJyJiRUOlUy2irEFCLe2l",
-				"gap": 1,
-				"focus": 0.02057895787632491
-			},
-			"endBinding": {
-				"elementId": "kqGDeYPpCFeiTNM8_khle",
-				"gap": 5.300000000000011,
-				"focus": 6.830820885308144e-7
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-33.10179999999991,
-					19
-				],
-				[
-					-33.10179999999991,
-					38.69999999999999
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1927799844,
-			"index": "b23",
-			"isDeleted": false,
-			"id": "vGrbgDRx8Gb6blv_04zVM",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1094.990343093872,
-			"y": -440.7751151024735,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 173.83814886474602,
-			"height": 55.86797551507112,
-			"seed": 25929302,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697714,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "qJyJiRUOlUy2irEFCLe2l",
-				"gap": 1,
-				"focus": -0.03515497001423303
-			},
-			"endBinding": {
-				"elementId": "Q4D06194-49-eMcl1VPjA",
-				"gap": 5.300000000000011,
-				"focus": 0.0000033135538116566735
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					173.83814886474602,
-					36.167975515071134
-				],
-				[
-					173.83814886474602,
-					55.86797551507112
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 585,
-			"versionNonce": 1871169956,
-			"index": "b24",
-			"isDeleted": false,
-			"id": "DLdUraEOQaUJdwbqAeQxk",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1158.8102626800537,
-			"y": -300.1067636533644,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 275.73103243979426,
-			"height": 58.44301369032382,
-			"seed": 87059350,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415755068,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "Q4D06194-49-eMcl1VPjA",
-				"gap": 1,
-				"focus": -0.000007277177896010802
-			},
-			"endBinding": {
-				"elementId": "lo1G9XlX5nlnQATlCHFxB",
-				"gap": 3.2390000000000327,
-				"focus": 0.000012938519183469764
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-274.4537707214356,
-					57.99962406596205
-				],
-				[
-					-275.73103243979426,
-					58.44301369032382
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1889499428,
-			"index": "b25",
-			"isDeleted": false,
-			"id": "P1PbichNPUIBCBmZ1TOwx",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1290.0664519586182,
-			"y": -266.10713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 13.217999999999847,
-			"height": 44.543000000000006,
-			"seed": 1519028438,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697715,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "Q4D06194-49-eMcl1VPjA",
-				"gap": 1,
-				"focus": -0.000006630794649270333
-			},
-			"endBinding": {
-				"elementId": "VrX7rcxUrBbePOJO6Tx59",
-				"gap": 4.456999999999994,
-				"focus": 0.0000060683958572558115
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					8.903039999999919,
-					24
-				],
-				[
-					-4.314959999999928,
-					44.543000000000006
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1130790948,
-			"index": "b26",
-			"isDeleted": false,
-			"id": "IgEa4nf1nl2QHKkqRq9AR",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 846.5797971019877,
-			"y": -266.10713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 269.18169485663043,
-			"height": 78.88699471532937,
-			"seed": 1362034198,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697718,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "kqGDeYPpCFeiTNM8_khle",
-				"gap": 1,
-				"focus": 0.6499352589665963
-			},
-			"endBinding": {
-				"elementId": "VrX7rcxUrBbePOJO6Tx59",
-				"gap": 5.196121032714927,
-				"focus": -0.12897388417780875
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					269.18169485663043,
-					78.88699471532937
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1151573284,
-			"index": "b27",
-			"isDeleted": false,
-			"id": "e1s2gWc8dB_Qucx-H2TYn",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1245.915159864017,
-			"y": -103.60713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 201.34266790539868,
-			"height": 260.02100005378884,
-			"seed": 2115160918,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697731,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "VrX7rcxUrBbePOJO6Tx59",
-				"gap": 1,
-				"focus": -0.2572884514518433
-			},
-			"endBinding": {
-				"elementId": "WlkhlTGCazMV3uMCY2GpM",
-				"gap": 5.193766906738347,
-				"focus": 0.6694199454452473
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-201.34266790539868,
-					260.02100005378884
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1988697124,
-			"index": "b28",
-			"isDeleted": false,
-			"id": "JMX1JgdQ7eKyp6xBn0EHd",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 574.938557664283,
-			"y": -266.10713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 26.64411914179118,
-			"height": 45.697,
-			"seed": 260763798,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697719,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "bNJIkQ66D_h_ZKmrgFlVJ",
-				"gap": 1,
-				"focus": -0.2230030065385645
-			},
-			"endBinding": {
-				"elementId": "zJQ7FOqpQTO6BKixIpe3Q",
-				"gap": 3.3029999999999973,
-				"focus": 0.31107943043269837
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-26.64411914179118,
-					45.697
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 151,
-			"versionNonce": 1677946916,
-			"index": "b29",
-			"isDeleted": false,
-			"id": "jx1A-GJBnsURP8ZxlYHwU",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 467.50335607526006,
-			"y": -103.60713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 181.6924311994237,
-			"height": 141.32371549332737,
-			"seed": 558656982,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415728554,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "zJQ7FOqpQTO6BKixIpe3Q",
-				"gap": 1,
-				"focus": -0.40282785950202415
-			},
-			"endBinding": {
-				"elementId": "6hkWnYrRYsPZ7YTrkVvpF",
-				"gap": 4.881373504638759,
-				"focus": 0.35447783750366757
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-181.6924311994237,
-					141.32371549332737
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 151,
-			"versionNonce": 1232647972,
-			"index": "b2A",
-			"isDeleted": false,
-			"id": "EsxcnAT8H6JKqh_ivsjVK",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 281.9295513711976,
-			"y": 164.9164567238405,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 526.2679405874206,
-			"height": 16.440949176018677,
-			"seed": 275530518,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415728554,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "6hkWnYrRYsPZ7YTrkVvpF",
-				"gap": 1,
-				"focus": 0.754097802030709
-			},
-			"endBinding": {
-				"elementId": "WlkhlTGCazMV3uMCY2GpM",
-				"gap": 5.276478454589778,
-				"focus": -0.046885764801094715
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					526.2679405874206,
-					16.440949176018677
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 585,
-			"versionNonce": 2010427556,
-			"index": "b2B",
-			"isDeleted": false,
-			"id": "E5qd5nW8ppDaf2IUOiWXF",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 684.0424659691232,
-			"y": -136.31821025112242,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 194.64752642325993,
-			"height": 114.050814903661,
-			"seed": 1331654742,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415755069,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "lo1G9XlX5nlnQATlCHFxB",
-				"gap": 1,
-				"focus": 0.000004693444617772996
-			},
-			"endBinding": {
-				"elementId": "AZa7S2M-Y5aZJ3ZVsmQky",
-				"gap": 5.083924743652233,
-				"focus": -0.000007384355106908363
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-59.91497401050515,
-					56.71107066372008
-				],
-				[
-					134.73255241275479,
-					114.050814903661
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 585,
-			"versionNonce": 1096013732,
-			"index": "b2C",
-			"isDeleted": false,
-			"id": "j4wm_Q8YW9Ihuxay4NjGb",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 814.7729172286696,
-			"y": -136.31821025112242,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 195.73399999999992,
-			"height": 118.03707066372013,
-			"seed": 972748182,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415755069,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "lo1G9XlX5nlnQATlCHFxB",
-				"gap": 1,
-				"focus": -0.0000017354294038772142
-			},
-			"endBinding": {
-				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
-				"gap": 5.057750823974629,
-				"focus": -0.03242939752178347
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					69.58357472994851,
-					56.71107066372008
-				],
-				[
-					-126.15042527005141,
-					118.03707066372013
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1177152292,
-			"index": "b2D",
-			"isDeleted": false,
-			"id": "WYbVtXY0hAA2agpJbpfPr",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 954.9923964447441,
-			"y": 58.89286041259767,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 8.77674020994823,
-			"height": 76.65099999999994,
-			"seed": 1769198294,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697732,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "AZa7S2M-Y5aZJ3ZVsmQky",
-				"gap": 1,
-				"focus": -0.033719028160139705
-			},
-			"endBinding": {
-				"elementId": "WlkhlTGCazMV3uMCY2GpM",
-				"gap": 4.849000000000046,
-				"focus": 0.1219476985530274
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-8.77674020994823,
-					76.65099999999994
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 175927844,
-			"index": "b2E",
-			"isDeleted": false,
-			"id": "sdFKVrLwXQ6HuuNbP-shE",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 461.8180910150945,
-			"y": 63.20805387738315,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 474.615,
-			"height": 104.22280653521452,
-			"seed": 140445718,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697732,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
-				"gap": 1,
-				"focus": 0.02859524526365885
-			},
-			"endBinding": {
-				"elementId": "WlkhlTGCazMV3uMCY2GpM",
-				"gap": 5.26847845458974,
-				"focus": 0.04554963199761163
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-128.22759905647627,
-					52.184806535214506
-				],
-				[
-					346.38740094352374,
-					104.22280653521452
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 857230628,
-			"index": "b2F",
-			"isDeleted": false,
-			"id": "C-CiqaE-IHc7IVqGJemmF",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 498.6786658716616,
-			"y": 63.892860412597656,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 83.3941739130434,
-			"height": 201.20000000000005,
-			"seed": 649172310,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697721,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
-				"gap": 1,
-				"focus": 0.022584208335742536
-			},
-			"endBinding": {
-				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
-				"gap": 5.2999999999999545,
-				"focus": -0.0000035829555635178523
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-83.3941739130434,
-					51.5
-				],
-				[
-					-83.3941739130434,
-					201.20000000000005
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 630495268,
-			"index": "b2G",
-			"isDeleted": false,
-			"id": "NYtkAAs-yjRTb2Kue6FOu",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 620.6972136977486,
-			"y": 63.892860412597656,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 250.24398559131134,
-			"height": 1132.2292240275524,
-			"seed": 230718102,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697727,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
-				"gap": 1,
-				"focus": -0.016740603885484262
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 5.231415771484308,
-				"focus": 0.9606990536725557
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					53.214278260869605,
-					51.5
-				],
-				[
-					-197.02970733044174,
-					1132.2292240275524
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1125726500,
-			"index": "b2H",
-			"isDeleted": false,
-			"id": "g7che0obotV8_Y4hVBsVH",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 860.4718119586182,
-			"y": 139.39286041259766,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 175.90707082397466,
-			"height": 77.82756583353898,
-			"seed": 339785686,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697732,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "WlkhlTGCazMV3uMCY2GpM",
-				"gap": 1,
-				"focus": 0.022187380794749516
-			},
-			"endBinding": {
-				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
-				"gap": 1,
-				"focus": -0.029157066548960452
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-38.60832000000005,
-					-24
-				],
-				[
-					-175.90707082397466,
-					-77.82756583353898
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 309346340,
-			"index": "b2I",
-			"isDeleted": false,
-			"id": "HYEyDk5dvTRCcRtdy1XXI",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 812.4739704132081,
-			"y": 224.3407344485919,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 260.34547845458985,
-			"height": 60.0891259640058,
-			"seed": 1917275414,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697732,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "WlkhlTGCazMV3uMCY2GpM",
-				"gap": 1,
-				"focus": 0.029044646496561792
-			},
-			"endBinding": {
-				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
-				"gap": 5.206626495361434,
-				"focus": -0.03706261497633525
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-54.586478454590065,
-					21.052125964005768
-				],
-				[
-					-260.34547845458985,
-					60.0891259640058
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1056016164,
-			"index": "b2J",
-			"isDeleted": false,
-			"id": "pJyiCJXXod5fgCmphwB_W",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 970.9992519586181,
-			"y": 226.39286041259766,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 565.6690000000001,
-			"height": 980.3580000000002,
-			"seed": 357120598,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697732,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "WlkhlTGCazMV3uMCY2GpM",
-				"gap": 1,
-				"focus": -0.01572110734506934
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 5.278415771484333,
-				"focus": 0.8947896833385075
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					18.410240000000158,
-					19
-				],
-				[
-					-547.2587599999999,
-					980.3580000000002
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 17,
-			"versionNonce": 886611620,
-			"index": "b2K",
-			"isDeleted": false,
-			"id": "oEfMhlOFeQqt8VfgZ4UhT",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1040.37872505188,
-			"y": 203.57232030035516,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 205.59476690673796,
-			"height": 1107.7195401122424,
-			"seed": 1947959190,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415723268,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "WlkhlTGCazMV3uMCY2GpM",
-				"focus": -0.03818006634952704,
-				"gap": 1.0000000000002274
-			},
-			"endBinding": {
-				"elementId": "D0uwL6QjRFzXLWGI_nNkG",
-				"focus": -0.000008223958381101891,
-				"gap": 5.300401857256404
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					205.59476690673796,
-					41.8205401122425
-				],
-				[
-					205.59476690673796,
-					1107.7195401122424
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1112875300,
-			"index": "b2L",
-			"isDeleted": false,
-			"id": "7w2DVSs6euQ3oGmOqGi7G",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 304.5450919586182,
-			"y": 356.39286041259766,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 45.74059999999997,
-			"height": 38.700000000000045,
-			"seed": 1660099798,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697724,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
-				"gap": 1,
-				"focus": 0.0257231698610972
-			},
-			"endBinding": {
-				"elementId": "LS_WOyW7qNTwIay_10_wp",
-				"gap": 5.2999999999999545,
-				"focus": 0.0000018328666609139895
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-45.74059999999997,
-					19
-				],
-				[
-					-45.74059999999997,
-					38.700000000000045
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 17,
-			"versionNonce": 849478948,
-			"index": "b2M",
-			"isDeleted": false,
-			"id": "b1EbRvC4lNKpT0J0S_7jR",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 532.2726919586182,
-			"y": 356.39286041259766,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 189.71000000000004,
-			"height": 839.1529999999998,
-			"seed": 1734677014,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415729551,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
-				"focus": -0.026524492660546135,
-				"gap": 1
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"focus": 0.7420108537415222,
-				"gap": 1.0970000000002074
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					48.32079999999996,
-					19
-				],
-				[
-					-141.38920000000007,
-					839.1529999999998
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 626809124,
-			"index": "b2N",
-			"isDeleted": false,
-			"id": "g8N8gdSNr-mX6TWwVWHod",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 161.56621742248535,
-			"y": 458.20004314467843,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 257.6977254638672,
-			"height": 66.89281726791927,
-			"seed": 208035670,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697725,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "LS_WOyW7qNTwIay_10_wp",
-				"gap": 1,
-				"focus": 0.04158498576321222
-			},
-			"endBinding": {
-				"elementId": "2oqyGK62ZvnAE1rzBz0GS",
-				"gap": 5.2999999999999545,
-				"focus": 0.0000015655060844216847
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-257.6977254638672,
-					47.192817267919224
-				],
-				[
-					-257.6977254638672,
-					66.89281726791927
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 276311588,
-			"index": "b2O",
-			"isDeleted": false,
-			"id": "8XrT-0MKWl1HmCb1drQ80",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 336.68721195861815,
-			"y": 486.39286041259766,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 32.16927999999996,
-			"height": 38.700000000000045,
-			"seed": 910951574,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697726,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "LS_WOyW7qNTwIay_10_wp",
-				"gap": 1,
-				"focus": -0.02516221543291104
-			},
-			"endBinding": {
-				"elementId": "23i87swJSe2g0XTmildeL",
-				"gap": 5.2999999999999545,
-				"focus": 5.938639472752503e-7
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					32.16927999999996,
-					19
-				],
-				[
-					32.16927999999996,
-					38.700000000000045
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1449877540,
-			"index": "b2P",
-			"isDeleted": false,
-			"id": "sWiO8xiY7qQ5RuHVtFc1-",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -212.76859092712402,
-			"y": 592.0434944555361,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 233.53991711425783,
-			"height": 63.04936595706158,
-			"seed": 1993015766,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697725,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "2oqyGK62ZvnAE1rzBz0GS",
-				"gap": 1,
-				"focus": -0.000010556861114290796
-			},
-			"endBinding": {
-				"elementId": "b0CtxO2BSmB6LqNe6NA9R",
-				"gap": 5.2999999999999545,
-				"focus": 0.0000020275981468653256
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-233.53991711425783,
-					43.349365957061536
-				],
-				[
-					-233.53991711425783,
-					63.04936595706158
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 335985956,
-			"index": "b2Q",
-			"isDeleted": false,
-			"id": "rc-SqebVNH3Xt5lLoHzfH",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -453.38554804138187,
-			"y": 746.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 246.99099999999993,
-			"height": 61.15200000000027,
-			"seed": 1626887958,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697725,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "b0CtxO2BSmB6LqNe6NA9R",
-				"gap": 1,
-				"focus": 0.0027843879837639684
-			},
-			"endBinding": {
-				"elementId": "reH0YA_2SSzNWdkjt4UbG",
-				"gap": 5.224522888183628,
-				"focus": 0.0000063050482491749426
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2.922959999999989,
-					19
-				],
-				[
-					244.06803999999994,
-					61.15200000000027
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 307623204,
-			"index": "b2R",
-			"isDeleted": false,
-			"id": "n74S6EuzqfRXAeS5VNlxc",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 316.3016519586182,
-			"y": 611.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 30.76416000000006,
-			"height": 43.700000000000045,
-			"seed": 1565066326,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697726,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "23i87swJSe2g0XTmildeL",
-				"gap": 1,
-				"focus": -0.0000037936429065433526
-			},
-			"endBinding": {
-				"elementId": "SIloCTG-GbMDHC9kJrPZw",
-				"gap": 5.2999999999999545,
-				"focus": -0.0000035414577286673174
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-30.76416000000006,
-					24
-				],
-				[
-					-30.76416000000006,
-					43.700000000000045
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1624032292,
-			"index": "b2S",
-			"isDeleted": false,
-			"id": "hA1ZtKDymDzvvzL8jTt2Z",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 233.65073195861822,
-			"y": 746.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 175.27024,
-			"height": 53.761999999999944,
-			"seed": 2106722710,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697725,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "SIloCTG-GbMDHC9kJrPZw",
-				"gap": 1,
-				"focus": 0.01570910770181793
-			},
-			"endBinding": {
-				"elementId": "reH0YA_2SSzNWdkjt4UbG",
-				"gap": 5.1699187622070895,
-				"focus": 0.000011875081665852782
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-21.43124000000006,
-					19
-				],
-				[
-					-175.27024,
-					53.761999999999944
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 989661988,
-			"index": "b2T",
-			"isDeleted": false,
-			"id": "m3WDKq9My2PYRl9RgGV3F",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -127.99630804138181,
-			"y": 871.3928604125978,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 30.76320000000007,
-			"height": 43.69999999999993,
-			"seed": 1359505110,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697725,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "reH0YA_2SSzNWdkjt4UbG",
-				"gap": 1,
-				"focus": 0.000007236747661230417
-			},
-			"endBinding": {
-				"elementId": "viBFwIrcLk3omNFCol2Ce",
-				"gap": 5.2999999999999545,
-				"focus": 0.0000011308739719152601
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-30.76320000000007,
-					23.999999999999886
-				],
-				[
-					-30.76320000000007,
-					43.69999999999993
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1542472484,
-			"index": "b2U",
-			"isDeleted": false,
-			"id": "-zLbItUWOoDjx_zHRpa69",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -224.23266804138186,
-			"y": 1006.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 27.04383999999996,
-			"height": 38.700000000000045,
-			"seed": 943791126,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697727,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "viBFwIrcLk3omNFCol2Ce",
-				"gap": 1,
-				"focus": 0.018512760395213095
-			},
-			"endBinding": {
-				"elementId": "ptC0ZI0Mxyoq3L672-XVf",
-				"gap": 5.2999999999999545,
-				"focus": -0.0000032398526280729628
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-27.04383999999996,
-					19
-				],
-				[
-					-27.04383999999996,
-					38.700000000000045
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1955383844,
-			"index": "b2V",
-			"isDeleted": false,
-			"id": "8LuoI7QeXrX7OYWB2pMSv",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -303.3249880413818,
-			"y": 1131.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 359.01252000000005,
-			"height": 68.13799999999992,
-			"seed": 959523158,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697727,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "ptC0ZI0Mxyoq3L672-XVf",
-				"gap": 1,
-				"focus": 0.0000014246362879254573
-			},
-			"endBinding": {
-				"elementId": "d8FmXqlfW66gscs9_Wjf9",
-				"gap": 5.252509277343734,
-				"focus": -0.03990650653129371
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-30.46751999999998,
-					24
-				],
-				[
-					-359.01252000000005,
-					68.13799999999992
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1477597732,
+			"version": 102,
+			"versionNonce": 1060057223,
 			"index": "b2W",
 			"isDeleted": false,
 			"id": "PhUvYOuaJe_o48RgEtK1f",
@@ -3689,12 +1459,12 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -817.6225080413818,
-			"y": 1266.3928604125977,
+			"x": 413.7453244599998,
+			"y": 1812.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 39.090000000000146,
+			"width": 0.09932321786789089,
+			"height": 95.97620660625898,
 			"seed": 1395494550,
 			"groupIds": [],
 			"frameId": null,
@@ -3702,18 +1472,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715415697723,
+			"updated": 1715550853551,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "d8FmXqlfW66gscs9_Wjf9",
-				"gap": 1,
-				"focus": -0.0000016972206383932132
+				"gap": 2,
+				"focus": 0
 			},
 			"endBinding": {
 				"elementId": "ZCcAUCLLHSeot7PG3VgJN",
-				"gap": 5.299877319806853,
-				"focus": 0.000004008554689796558
+				"gap": 2,
+				"focus": 0
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3724,752 +1494,15 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					0
 				],
 				[
-					0,
-					39.090000000000146
+					0.09932321786789089,
+					95.97620660625898
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1865755940,
-			"index": "b2X",
-			"isDeleted": false,
-			"id": "Q3hb-w02QdALXH-uP4r1l",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 356.04241371154785,
-			"y": 462.62953066804175,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 186.99407824707032,
-			"height": 732.7713297445557,
-			"seed": 1391152086,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697728,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "LS_WOyW7qNTwIay_10_wp",
-				"gap": 1,
-				"focus": -0.03876279860845119
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 1.2420000000001892,
-				"focus": 0.6479162854676732
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					186.99407824707032,
-					42.763329744555904
-				],
-				[
-					21.085078247070214,
-					732.7713297445557
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 924791844,
-			"index": "b2Y",
-			"isDeleted": false,
-			"id": "Y_f9K6ulBJ8ZYX1khFS-K",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 421.4112919586182,
-			"y": 611.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 108.41799999999989,
-			"height": 583.4380000000001,
-			"seed": 645882134,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697728,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "23i87swJSe2g0XTmildeL",
-				"gap": 1,
-				"focus": -0.00000604092845347237
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 1.8119999999998981,
-				"focus": 0.43667085330163813
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					30.76319999999987,
-					24
-				],
-				[
-					-77.65480000000002,
-					583.4380000000001
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 326335268,
-			"index": "b2Z",
-			"isDeleted": false,
-			"id": "pG23VHtzzzaJQ1vaqksGE",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 292.61453195861816,
-			"y": 746.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 12.29099999999994,
-			"height": 445.231,
-			"seed": 828296790,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697728,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "SIloCTG-GbMDHC9kJrPZw",
-				"gap": 1,
-				"focus": -0.0027829457573243523
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 5.0190000000000055,
-				"focus": 0.0613136779561409
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.922959999999989,
-					19
-				],
-				[
-					-9.36803999999995,
-					445.231
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 513933860,
-			"index": "b2a",
-			"isDeleted": false,
-			"id": "qSW7sut0z8ISm5I7MAARR",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 20.50521278381349,
-			"y": 605.6500517703282,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 191.6122791748046,
-			"height": 588.9388086422694,
-			"seed": 543069078,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697728,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "2oqyGK62ZvnAE1rzBz0GS",
-				"gap": 1,
-				"focus": 0.000009137525939461027
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 2.0540000000000873,
-				"focus": -0.38316622148319585
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					98.39627917480469,
-					29.742808642269438
-				],
-				[
-					191.6122791748046,
-					588.9388086422694
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 387631396,
-			"index": "b2b",
-			"isDeleted": false,
-			"id": "iUDeVmjMCVslh23W4FB_0",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -439.23146804138185,
-			"y": 746.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 562.46296,
-			"height": 460.2399999999998,
-			"seed": 1035186390,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697728,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "b0CtxO2BSmB6LqNe6NA9R",
-				"gap": 1,
-				"focus": -0.0027882512953834584
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 5.278191650390681,
-				"focus": -0.7584805935042463
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.922959999999989,
-					19
-				],
-				[
-					562.46296,
-					460.2399999999998
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1598935076,
-			"index": "b2c",
-			"isDeleted": false,
-			"id": "xj05Xy8sEDecbjR3l6XNg",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -10.77730804138183,
-			"y": 871.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 189.1038000000001,
-			"height": 323.89800000000014,
-			"seed": 1156785686,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697728,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "reH0YA_2SSzNWdkjt4UbG",
-				"gap": 1,
-				"focus": 0.000006790781723785897
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 1.3519999999998618,
-				"focus": -0.5256269173285611
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					37.85279999999999,
-					24
-				],
-				[
-					189.1038000000001,
-					323.89800000000014
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 2108364580,
-			"index": "b2d",
-			"isDeleted": false,
-			"id": "GYFtQP1VMHxet8ZvoaWFr",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -93.28658804138183,
-			"y": 1006.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 237.4301369854453,
-			"height": 189.25,
-			"seed": 923923286,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697728,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "viBFwIrcLk3omNFCol2Ce",
-				"gap": 1,
-				"focus": -0.018522281137462536
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 1,
-				"focus": -0.5665121630992132
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					27.04308000000003,
-					19
-				],
-				[
-					237.4301369854453,
-					189.25
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 480419364,
-			"index": "b2e",
-			"isDeleted": false,
-			"id": "VQFESbX09Wi1g4SdF5HV3",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -199.22702804138186,
-			"y": 1131.3928604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 322.49352,
-			"height": 66.92099999999982,
-			"seed": 778377366,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697729,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "ptC0ZI0Mxyoq3L672-XVf",
-				"gap": 1,
-				"focus": -0.000001563233776309292
-			},
-			"endBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 5.2431916503905995,
-				"focus": 0.000005753415459239069
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					30.46751999999998,
-					24
-				],
-				[
-					322.49352,
-					66.92099999999982
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1708261668,
-			"index": "b2f",
-			"isDeleted": false,
-			"id": "HN9mb74S0xmet6IJ4oe53",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 127.50968360900876,
-			"y": 1231.2139764023707,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 730.8611916503905,
-			"height": 97.792884010227,
-			"seed": 849450454,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697730,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 1,
-				"focus": 0.0000037155914064022835
-			},
-			"endBinding": {
-				"elementId": "6cmvKknk2les-VD1At3LX",
-				"gap": 5.299688659667936,
-				"focus": 0.000004156571461370415
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-730.8611916503905,
-					54.178884010226966
-				],
-				[
-					-730.8611916503905,
-					97.792884010227
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 21,
-			"versionNonce": 1810722076,
-			"index": "b2g",
-			"isDeleted": false,
-			"id": "xPi0GfICWucovO19jLNx0",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 178.97070407983023,
-			"y": 1245.1428604125977,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 153.7062121212121,
-			"height": 67.61400000000003,
-			"seed": 215771926,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415717556,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 1,
-				"focus": 7.460281086036791e-7
-			},
-			"endBinding": {
-				"elementId": "7DNZIImCvuIcH2OPHkjwT",
-				"gap": 5.299688659667936,
-				"focus": 0.000002680596690077944
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-153.7062121212121,
-					40.25
-				],
-				[
-					-153.7062121212121,
-					67.61400000000003
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 2064011044,
-			"index": "b2h",
-			"isDeleted": false,
-			"id": "DWFVNZwLbIRv2gstW9wv8",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 419.4620761871338,
-			"y": 1240.1864030331535,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 333.38341577148435,
-			"height": 88.82045737944418,
-			"seed": 462067798,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697730,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 1,
-				"focus": -0.000015744289743878616
-			},
-			"endBinding": {
-				"elementId": "ywL40BiA1kZqNx913ESaQ",
-				"gap": 5.299688659667936,
-				"focus": -0.0000047521124435820846
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					333.38341577148435,
-					45.206457379444146
-				],
-				[
-					333.38341577148435,
-					88.82045737944418
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 15,
-			"versionNonce": 1989137956,
-			"index": "b2i",
-			"isDeleted": false,
-			"id": "MlHYvFlUnVwp0PoCWBQ__",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 419.4620761871338,
-			"y": 1233.0646315725799,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 602.8094157714843,
-			"height": 95.94222884001783,
-			"seed": 645995926,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415697731,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "ITTlPnHt_60plfz-XASc_",
-				"gap": 1,
-				"focus": -5.859849750988053e-7
-			},
-			"endBinding": {
-				"elementId": "xGhBh6tTYcJFzKvXK_chH",
-				"gap": 5.299688659667936,
-				"focus": -7.732790142862803e-7
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					602.8094157714843,
-					52.3282288400178
-				],
-				[
-					602.8094157714843,
-					95.94222884001783
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 63,
-			"versionNonce": 940211612,
-			"index": "b2j",
-			"isDeleted": false,
-			"id": "YmDDoqJcrjPSZVOK8Q6I8",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1238.4220757140565,
-			"y": 1432.533144533404,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1214.5138022283113,
-			"height": 81.97522565684972,
-			"seed": 854915798,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415702528,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "D0uwL6QjRFzXLWGI_nNkG",
-				"gap": 1,
-				"focus": -0.9977745426589106
-			},
-			"endBinding": {
-				"elementId": "nXkEOrEo6Jp9aigtkr1P6",
-				"gap": 6.9938034063359815,
-				"focus": -0.30792739821281884
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1214.5138022283113,
-					81.97522565684972
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 63,
-			"versionNonce": 46450332,
+			"version": 150,
+			"versionNonce": 2021915335,
 			"index": "b2k",
 			"isDeleted": false,
 			"id": "G4nGL_WgM7zOSWsF-3lk8",
@@ -4479,12 +1512,12 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -810.9846609770871,
-			"y": 1438.4879937090438,
+			"x": 413.8446381037496,
+			"y": 2039.5416538012703,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 743.3994999081799,
-			"height": 74.80901928145909,
+			"width": 0.34984275171018453,
+			"height": 95.97651511795743,
 			"seed": 1467691030,
 			"groupIds": [],
 			"frameId": null,
@@ -4492,18 +1525,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715415702528,
+			"updated": 1715550853551,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "ZCcAUCLLHSeot7PG3VgJN",
-				"gap": 1,
-				"focus": 0.9948124808169857
+				"gap": 2,
+				"focus": 0
 			},
 			"endBinding": {
 				"elementId": "nXkEOrEo6Jp9aigtkr1P6",
-				"gap": 7.153693501691581,
-				"focus": 0.30049483821043566
+				"gap": 2,
+				"focus": 0
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -4514,121 +1547,15 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 					0
 				],
 				[
-					743.3994999081799,
-					74.80901928145909
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 63,
-			"versionNonce": 2017513372,
-			"index": "b2l",
-			"isDeleted": false,
-			"id": "8-TeGbwb04IZiDQcvuq02",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -384.3280063833257,
-			"y": 1439.0734341148604,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 317.89205240537274,
-			"height": 70.34600531205228,
-			"seed": 269008214,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415702528,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "EfMOpgO-qq84CoXfOSRR5",
-				"gap": 1,
-				"focus": 0.9746634412567516
-			},
-			"endBinding": {
-				"elementId": "nXkEOrEo6Jp9aigtkr1P6",
-				"gap": 7.574183290832483,
-				"focus": 0.26355875567954123
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					317.89205240537274,
-					70.34600531205228
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 63,
-			"versionNonce": 588159132,
-			"index": "b2m",
-			"isDeleted": false,
-			"id": "oB3L1prXVCGARwWasDBIU",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -213.56110230717928,
-			"y": 1433.00153624852,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 149.77714995356035,
-			"height": 70.53016797007103,
-			"seed": 301114006,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1715415702528,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "BgR_DOROr9ae1kb8t5jAH",
-				"gap": 1,
-				"focus": 0.8935761586153195
-			},
-			"endBinding": {
-				"elementId": "nXkEOrEo6Jp9aigtkr1P6",
-				"gap": 8.043228257581976,
-				"focus": 0.16023482716842635
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					149.77714995356035,
-					70.53016797007103
+					-0.34984275171018453,
+					95.97651511795743
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 7,
-			"versionNonce": 2127108758,
+			"version": 73,
+			"versionNonce": 362808487,
 			"index": "b2n",
 			"isDeleted": false,
 			"id": "Cd6nteBp",
@@ -4638,23 +1565,23 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 521.2423348841431,
-			"y": -838.5341777878306,
+			"x": 1036.8561522864447,
+			"y": -696.5341777878306,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 36.799957275390625,
-			"height": 50,
+			"width": 56.699951171875,
+			"height": 25,
 			"seed": 535683030,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654338,
+			"updated": 1715550483003,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Sta\nrt",
+			"text": "Start",
 			"rawText": "Start",
 			"textAlign": "center",
 			"verticalAlign": "middle",
@@ -4664,8 +1591,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 29,
-			"versionNonce": 696382620,
+			"version": 32,
+			"versionNonce": 352455176,
 			"index": "b2o",
 			"isDeleted": false,
 			"id": "pLkDjtlt",
@@ -4675,18 +1602,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -38.956032572566144,
-			"y": 1518.1681995315053,
+			"x": 396.3444937386832,
+			"y": 2167.4658222121693,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 34.19996643066406,
+			"width": 34.199981689453125,
 			"height": 25,
 			"seed": 1578071318,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415702509,
+			"updated": 1715550482980,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4701,8 +1628,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 7,
-			"versionNonce": 1906830614,
+			"version": 200,
+			"versionNonce": 496370601,
 			"index": "b2p",
 			"isDeleted": false,
 			"id": "783zOyrg",
@@ -4712,34 +1639,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1210.2438430059435,
-			"y": 1349.496385501671,
+			"x": 957.6896471499988,
+			"y": 2149.584764955016,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 71.83992004394531,
-			"height": 50,
+			"width": 71.83993530273438,
+			"height": 25,
 			"seed": 634151510,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654339,
+			"updated": 1715550839891,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Defeat\ned",
-			"rawText": "Defeated",
+			"text": "Defeat",
+			"rawText": "Defeat",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "D0uwL6QjRFzXLWGI_nNkG",
-			"originalText": "Defeated",
+			"originalText": "Defeat",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 1475610262,
+			"version": 50,
+			"versionNonce": 1194907207,
 			"index": "b2q",
 			"isDeleted": false,
 			"id": "jWlrHZgN",
@@ -4749,34 +1676,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -856.4008429089963,
-			"y": 1336.888431306702,
+			"x": 364.00315530643985,
+			"y": 1949.099742647034,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 77.71992492675781,
-			"height": 75,
+			"width": 100.07989501953125,
+			"height": 50,
 			"seed": 1509533590,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550853550,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Gates\\\nnDestro\nyed",
-			"rawText": "Gates\\nDestroyed",
+			"text": "Gates\nDestroyed",
+			"rawText": "Gates Destroyed",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "ZCcAUCLLHSeot7PG3VgJN",
-			"originalText": "Gates\\nDestroyed",
+			"originalText": "Gates Destroyed",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 7,
-			"versionNonce": 529914454,
+			"version": 11,
+			"versionNonce": 738609959,
 			"index": "b2r",
 			"isDeleted": false,
 			"id": "KH6UsV38",
@@ -4786,18 +1713,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -427.38497812271237,
-			"y": 1336.6127464103686,
+			"x": 1454.638810329436,
+			"y": -721.6759422492993,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 76.99992370605469,
+			"width": 76.99995422363281,
 			"height": 75,
 			"seed": 986465494,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654340,
+			"updated": 1715550483006,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4812,8 +1739,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 7,
-			"versionNonce": 1272192918,
+			"version": 10,
+			"versionNonce": 285398375,
 			"index": "b2s",
 			"isDeleted": false,
 			"id": "41eiILHJ",
@@ -4823,18 +1750,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -252.37983407362225,
-			"y": 1349.4395648063826,
+			"x": 1236.935629946153,
+			"y": -708.8491238532854,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 71.0599365234375,
+			"width": 71.05995178222656,
 			"height": 50,
 			"seed": 970537494,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654341,
+			"updated": 1715550482980,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4849,8 +1776,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 859606154,
+			"version": 12,
+			"versionNonce": 451606093,
 			"index": "b2t",
 			"isDeleted": false,
 			"id": "RdRtmJ0v",
@@ -4860,34 +1787,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 388.1134662628174,
-			"y": -722.1071395874023,
+			"x": 918.6227207183838,
+			"y": -504.98213958740234,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 302.7596740722656,
+			"width": 293.41973876953125,
 			"height": 50,
 			"seed": 1310033750,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482980,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "The Monastery of the\\nArches\nburns to the ground",
-			"rawText": "The Monastery of the\\nArches burns to the ground",
+			"text": "The Monastery of the Arches\nburns to the ground",
+			"rawText": "The Monastery of the Arches burns to the ground",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "Bb3xj13IvifwYNTL-okG_",
-			"originalText": "The Monastery of the\\nArches burns to the ground",
+			"originalText": "The Monastery of the Arches burns to the ground",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 369613078,
+			"version": 68,
+			"versionNonce": 1104486887,
 			"index": "b2u",
 			"isDeleted": false,
 			"id": "xq9gLg7D",
@@ -4897,34 +1824,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 439.7234134674072,
-			"y": -595.8571395874023,
+			"x": 1005.3718249407884,
+			"y": -287.36886797109537,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 199.53976440429688,
-			"height": 25,
+			"width": 113.77989196777344,
+			"height": 50,
 			"seed": 1205218454,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550592586,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Investigate the fire",
-			"rawText": "Investigate the fire",
+			"text": "Investigate\nthe fire?",
+			"rawText": "Investigate the fire?",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "TK8WHfXtZ_gKJg-AOO6vV",
-			"originalText": "Investigate the fire",
+			"originalText": "Investigate the fire?",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 298740554,
+			"version": 162,
+			"versionNonce": 1548176681,
 			"index": "b2v",
 			"isDeleted": false,
 			"id": "Qd5ol7gY",
@@ -4934,34 +1861,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 509.8960018157959,
-			"y": -17.107139587402344,
+			"x": 301.41309505569916,
+			"y": -46.585069639117364,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 126.53985595703125,
-			"height": 75,
+			"width": 204.5398406982422,
+			"height": 50,
 			"seed": 617621974,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715552003468,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Identify the\nGate\\nin the\nMonastery",
-			"rawText": "Identify the Gate\\nin the Monastery",
+			"text": "Identify the Gate in\nthe Monastery",
+			"rawText": "Identify the Gate in the Monastery",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "EMS3fpLhaV4jEfJ-DTm6y",
-			"originalText": "Identify the Gate\\nin the Monastery",
+			"originalText": "Identify the Gate in the Monastery",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 290,
-			"versionNonce": 885308324,
+			"version": 651,
+			"versionNonce": 1512715081,
 			"index": "b2w",
 			"isDeleted": false,
 			"id": "zqT3Pcbe",
@@ -4971,34 +1898,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 635.6078541416266,
-			"y": -231.06821025112242,
+			"x": 663.5858009715347,
+			"y": 59.78380292985128,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 217.83975219726562,
+			"width": 208.49981689453125,
 			"height": 75,
 			"seed": 1679326998,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415755068,
+			"updated": 1715552004184,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Identify Earl\\nNolthe\nTorbogenfällt\\nas the\nArsonist",
-			"rawText": "Identify Earl\\nNolthe Torbogenfällt\\nas the Arsonist",
+			"text": "Identify Earl Nolthe\nTorbogenfällt as the\nArsonist",
+			"rawText": "Identify Earl Nolthe Torbogenfällt as the Arsonist",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "lo1G9XlX5nlnQATlCHFxB",
-			"originalText": "Identify Earl\\nNolthe Torbogenfällt\\nas the Arsonist",
+			"originalText": "Identify Earl Nolthe Torbogenfällt as the Arsonist",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 1748398602,
+			"version": 231,
+			"versionNonce": 1624703719,
 			"index": "b2x",
 			"isDeleted": false,
 			"id": "cniARnfl",
@@ -5008,71 +1935,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 846.7401142120361,
-			"y": -504.60713958740234,
+			"x": 1510.542970713282,
+			"y": -268.0391338928936,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 219.33975219726562,
-			"height": 75,
+			"width": 146.63986206054688,
+			"height": 50,
 			"seed": 1512320086,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550702289,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Ignore the\ninvestigation\\nand find\nwork",
-			"rawText": "Ignore the investigation\\nand find work",
+			"text": "Ignore the fire\nand find work",
+			"rawText": "Ignore the fire and find work",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "qJyJiRUOlUy2irEFCLe2l",
-			"originalText": "Ignore the investigation\\nand find work",
+			"originalText": "Ignore the fire and find work",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 841550742,
-			"index": "b2y",
-			"isDeleted": false,
-			"id": "GZaO2AIn",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 488.1987018585205,
-			"y": -360.85713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 174.63980102539062,
-			"height": 75,
-			"seed": 80228758,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715415654336,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Find work\nwith\\nMaster\nStanislav\\nUtěkal",
-			"rawText": "Find work with\\nMaster Stanislav\\nUtěkal",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "bNJIkQ66D_h_ZKmrgFlVJ",
-			"originalText": "Find work with\\nMaster Stanislav\\nUtěkal",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 6,
-			"versionNonce": 695181514,
+			"version": 160,
+			"versionNonce": 251356679,
 			"index": "b2z",
 			"isDeleted": false,
 			"id": "YK1ucCw7",
@@ -5082,34 +1972,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 766.5274982452393,
-			"y": -360.85713958740234,
+			"x": 1791.3804429390352,
+			"y": -46.07431146553836,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 153.27984619140625,
+			"width": 181.47982788085938,
 			"height": 75,
 			"seed": 1597607638,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550809958,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Find work\\nwith\nLady\nIlske\\nDietingen",
-			"rawText": "Find work\\nwith Lady Ilske\\nDietingen",
+			"text": "Protect Le Petite\nArc for Miss Ilske\nDietingen",
+			"rawText": "Protect Le Petite Arc for Miss Ilske Dietingen",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "kqGDeYPpCFeiTNM8_khle",
-			"originalText": "Find work\\nwith Lady Ilske\\nDietingen",
+			"originalText": "Protect Le Petite Arc for Miss Ilske Dietingen",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 527378646,
+			"version": 414,
+			"versionNonce": 382004841,
 			"index": "b30",
 			"isDeleted": false,
 			"id": "gpzUOis9",
@@ -5119,71 +2009,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1168.0482387542725,
-			"y": -360.85713958740234,
+			"x": 1026.86515623198,
+			"y": -96.86793401513586,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 201.55978393554688,
+			"width": 258.9598083496094,
 			"height": 75,
 			"seed": 906839062,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715552005691,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Find work\\nwith Earl\nNolthe\\nTorbogenfäll\nt",
-			"rawText": "Find work\\nwith Earl Nolthe\\nTorbogenfällt",
+			"text": "Investigate the\nAbandoned Dorms for Earl\nNolthe Torbogenfällt",
+			"rawText": "Investigate the Abandoned Dorms for Earl Nolthe Torbogenfällt",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "Q4D06194-49-eMcl1VPjA",
-			"originalText": "Find work\\nwith Earl Nolthe\\nTorbogenfällt",
+			"originalText": "Investigate the Abandoned Dorms for Earl Nolthe Torbogenfällt",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 823457674,
-			"index": "b31",
-			"isDeleted": false,
-			"id": "PGfZmFvH",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1130.919885635376,
-			"y": -210.85713958740234,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 231.53973388671875,
-			"height": 100,
-			"seed": 2067288406,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1715415654336,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Take job to clear\\nout\nthe\nabandoned\\nMonastery\nDorms",
-			"rawText": "Take job to clear\\nout the abandoned\\nMonastery Dorms",
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "VrX7rcxUrBbePOJO6Tx59",
-			"originalText": "Take job to clear\\nout the abandoned\\nMonastery Dorms",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 6,
-			"versionNonce": 1350540822,
+			"version": 678,
+			"versionNonce": 1003532775,
 			"index": "b32",
 			"isDeleted": false,
 			"id": "zLwcBTqH",
@@ -5193,34 +2046,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 875.8465061187744,
-			"y": -7.107139587402344,
+			"x": 872.8204681270952,
+			"y": 234.82302570791092,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 158.5198211669922,
-			"height": 50,
+			"width": 132.17987060546875,
+			"height": 75,
 			"seed": 437237398,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715552184419,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Kill Earl\\nNolthe\nTorbogenfällt",
-			"rawText": "Kill Earl\\nNolthe Torbogenfällt",
+			"text": "Earl Nolthe\nTorbogenfällt\nDies",
+			"rawText": "Earl Nolthe Torbogenfällt Dies",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "AZa7S2M-Y5aZJ3ZVsmQky",
-			"originalText": "Kill Earl\\nNolthe Torbogenfällt",
+			"originalText": "Earl Nolthe Torbogenfällt Dies",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 794916426,
+			"version": 351,
+			"versionNonce": 1976147017,
 			"index": "b33",
 			"isDeleted": false,
 			"id": "guuv61uf",
@@ -5230,34 +2083,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 382.811861038208,
-			"y": -185.85713958740234,
+			"x": 1472.4556547870984,
+			"y": -45.142880748124526,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 181.4998016357422,
-			"height": 50,
+			"width": 195.49986267089844,
+			"height": 75,
 			"seed": 1263039446,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715551985009,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Take job\\nto hunt\na\\nThessalhydra",
-			"rawText": "Take job\\nto hunt a\\nThessalhydra",
+			"text": "Take job to hunt a\nThessalhydra for\nStanislav Utěkal",
+			"rawText": "Take job to hunt a Thessalhydra for Stanislav Utěkal",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "zJQ7FOqpQTO6BKixIpe3Q",
-			"originalText": "Take job\\nto hunt a\\nThessalhydra",
+			"originalText": "Take job to hunt a Thessalhydra for Stanislav Utěkal",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 73,
-			"versionNonce": 1857579300,
+			"version": 728,
+			"versionNonce": 61196553,
 			"index": "b34",
 			"isDeleted": false,
 			"id": "gkFnUQhX",
@@ -5267,34 +2120,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -18.488280049700847,
-			"y": 50.98379391496405,
+			"x": 1224.494436794971,
+			"y": 267.64950052939764,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 259.5797119140625,
-			"height": 100,
+			"width": 142.21987915039062,
+			"height": 50,
 			"seed": 1761052950,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415728553,
+			"updated": 1715552129154,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "While out hunting,\\nMaster\nStanislav attacked\\nEarl\nTorbogenfällt, both\\ndie in\nprocess",
-			"rawText": "While out hunting,\\nMaster Stanislav attacked\\nEarl Torbogenfällt, both\\ndie in process",
+			"text": "Master\nStanislav Dies",
+			"rawText": "Master Stanislav Dies",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "6hkWnYrRYsPZ7YTrkVvpF",
-			"originalText": "While out hunting,\\nMaster Stanislav attacked\\nEarl Torbogenfällt, both\\ndie in process",
+			"originalText": "Master Stanislav Dies",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 355474698,
+			"version": 9,
+			"versionNonce": 690686545,
 			"index": "b35",
 			"isDeleted": false,
 			"id": "iMCuIuKO",
@@ -5304,18 +2157,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -255.43954277038574,
-			"y": 925.3928604125977,
+			"x": -63.347333908081055,
+			"y": 1365.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 193.35977172851562,
+			"width": 193.35984802246094,
 			"height": 75,
 			"seed": 1116862038,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5330,8 +2183,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 724799638,
+			"version": 58,
+			"versionNonce": 1835766345,
 			"index": "b36",
 			"isDeleted": false,
 			"id": "YXSheUTT",
@@ -5341,34 +2194,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 318.6050777435303,
-			"y": 275.39286041259766,
+			"x": 103.46269416809082,
+			"y": 234.69210436967842,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 193.35977172851562,
-			"height": 75,
+			"width": 221.7397918701172,
+			"height": 50,
 			"seed": 1894562710,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715552243723,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Destroy the\nThemisian\\nGate of\nSeven Arches",
-			"rawText": "Destroy the Themisian\\nGate of Seven Arches",
+			"text": "Destroy the Themisian\nGate of Seven Arches",
+			"rawText": "Destroy the Themisian Gate of Seven Arches",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "DvrBK8xuhE8_9GeyXKOA5",
-			"originalText": "Destroy the Themisian\\nGate of Seven Arches",
+			"originalText": "Destroy the Themisian Gate of Seven Arches",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 2147216330,
+			"version": 9,
+			"versionNonce": 76177869,
 			"index": "b37",
 			"isDeleted": false,
 			"id": "JgPzmmgS",
@@ -5378,18 +2231,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -566.6186351776123,
-			"y": 665.3928604125977,
+			"x": -86.97731590270996,
+			"y": 1000.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 240.61972045898438,
+			"width": 240.61981201171875,
 			"height": 75,
 			"seed": 708630742,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5404,8 +2257,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 2128678358,
+			"version": 9,
+			"versionNonce": 609792756,
 			"index": "b38",
 			"isDeleted": false,
 			"id": "ZD1fCGXx",
@@ -5415,18 +2268,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 188.8580722808838,
-			"y": 665.3928604125977,
+			"x": 299.65266609191895,
+			"y": 1000.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 193.35977172851562,
+			"width": 193.35984802246094,
 			"height": 75,
 			"seed": 370626070,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5441,8 +2294,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 635429514,
+			"version": 9,
+			"versionNonce": 240076506,
 			"index": "b39",
 			"isDeleted": false,
 			"id": "q7kanknH",
@@ -5452,18 +2305,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -945.0326137542725,
-			"y": 1185.3928604125977,
+			"x": 285.92268562316895,
+			"y": 1730.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 254.8197021484375,
+			"width": 254.81980895996094,
 			"height": 75,
 			"seed": 561060694,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5478,8 +2331,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 309125910,
+			"version": 13,
+			"versionNonce": 1651404617,
 			"index": "b3A",
 			"isDeleted": false,
 			"id": "4XkWO0Mc",
@@ -5489,34 +2342,34 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 181.7944049835205,
-			"y": 405.39286041259766,
+			"x": 129.8226718902588,
+			"y": 618.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 154.0198211669922,
-			"height": 75,
+			"width": 169.01983642578125,
+			"height": 50,
 			"seed": 1386168470,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715551864855,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Seek out\nthe\\nother four\ngates",
-			"rawText": "Seek out the\\nother four gates",
+			"text": "Seek out the\nother four gates",
+			"rawText": "Seek out the other four gates",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "LS_WOyW7qNTwIay_10_wp",
-			"originalText": "Seek out the\\nother four gates",
+			"originalText": "Seek out the other four gates",
 			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 1100415306,
+			"version": 9,
+			"versionNonce": 91819695,
 			"index": "b3B",
 			"isDeleted": false,
 			"id": "I79kO14h",
@@ -5526,18 +2379,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -191.0110683441162,
-			"y": 805.3928604125977,
+			"x": -82.23731803894043,
+			"y": 1195.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 231.1397247314453,
+			"width": 231.1398162841797,
 			"height": 50,
 			"seed": 492223958,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5552,8 +2405,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 139202646,
+			"version": 9,
+			"versionNonce": 79621467,
 			"index": "b3C",
 			"isDeleted": false,
 			"id": "ucZDBkXX",
@@ -5563,18 +2416,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -196.30157279968262,
-			"y": 545.3928604125977,
+			"x": -66.83733177185059,
+			"y": 830.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 200.3397674560547,
+			"width": 200.33984375,
 			"height": 50,
 			"seed": 917279510,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5589,8 +2442,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 2122074122,
+			"version": 9,
+			"versionNonce": 415697504,
 			"index": "b3D",
 			"isDeleted": false,
 			"id": "448zkTei",
@@ -5600,18 +2453,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 253.28655433654785,
-			"y": 545.3928604125977,
+			"x": 280.76268196105957,
+			"y": 830.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 231.1397247314453,
+			"width": 231.1398162841797,
 			"height": 50,
 			"seed": 1763033174,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5626,8 +2479,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 1817417110,
+			"version": 9,
+			"versionNonce": 497651458,
 			"index": "b3E",
 			"isDeleted": false,
 			"id": "34sQww9w",
@@ -5637,18 +2490,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -366.8458843231201,
-			"y": 1065.3928604125977,
+			"x": -82.23731803894043,
+			"y": 1560.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 231.1397247314453,
+			"width": 231.1398162841797,
 			"height": 50,
 			"seed": 1751598486,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5663,8 +2516,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 1686812362,
+			"version": 9,
+			"versionNonce": 354491986,
 			"index": "b3F",
 			"isDeleted": false,
 			"id": "bSQG9Bd4",
@@ -5674,18 +2527,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 149.85601997375488,
-			"y": 1207.8928604125977,
+			"x": -471.29730796813965,
+			"y": 1755.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 247.2597198486328,
+			"width": 247.25979614257812,
 			"height": 25,
 			"seed": 634790614,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5700,8 +2553,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 129528534,
+			"version": 9,
+			"versionNonce": 911869382,
 			"index": "b3G",
 			"isDeleted": false,
 			"id": "j1jRzwiX",
@@ -5711,18 +2564,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -678.351842880249,
-			"y": 1339.3065490722656,
+			"x": 74.33264350891113,
+			"y": 1936.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 149.9998321533203,
+			"width": 149.99989318847656,
 			"height": 75,
 			"seed": 603412502,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5737,8 +2590,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 12,
-			"versionNonce": 316675996,
+			"version": 15,
+			"versionNonce": 376657822,
 			"index": "b3H",
 			"isDeleted": false,
 			"id": "JLES0NL6",
@@ -5748,18 +2601,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -100.29572105407715,
-			"y": 1336.8065490722656,
+			"x": -312.22731590270996,
+			"y": 1936.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 251.1197052001953,
+			"width": 251.11981201171875,
 			"height": 75,
 			"seed": 1254090070,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415715933,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5774,8 +2627,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 890218518,
+			"version": 9,
+			"versionNonce": 804269941,
 			"index": "b3I",
 			"isDeleted": false,
 			"id": "JEhRFxE0",
@@ -5785,18 +2638,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 668.456075668335,
-			"y": 1339.3065490722656,
+			"x": -609.0573406219482,
+			"y": 1936.5178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 168.77981567382812,
+			"width": 168.7798614501953,
 			"height": 75,
 			"seed": 998558358,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5811,8 +2664,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 590285898,
+			"version": 9,
+			"versionNonce": 983229677,
 			"index": "b3J",
 			"isDeleted": false,
 			"id": "gqMVzRiF",
@@ -5822,18 +2675,18 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 917.3816967010498,
-			"y": 1349.3065490722656,
+			"x": -948.5573253631592,
+			"y": 1949.0178604125977,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 209.77976989746094,
+			"width": 209.7798309326172,
 			"height": 50,
 			"seed": 620431318,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715550482981,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5848,8 +2701,8 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 877540694,
+			"version": 369,
+			"versionNonce": 128029193,
 			"index": "b3K",
 			"isDeleted": false,
 			"id": "Qc58lNr4",
@@ -5859,29 +2712,4486 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 845.496431350708,
-			"y": 145.39286041259766,
+			"x": 327.6447326436313,
+			"y": 397.0371419295708,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 161.85983276367188,
-			"height": 75,
+			"width": 195.1598358154297,
+			"height": 50,
 			"seed": 389520662,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715415654336,
+			"updated": 1715552175637,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "The Gate of\nSeven\\nArches is\nactivated",
-			"rawText": "The Gate of Seven\\nArches is activated",
+			"text": "The Gate of Five\nArches is activated",
+			"rawText": "The Gate of Five Arches is activated",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "WlkhlTGCazMV3uMCY2GpM",
-			"originalText": "The Gate of Seven\\nArches is activated",
+			"originalText": "The Gate of Five Arches is activated",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "6Mml67AK4VXsdJgmBwdGU",
+			"type": "rectangle",
+			"x": 524.8962735532042,
+			"y": -286.3775322755413,
+			"width": 87.40961920703424,
+			"height": 70.17391964508386,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3N",
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1388844903,
+			"version": 271,
+			"versionNonce": 1972480393,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "1vAUxxI8"
+				},
+				{
+					"id": "plab1rJYZ2NBbV_9OWlWA",
+					"type": "arrow"
+				},
+				{
+					"id": "bJg36hrj5mVPRqLqx1ANE",
+					"type": "arrow"
+				},
+				{
+					"id": "yZ4FcDtm25I1APEglKHWp",
+					"type": "arrow"
+				}
+			],
+			"updated": 1715552097584,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "1vAUxxI8",
+			"type": "text",
+			"x": 552.5411008569166,
+			"y": -263.79057245299936,
+			"width": 32.119964599609375,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3O",
+			"roundness": null,
+			"seed": 1781227625,
+			"version": 230,
+			"versionNonce": 836363303,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715550609787,
+			"link": null,
+			"locked": false,
+			"text": "Yes",
+			"rawText": "Yes",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "6Mml67AK4VXsdJgmBwdGU",
+			"originalText": "Yes",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "plab1rJYZ2NBbV_9OWlWA",
+			"type": "arrow",
+			"x": 923.8126935963408,
+			"y": -250.6806881828495,
+			"width": 301.6578296578449,
+			"height": 0.7074560128789074,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3P",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2021030599,
+			"version": 185,
+			"versionNonce": 1435387495,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715550609787,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-301.6578296578449,
+					-0.7074560128789074
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "TK8WHfXtZ_gKJg-AOO6vV",
+				"focus": -0.14697671391910846,
+				"gap": 12.256734437343638
+			},
+			"endBinding": {
+				"elementId": "6Mml67AK4VXsdJgmBwdGU",
+				"focus": -0.006341885269531124,
+				"gap": 9.848971178257443
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "4S87tESiC7demzoAHnba-",
+			"type": "arrow",
+			"x": 1202.9298721895284,
+			"y": -256.51866618710756,
+			"width": 269.7194493911211,
+			"height": 8.803867237705134,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3Q",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 894947399,
+			"version": 283,
+			"versionNonce": 1044321223,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1715550702289,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					269.7194493911211,
+					8.803867237705134
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "TK8WHfXtZ_gKJg-AOO6vV",
+				"gap": 8.8864113749557,
+				"focus": 0.01490670950223356
+			},
+			"endBinding": {
+				"elementId": "qJyJiRUOlUy2irEFCLe2l",
+				"gap": 15.96347471798208,
+				"focus": 0.02292442917830555
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "8JByFERvwaGeky0I5Lnj6",
+			"type": "arrow",
+			"x": 1519.9052935106624,
+			"y": 73.55703893839984,
+			"width": 139.63082476238924,
+			"height": 173.60023618082585,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3S",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1057219527,
+			"version": 669,
+			"versionNonce": 1080810185,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552129154,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-139.63082476238924,
+					173.60023618082585
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "zJQ7FOqpQTO6BKixIpe3Q",
+				"focus": -0.10033964174106556,
+				"gap": 24.949919686524368
+			},
+			"endBinding": {
+				"elementId": "6hkWnYrRYsPZ7YTrkVvpF",
+				"focus": 0.4134772391196749,
+				"gap": 7.838988147199075
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "5iuVEVzcJGElchL1DUBni",
+			"type": "arrow",
+			"x": 1444.8640582308358,
+			"y": 48.803101003296774,
+			"width": 406.16942985402443,
+			"height": 241.46765010591986,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3T",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1743287623,
+			"version": 691,
+			"versionNonce": 318546983,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552184420,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-406.16942985402443,
+					241.46765010591986
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "zJQ7FOqpQTO6BKixIpe3Q",
+				"focus": 0.15530345542113747,
+				"gap": 17.34698963480946
+			},
+			"endBinding": {
+				"elementId": "AZa7S2M-Y5aZJ3ZVsmQky",
+				"focus": 0.7959362972548024,
+				"gap": 7.976096000463997
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "6N6kW6epzjdDahbI6hLza",
+			"type": "arrow",
+			"x": 1483.466036402139,
+			"y": -196.3469778974827,
+			"width": 181.20316623254075,
+			"height": 68.42637046543501,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3U",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 558442537,
+			"version": 62,
+			"versionNonce": 1218051977,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552013528,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-181.20316623254075,
+					68.42637046543501
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "qJyJiRUOlUy2irEFCLe2l",
+				"focus": -0.11189260687887517,
+				"gap": 5.14675989649254
+			},
+			"endBinding": {
+				"elementId": "Q4D06194-49-eMcl1VPjA",
+				"focus": -0.12513549413809835,
+				"gap": 12.30267341691183
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "tm8XqLQ8OMcQxRzLfx2UJ",
+			"type": "arrow",
+			"x": 1546.8237868330975,
+			"y": -190.01120285438685,
+			"width": 0,
+			"height": 110.24248574986751,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3V",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1772384585,
+			"version": 34,
+			"versionNonce": 652835881,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552017104,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					110.24248574986751
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "qJyJiRUOlUy2irEFCLe2l",
+				"focus": 0.38886166831463465,
+				"gap": 10.527931038506722
+			},
+			"endBinding": {
+				"elementId": "zJQ7FOqpQTO6BKixIpe3Q",
+				"focus": -0.2165068712713458,
+				"gap": 15.875836356394814
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "eu8tNNnXqZUstl15nbvcB",
+			"type": "arrow",
+			"x": 1668.4706676605374,
+			"y": -188.74404784576768,
+			"width": 105.173865715391,
+			"height": 110.24248574986751,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3W",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 74794473,
+			"version": 45,
+			"versionNonce": 2055400553,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552020440,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					105.173865715391,
+					110.24248574986751
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "qJyJiRUOlUy2irEFCLe2l",
+				"focus": -0.2416049496542406,
+				"gap": 11.795086047125892
+			},
+			"endBinding": {
+				"elementId": "kqGDeYPpCFeiTNM8_khle",
+				"focus": -0.2659345216346473,
+				"gap": 13.677250630361812
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Knm0trGLsAY3bY92mmRQK",
+			"type": "arrow",
+			"x": 1009.5500631785706,
+			"y": -60.761391975231845,
+			"width": 477.7174382494261,
+			"height": 19.00732512928755,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3X",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1344251433,
+			"version": 111,
+			"versionNonce": 704164071,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552087161,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-477.7174382494261,
+					19.00732512928755
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "Q4D06194-49-eMcl1VPjA",
+				"focus": 0.1173437103065203,
+				"gap": 11.103274699087251
+			},
+			"endBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"focus": -0.3213775792198085,
+				"gap": 17.750798183992174
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Bna3C_e63dA2pbTwcHWXB",
+			"type": "arrow",
+			"x": 1013.3515282044282,
+			"y": 10.199288507441565,
+			"width": 124.18119084467844,
+			"height": 62.090595422339106,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3Y",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1764107785,
+			"version": 40,
+			"versionNonce": 853546537,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552030168,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-124.18119084467844,
+					62.090595422339106
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "Q4D06194-49-eMcl1VPjA",
+				"focus": 0.015548814915649151,
+				"gap": 13.317222522577424
+			},
+			"endBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"focus": 0.35666614771529287,
+				"gap": 6.296608078856025
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "B-9wlCLA5T3_4Tg5GHfDp",
+			"type": "arrow",
+			"x": 322.7520485069819,
+			"y": 34.27523367120568,
+			"width": 64.62490543957745,
+			"height": 169.79877115496845,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3Z",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 588079081,
+			"version": 55,
+			"versionNonce": 847964905,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552245260,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-64.62490543957745,
+					169.79877115496845
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"gap": 13.360303310323047,
+				"focus": 0.4714286918202449
+			},
+			"endBinding": {
+				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
+				"gap": 13.118099543504286,
+				"focus": 0.15307571921030855
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "eqwiLHZQ3bN3tUaJiXOT6",
+			"type": "arrow",
+			"x": 417.9684288582786,
+			"y": 35.54238867982485,
+			"width": 11.090677638298189,
+			"height": 331.99461225822176,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3a",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1405667113,
+			"version": 86,
+			"versionNonce": 751395785,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552175638,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					11.090677638298189,
+					331.99461225822176
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"focus": -0.11255342092063667,
+				"gap": 14.627458318942217
+			},
+			"endBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"focus": 0.049444719596589755,
+				"gap": 12.000140991524177
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "7PiRa-SmCVJJjU6V5iqc0",
+			"type": "arrow",
+			"x": 525.4968498860487,
+			"y": 27.939458628109833,
+			"width": 115.31110578434414,
+			"height": 45.61758031029001,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3b",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 958656649,
+			"version": 34,
+			"versionNonce": 977933161,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552047288,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					115.31110578434414,
+					45.61758031029001
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"focus": 0.015485366255542438,
+				"gap": 11.415023140896437
+			},
+			"endBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"focus": -0.3013988239298952,
+				"gap": 11.98973388631407
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "bJg36hrj5mVPRqLqx1ANE",
+			"type": "arrow",
+			"x": 524.2296948774294,
+			"y": -203.94990794919772,
+			"width": 41.81611528443244,
+			"height": 127.9826558705359,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3c",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1299377129,
+			"version": 48,
+			"versionNonce": 856776457,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552091432,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-41.81611528443244,
+					127.9826558705359
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "6Mml67AK4VXsdJgmBwdGU",
+				"focus": 0.5239122827958533,
+				"gap": 12.253704681259705
+			},
+			"endBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"focus": 0.49050289969993316,
+				"gap": 11.882182439544465
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "yZ4FcDtm25I1APEglKHWp",
+			"type": "arrow",
+			"x": 612.9305454807713,
+			"y": -211.55283800091274,
+			"width": 57.02197538786231,
+			"height": 255.9653117410718,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3d",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 778694857,
+			"version": 140,
+			"versionNonce": 1519751273,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552097584,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					57.02197538786231,
+					255.9653117410718
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "6Mml67AK4VXsdJgmBwdGU",
+				"focus": -0.6885901100727155,
+				"gap": 4.650774629544685
+			},
+			"endBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"focus": -0.6915733511728284,
+				"gap": 10.371329189692233
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "kNYYgzwhBFM93WisSwB78",
+			"type": "arrow",
+			"x": 649.6780407307272,
+			"y": 48.213938766016554,
+			"width": 121.6468808274401,
+			"height": 41.8161152844325,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3e",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1054427689,
+			"version": 55,
+			"versionNonce": 1897562473,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552108607,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-121.6468808274401,
+					-41.8161152844325
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"focus": 0.10303169825270882,
+				"gap": 6.569864163834723
+			},
+			"endBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"focus": -0.18349106930292763,
+				"gap": 13.949333158134777
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "awlLN62-lQ2VdDaL9TlUD",
+			"type": "arrow",
+			"x": 835.9498269977446,
+			"y": 148.3191844469307,
+			"width": 27.87741018962174,
+			"height": 70.96068048267341,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3g",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1560348263,
+			"version": 38,
+			"versionNonce": 1986546183,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552189127,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					27.87741018962174,
+					70.96068048267341
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"focus": -0.36485903256941404,
+				"gap": 8.53538151707943
+			},
+			"endBinding": {
+				"elementId": "AZa7S2M-Y5aZJ3ZVsmQky",
+				"focus": -0.499930905132845,
+				"gap": 10.543160778306799
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "0yyOKOOF8Fn9aDQx6u0E8",
+			"type": "arrow",
+			"x": 828.3468969460296,
+			"y": 292.77485542951575,
+			"width": 276.2397918789784,
+			"height": 95.03662564643764,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3h",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2086974535,
+			"version": 90,
+			"versionNonce": 793151177,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552214552,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-276.2397918789784,
+					95.03662564643764
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "AZa7S2M-Y5aZJ3ZVsmQky",
+				"focus": 0.23737581336398184,
+				"gap": 18.755377537282584
+			},
+			"endBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"focus": 0.11586267471399142,
+				"gap": 13.930077196369098
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "ntRx4l8UMxzNxqlfFN3VN",
+			"type": "arrow",
+			"x": 639.5408006617738,
+			"y": 111.57168919697489,
+			"width": 282.57556692207424,
+			"height": 107.70817573262923,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3i",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 437950407,
+			"version": 110,
+			"versionNonce": 1705129,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552245261,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-282.57556692207424,
+					107.70817573262923
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"gap": 13.256888894933127,
+				"focus": 0.4008608310364859
+			},
+			"endBinding": {
+				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
+				"gap": 10.995741781081335,
+				"focus": 0.1505733789928774
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "u33pg5QuIoCVt1Ek2r7Ry",
+			"type": "arrow",
+			"x": 680.089760937587,
+			"y": 149.58633945554988,
+			"width": 152.05860103429995,
+			"height": 216.68350647387763,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3j",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2037838279,
+			"version": 69,
+			"versionNonce": 1046257223,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552204375,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-152.05860103429995,
+					216.68350647387763
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"focus": 0.3523505768796791,
+				"gap": 9.8025365256986
+			},
+			"endBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"focus": 0.4459513235119481,
+				"gap": 13.26729600014329
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "P1WudD1XIexWPyTQ9mz-O",
+			"type": "arrow",
+			"x": 835.9498269977446,
+			"y": 263.63029023127496,
+			"width": 475.1831282321875,
+			"height": 1.26715500861917,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3k",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 656049511,
+			"version": 59,
+			"versionNonce": 1484631657,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715552245261,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-475.1831282321875,
+					-1.26715500861917
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "AZa7S2M-Y5aZJ3ZVsmQky",
+				"gap": 11.152447485567563,
+				"focus": 0.19694020489915387
+			},
+			"endBinding": {
+				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
+				"gap": 14.797206806938846,
+				"focus": 0.05322018640001482
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 11,
+			"versionNonce": 1241380071,
+			"index": "b1Z",
+			"isDeleted": true,
+			"id": "bNJIkQ66D_h_ZKmrgFlVJ",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 995.0647220611572,
+			"y": 142.76786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 228.53573608398438,
+			"height": 112.5,
+			"seed": 12673238,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "GZaO2AIn"
+				}
+			],
+			"updated": 1715550740192,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 124,
+			"versionNonce": 1507393479,
+			"index": "b1c",
+			"isDeleted": true,
+			"id": "VrX7rcxUrBbePOJO6Tx59",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1497.9227562043975,
+			"y": 260.46407975754084,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 238.792729088613,
+			"height": 112.5,
+			"seed": 1980811414,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "PGfZmFvH"
+				}
+			],
+			"updated": 1715551837430,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "arrow",
+			"version": 135,
+			"versionNonce": 1391127559,
+			"index": "b1y",
+			"isDeleted": true,
+			"id": "auHUBAe7PYIOs0AEJRW3l",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 972.3188929167993,
+			"y": -270.622015611123,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 604.4619453966711,
+			"height": 303.9863610029106,
+			"seed": 2010444822,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550518348,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "TK8WHfXtZ_gKJg-AOO6vV",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-546.2307455972211,
+					-91.84648497918994
+				],
+				[
+					-604.4619453966711,
+					212.13987602372066
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 798,
+			"versionNonce": 1808726121,
+			"index": "b1z",
+			"isDeleted": true,
+			"id": "fEM2K4ikNRoVCi9RLqE8g",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 981.5663459720552,
+			"y": -277.7691285753007,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1030.3875888211226,
+			"height": 323.2476264341874,
+			"seed": 143262038,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550517844,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "TK8WHfXtZ_gKJg-AOO6vV",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-376.9338446900283,
+					-102.537572947353
+				],
+				[
+					653.4537441310943,
+					220.71005348683437
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 131,
+			"versionNonce": 1108675047,
+			"index": "b20",
+			"isDeleted": true,
+			"id": "SryPCCas4QzlSoL50-3ra",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1016.9014421095962,
+			"y": -305.07869394276713,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 286.627596877472,
+			"height": 475.2330899533829,
+			"seed": 1907058326,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550519650,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "TK8WHfXtZ_gKJg-AOO6vV",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "qJyJiRUOlUy2irEFCLe2l",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-221.03575854204598,
+					-228.6365355980181
+				],
+				[
+					65.59183833542602,
+					246.5965543553648
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1714265161,
+			"index": "b21",
+			"isDeleted": true,
+			"id": "UqDK55W-7_VtXiCgDVGsr",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1048.5204880425244,
+			"y": -58.482139587402344,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 482.3008718584779,
+			"height": 545.375,
+			"seed": 334373846,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550516924,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "qJyJiRUOlUy2irEFCLe2l",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "bNJIkQ66D_h_ZKmrgFlVJ",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-473.0019960839063,
+					-346.125
+				],
+				[
+					9.29887577457157,
+					199.25
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 636958857,
+			"index": "b22",
+			"isDeleted": true,
+			"id": "bXJirLOyvUBqJmBzqVmtx",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1079.0110621225244,
+			"y": -58.482139587402344,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 286.29038664669986,
+			"height": 545.375,
+			"seed": 1902590230,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550519029,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "qJyJiRUOlUy2irEFCLe2l",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "kqGDeYPpCFeiTNM8_khle",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-235.84357016390618,
+					-346.125
+				],
+				[
+					-286.29038664669986,
+					199.25
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 27,
+			"versionNonce": 463833577,
+			"index": "b23",
+			"isDeleted": true,
+			"id": "vGrbgDRx8Gb6blv_04zVM",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1127.5023632425246,
+			"y": -58.482139587402344,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 289.0520306014921,
+			"height": 545.375,
+			"seed": 25929302,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550521506,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "qJyJiRUOlUy2irEFCLe2l",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "Q4D06194-49-eMcl1VPjA",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					141.32612871609354,
+					-346.125
+				],
+				[
+					289.0520306014921,
+					199.25
+				]
+			]
+		},
+		{
+			"id": "r4GJrVuQ",
+			"type": "text",
+			"x": 1263.828491958618,
+			"y": -417.10713958740234,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b23V",
+			"roundness": null,
+			"seed": 1381588583,
+			"version": 3,
+			"versionNonce": 227504871,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550521305,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "vGrbgDRx8Gb6blv_04zVM",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "arrow",
+			"version": 595,
+			"versionNonce": 1168669193,
+			"index": "b24",
+			"isDeleted": true,
+			"id": "DLdUraEOQaUJdwbqAeQxk",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1359.9730373303096,
+			"y": 140.76786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 750.6635981445315,
+			"height": 382.875,
+			"seed": 87059350,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550522495,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "Q4D06194-49-eMcl1VPjA",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-475.6165453716915,
+					-382.875
+				],
+				[
+					275.04705277284006,
+					-190.02619057309525
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 23577223,
+			"index": "b25",
+			"isDeleted": true,
+			"id": "P1PbichNPUIBCBmZ1TOwx",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1414.7221611614232,
+			"y": 140.76786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 581.8977190711246,
+			"height": 596.875,
+			"seed": 1519028438,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550521978,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "Q4D06194-49-eMcl1VPjA",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "VrX7rcxUrBbePOJO6Tx59",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-115.75266920280501,
+					-382.875
+				],
+				[
+					-581.8977190711246,
+					214
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1276956583,
+			"index": "b26",
+			"isDeleted": true,
+			"id": "IgEa4nf1nl2QHKkqRq9AR",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 787.3325901031494,
+			"y": 257.26786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 97.5,
+			"seed": 1362034198,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550531464,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "kqGDeYPpCFeiTNM8_khle",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "VrX7rcxUrBbePOJO6Tx59",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					97.5
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1880040073,
+			"index": "b27",
+			"isDeleted": true,
+			"id": "e1s2gWc8dB_Qucx-H2TYn",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 670.8325901031494,
+			"y": 354.76786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 222.5,
+			"height": 111.25,
+			"seed": 2115160918,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550528721,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "VrX7rcxUrBbePOJO6Tx59",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-222.5,
+					-111.25
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 470130727,
+			"index": "b28",
+			"isDeleted": true,
+			"id": "JMX1JgdQ7eKyp6xBn0EHd",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1109.3325901031494,
+			"y": 257.26786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 97.5,
+			"seed": 260763798,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550526678,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "bNJIkQ66D_h_ZKmrgFlVJ",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "zJQ7FOqpQTO6BKixIpe3Q",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					97.5
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 161,
+			"versionNonce": 2116264553,
+			"index": "b29",
+			"isDeleted": true,
+			"id": "jx1A-GJBnsURP8ZxlYHwU",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1109.3325901031494,
+			"y": 471.26786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 97.25,
+			"seed": 558656982,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550527357,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "zJQ7FOqpQTO6BKixIpe3Q",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "6hkWnYrRYsPZ7YTrkVvpF",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					97.25
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 161,
+			"versionNonce": 2116657671,
+			"index": "b2A",
+			"isDeleted": true,
+			"id": "EsxcnAT8H6JKqh_ivsjVK",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 983.4879955085548,
+			"y": 568.5178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 548.9864864864865,
+			"height": 325,
+			"seed": 275530518,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550527905,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "6hkWnYrRYsPZ7YTrkVvpF",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-548.9864864864865,
+					-325
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 595,
+			"versionNonce": 1098960425,
+			"index": "b2B",
+			"isDeleted": true,
+			"id": "E5qd5nW8ppDaf2IUOiWXF",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1635.0200901031494,
+			"y": -21.830156311123346,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1014.9550981445313,
+			"height": 246.29037501880467,
+			"seed": 1331654742,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550523579,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "AZa7S2M-Y5aZJ3ZVsmQky",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1010.8925981445313,
+					-57.776983276279
+				],
+				[
+					4.0625,
+					188.51339174252567
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 595,
+			"versionNonce": 1813786727,
+			"index": "b2C",
+			"isDeleted": true,
+			"id": "j4wm_Q8YW9Ihuxay4NjGb",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1635.0200901031494,
+			"y": -24.130084820758505,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1163.288688659668,
+			"height": 55.477054766643846,
+			"seed": 972748182,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550522959,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "lo1G9XlX5nlnQATlCHFxB",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-750.6635981445313,
+					-55.477054766643846
+				],
+				[
+					-1163.288688659668,
+					-3.9012665608905728
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 2089876039,
+			"index": "b2D",
+			"isDeleted": true,
+			"id": "WYbVtXY0hAA2agpJbpfPr",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1639.0825901031494,
+			"y": 199.01786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1164.797622680664,
+			"height": 0,
+			"seed": 1769198294,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550524960,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "AZa7S2M-Y5aZJ3ZVsmQky",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1164.797622680664,
+					0
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 119852745,
+			"index": "b2E",
+			"isDeleted": true,
+			"id": "sdFKVrLwXQ6HuuNbP-shE",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 350.47830320512713,
+			"y": 30.517860412597656,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 16.887811246508875,
+			"height": 124,
+			"seed": 140445718,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550530742,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-16.887811246508875,
+					84.875
+				],
+				[
+					-4.844049334344106,
+					124
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 685491271,
+			"index": "b2F",
+			"isDeleted": true,
+			"id": "C-CiqaE-IHc7IVqGJemmF",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 378.57788194908846,
+			"y": 30.517860412597656,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 170.9061744045881,
+			"height": 338,
+			"seed": 649172310,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550514538,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					36.706610009529754,
+					84.875
+				],
+				[
+					-134.19956439505836,
+					338
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1202682217,
+			"index": "b2G",
+			"isDeleted": true,
+			"id": "NYtkAAs-yjRTb2Kue6FOu",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 467.53557470271164,
+			"y": 30.517860412597656,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1005.6614028930434,
+			"height": 1711.75,
+			"seed": 230718102,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550503244,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					206.37591725590653,
+					84.875
+				],
+				[
+					-799.2854856371368,
+					1711.75
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1097710023,
+			"index": "b2H",
+			"isDeleted": true,
+			"id": "g7che0obotV8_Y4hVBsVH",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 474.28496742248535,
+			"y": 178.2346164936145,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 350.1320905151367,
+			"height": 160.7775675666473,
+			"seed": 339785686,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550530052,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "EMS3fpLhaV4jEfJ-DTm6y",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					347.5785245361328,
+					-62.841756081016854
+				],
+				[
+					-2.5535659790039062,
+					-160.7775675666473
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 28,
+			"versionNonce": 1511130793,
+			"index": "b2I",
+			"isDeleted": true,
+			"id": "HYEyDk5dvTRCcRtdy1XXI",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 474.28496742248535,
+			"y": 209.63308381943125,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 409.9179999999999,
+			"height": 159.41256809449015,
+			"seed": 1917275414,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550529363,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"focus": -0.049609035755016836,
+				"gap": 2
+			},
+			"endBinding": {
+				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
+				"focus": -0.03321967666644437,
+				"gap": 2
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					283.6025245361327,
+					32.999386067349405
+				],
+				[
+					-126.31547546386719,
+					159.41256809449015
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1798658823,
+			"index": "b2J",
+			"isDeleted": true,
+			"id": "pJyiCJXXod5fgCmphwB_W",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 474.28496742248535,
+			"y": 207.4785998596169,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1314.4648140316262,
+			"height": 1534.7892605529807,
+			"seed": 357120598,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550503922,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					515.1245245361329,
+					37.91426055298075
+				],
+				[
+					-799.3402894954934,
+					1534.7892605529807
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 27,
+			"versionNonce": 1541867081,
+			"index": "b2K",
+			"isDeleted": true,
+			"id": "oEfMhlOFeQqt8VfgZ4UhT",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 474.28496742248535,
+			"y": 205.0303469638364,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 771.6885245361327,
+			"height": 194.8230087186484,
+			"seed": 1947959190,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550525848,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "D0uwL6QjRFzXLWGI_nNkG",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					771.6885245361327,
+					40.36251344876126
+				],
+				[
+					88.29272430942763,
+					194.8230087186484
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1245357097,
+			"index": "b2L",
+			"isDeleted": true,
+			"id": "7w2DVSs6euQ3oGmOqGi7G",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 266.9305869820427,
+			"y": 368.51786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 45.203322866494005,
+			"height": 230,
+			"seed": 1660099798,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550513723,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "LS_WOyW7qNTwIay_10_wp",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-8.126095023424512,
+					6.875
+				],
+				[
+					-45.203322866494005,
+					230
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 29,
+			"versionNonce": 1931163943,
+			"index": "b2M",
+			"isDeleted": true,
+			"id": "b1EbRvC4lNKpT0J0S_7jR",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 347.96949195861816,
+			"y": 399.28969994873205,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 911.0971153208466,
+			"height": 1366.875,
+			"seed": 1734677014,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550502736,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "DvrBK8xuhE8_9GeyXKOA5",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					232.62400000000002,
+					-23.896839536134394
+				],
+				[
+					-678.4731153208465,
+					1342.9781604638656
+				]
+			]
+		},
+		{
+			"id": "DyTG9Wsl",
+			"type": "text",
+			"x": 575.5934919586182,
+			"y": 362.89286041259766,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b2MV",
+			"roundness": null,
+			"seed": 1651477385,
+			"version": 3,
+			"versionNonce": 1832713993,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550502489,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "b1EbRvC4lNKpT0J0S_7jR",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 195923977,
+			"index": "b2N",
+			"isDeleted": true,
+			"id": "g8N8gdSNr-mX6TWwVWHod",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 116.33077386223266,
+			"y": 599.5748341794089,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 212.4622819036145,
+			"height": 307.625,
+			"seed": 208035670,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550512347,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "LS_WOyW7qNTwIay_10_wp",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "2oqyGK62ZvnAE1rzBz0GS",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-212.4622819036145,
+					-94.18197376681121
+				],
+				[
+					-98.55053877394292,
+					213.4430262331888
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 27,
+			"versionNonce": 606583399,
+			"index": "b2O",
+			"isDeleted": true,
+			"id": "8XrT-0MKWl1HmCb1drQ80",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 264.29672185659797,
+			"y": 598.5178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 128.73520003898534,
+			"height": 307.6250000000001,
+			"seed": 910951574,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550513091,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "LS_WOyW7qNTwIay_10_wp",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "23i87swJSe2g0XTmildeL",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					104.55977010202014,
+					-93.125
+				],
+				[
+					128.73520003898534,
+					214.5000000000001
+				]
+			]
+		},
+		{
+			"id": "GpyeZGWJ",
+			"type": "text",
+			"x": 363.8564919586181,
+			"y": 492.89286041259766,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b2OV",
+			"roundness": null,
+			"seed": 1512878663,
+			"version": 3,
+			"versionNonce": 883545799,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550512138,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "8XrT-0MKWl1HmCb1drQ80",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 855065097,
+			"index": "b2P",
+			"isDeleted": true,
+			"id": "sWiO8xiY7qQ5RuHVtFc1-",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -58.39160396433064,
+			"y": 813.0178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 426.62891840548957,
+			"height": 358.125,
+			"seed": 1993015766,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550509427,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "2oqyGK62ZvnAE1rzBz0GS",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "b0CtxO2BSmB6LqNe6NA9R",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-387.9169040770512,
+					-177.625
+				],
+				[
+					38.712014328438414,
+					180.5
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 874729961,
+			"index": "b2Q",
+			"isDeleted": true,
+			"id": "rc-SqebVNH3Xt5lLoHzfH",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -46.59048689797535,
+			"y": 993.5178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 444.4061767872141,
+			"height": 412.625,
+			"seed": 1626887958,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550508261,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "b0CtxO2BSmB6LqNe6NA9R",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "reH0YA_2SSzNWdkjt4UbG",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-409.71802114340653,
+					-228.125
+				],
+				[
+					34.68815564380762,
+					184.5
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1220580905,
+			"index": "b2R",
+			"isDeleted": true,
+			"id": "n74S6EuzqfRXAeS5VNlxc",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 375.14468288825896,
+			"y": 813.0178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 98.54950517978341,
+			"height": 358.125,
+			"seed": 1565066326,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550511096,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "23i87swJSe2g0XTmildeL",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "SIloCTG-GbMDHC9kJrPZw",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-89.60719092964081,
+					-177.625
+				],
+				[
+					8.942314250142601,
+					180.5
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 2142824551,
+			"index": "b2S",
+			"isDeleted": true,
+			"id": "hA1ZtKDymDzvvzL8jTt2Z",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 366.2801999429233,
+			"y": 993.5178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 316.4213522034149,
+			"height": 412.625,
+			"seed": 2106722710,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550510508,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "SIloCTG-GbMDHC9kJrPZw",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "reH0YA_2SSzNWdkjt4UbG",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-154.0607079843051,
+					-228.125
+				],
+				[
+					-316.4213522034149,
+					184.5
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 333806215,
+			"index": "b2T",
+			"isDeleted": true,
+			"id": "m3WDKq9My2PYRl9RgGV3F",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 8.47970408984078,
+			"y": 1178.0178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 175.25270219785483,
+			"height": 463.125,
+			"seed": 1359505110,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550508899,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "reH0YA_2SSzNWdkjt4UbG",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "viBFwIrcLk3omNFCol2Ce",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-167.23921213122267,
+					-282.625
+				],
+				[
+					8.013490066632158,
+					180.5
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1575151783,
+			"index": "b2U",
+			"isDeleted": true,
+			"id": "-zLbItUWOoDjx_zHRpa69",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -0.20625098902308991,
+			"y": 1358.5178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 263.2491122216895,
+			"height": 517.625,
+			"seed": 943791126,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550507736,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "viBFwIrcLk3omNFCol2Ce",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ptC0ZI0Mxyoq3L672-XVf",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-251.07025705235873,
+					-333.125
+				],
+				[
+					12.17885516933076,
+					184.5
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 27,
+			"versionNonce": 1053070631,
+			"index": "b2V",
+			"isDeleted": true,
+			"id": "8LuoI7QeXrX7OYWB2pMSv",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2.557439858026754,
+			"y": 1543.0178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 692.8552481262793,
+			"height": 568.125,
+			"seed": 959523158,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550498363,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "ptC0ZI0Mxyoq3L672-XVf",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "d8FmXqlfW66gscs9_Wjf9",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-331.23506818335505,
+					-387.625
+				],
+				[
+					361.6201799429242,
+					180.5
+				]
+			]
+		},
+		{
+			"id": "DvqYfJRa",
+			"type": "text",
+			"x": -338.7925080413818,
+			"y": 1142.8928604125977,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b2VV",
+			"roundness": null,
+			"seed": 670363529,
+			"version": 3,
+			"versionNonce": 1659921161,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550498194,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "8LuoI7QeXrX7OYWB2pMSv",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 686541063,
+			"index": "b2X",
+			"isDeleted": true,
+			"id": "Q3hb-w02QdALXH-uP4r1l",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 312.5706882476807,
+			"y": 601.8865620592064,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 872.5388683159949,
+			"height": 1236.8750000000002,
+			"seed": 1391152086,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550501807,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "LS_WOyW7qNTwIay_10_wp",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					230.46580371093745,
+					-96.49370164660877
+				],
+				[
+					-642.0730646050574,
+					1140.3812983533915
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 27,
+			"versionNonce": 170388329,
+			"index": "b2Y",
+			"isDeleted": true,
+			"id": "Y_f9K6ulBJ8ZYX1khFS-K",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 407.0115195416455,
+			"y": 813.0178604125978,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 781.65765819779,
+			"height": 1106.8750000000002,
+			"seed": 645882134,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550501335,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "23i87swJSe2g0XTmildeL",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					45.16297241697259,
+					-177.6250000000001
+				],
+				[
+					-736.4946857808175,
+					929.2500000000001
+				]
+			]
+		},
+		{
+			"id": "UvUrmy31",
+			"type": "text",
+			"x": 447.1744919586181,
+			"y": 622.8928604125977,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b2YV",
+			"roundness": null,
+			"seed": 119190759,
+			"version": 3,
+			"versionNonce": 1840351591,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550501081,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Y_f9K6ulBJ8ZYX1khFS-K",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 954219913,
+			"index": "b2Z",
+			"isDeleted": true,
+			"id": "pG23VHtzzzaJQ1vaqksGE",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 379.88002020885637,
+			"y": 993.5178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 711.028266686903,
+			"height": 976.875,
+			"seed": 828296790,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550500182,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "SIloCTG-GbMDHC9kJrPZw",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-84.34252825023822,
+					-228.125
+				],
+				[
+					-711.028266686903,
+					748.75
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 2068422057,
+			"index": "b2a",
+			"isDeleted": true,
+			"id": "qSW7sut0z8ISm5I7MAARR",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 49.69636416315939,
+			"y": 813.0178604125978,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 455.96155235958236,
+			"height": 1106.875,
+			"seed": 543069078,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550505670,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "2oqyGK62ZvnAE1rzBz0GS",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					69.2051277954588,
+					-177.6250000000001
+				],
+				[
+					-386.75642456412356,
+					929.2499999999999
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 370951625,
+			"index": "b2b",
+			"isDeleted": true,
+			"id": "iUDeVmjMCVslh23W4FB_0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -43.32592935556363,
+			"y": 993.5178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 392.9825786858182,
+			"height": 976.875,
+			"seed": 1035186390,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550506946,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "b0CtxO2BSmB6LqNe6NA9R",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-392.9825786858182,
+					-228.125
+				],
+				[
+					-306.6180129210119,
+					748.75
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1514297575,
+			"index": "b2c",
+			"isDeleted": true,
+			"id": "xj05Xy8sEDecbjR3l6XNg",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 32.5230464079001,
+			"y": 1178.0178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 369.1322930355591,
+			"height": 846.875,
+			"seed": 1156785686,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550505131,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "reH0YA_2SSzNWdkjt4UbG",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-5.447554449281938,
+					-282.625
+				],
+				[
+					-369.1322930355591,
+					564.25
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1554176393,
+			"index": "b2d",
+			"isDeleted": true,
+			"id": "GYFtQP1VMHxet8ZvoaWFr",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 21.598366025210623,
+			"y": 1358.5178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 359.50759989408164,
+			"height": 716.875,
+			"seed": 923923286,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550504591,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "viBFwIrcLk3omNFCol2Ce",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-87.84187406659242,
+					-333.125
+				],
+				[
+					-359.50759989408164,
+					383.75
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1934734023,
+			"index": "b2e",
+			"isDeleted": true,
+			"id": "VQFESbX09Wi1g4SdF5HV3",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 13.576132443398905,
+			"y": 1543.0178604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 353.72364277236,
+			"height": 586.875,
+			"seed": 778377366,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550506346,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "ptC0ZI0Mxyoq3L672-XVf",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-182.33564048478078,
+					-387.625
+				],
+				[
+					-353.72364277236,
+					199.25
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1287937385,
+			"index": "b2f",
+			"isDeleted": true,
+			"id": "HN9mb74S0xmet6IJ4oe53",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -361.3091929110369,
+			"y": 1742.2678604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 704.0445013139897,
+			"height": 644.125,
+			"seed": 849450454,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550499057,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "6cmvKknk2les-VD1At3LX",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-242.04231513034483,
+					-456.875
+				],
+				[
+					462.0021861836449,
+					187.25
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 31,
+			"versionNonce": 272512775,
+			"index": "b2g",
+			"isDeleted": true,
+			"id": "xPi0GfICWucovO19jLNx0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -327.76998130782533,
+			"y": 1742.2678604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 353.03447326644346,
+			"height": 630.375,
+			"seed": 215771926,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550499685,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "7DNZIImCvuIcH2OPHkjwT",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					353.03447326644346,
+					-456.875
+				],
+				[
+					159.0296482424593,
+					173.5
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 1437650887,
+			"index": "b2h",
+			"isDeleted": true,
+			"id": "DWFVNZwLbIRv2gstW9wv8",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -288.9505858144298,
+			"y": 1742.2678604125979,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1194.958065576553,
+			"height": 644.125,
+			"seed": 462067798,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550492038,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "ywL40BiA1kZqNx913ESaQ",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1041.796077773048,
+					-456.8750000000002
+				],
+				[
+					-153.16198780350499,
+					187.24999999999977
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 25,
+			"versionNonce": 451578857,
+			"index": "b2i",
+			"isDeleted": true,
+			"id": "MlHYvFlUnVwp0PoCWBQ__",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -274.5756166354606,
+			"y": 1742.2678604125977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1752.1332255034197,
+			"height": 646.625,
+			"seed": 645995926,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550494504,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "ITTlPnHt_60plfz-XASc_",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "xGhBh6tTYcJFzKvXK_chH",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1296.8471085940787,
+					-456.875
+				],
+				[
+					-455.286116909341,
+					189.75
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 73,
+			"versionNonce": 1459862537,
+			"index": "b2j",
+			"isDeleted": true,
+			"id": "YmDDoqJcrjPSZVOK8Q6I8",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 501.2613912817142,
+			"y": 472.6531166485977,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 85.6402287241799,
+			"height": 1662.9261995123732,
+			"seed": 854915798,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550495852,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "D0uwL6QjRFzXLWGI_nNkG",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "nXkEOrEo6Jp9aigtkr1P6",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-85.6402287241799,
+					1662.9261995123732
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 77,
+			"versionNonce": 1043898503,
+			"index": "b2l",
+			"isDeleted": true,
+			"id": "8-TeGbwb04IZiDQcvuq02",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1470.0755113894525,
+			"y": -622.307812331821,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1041.083894870168,
+			"height": 2760.8002545445943,
+			"seed": 269008214,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550495055,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "EfMOpgO-qq84CoXfOSRR5",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "nXkEOrEo6Jp9aigtkr1P6",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1041.083894870168,
+					2760.8002545445943
+				]
+			]
+		},
+		{
+			"id": "uOfBrLbB",
+			"type": "text",
+			"x": 944.5335639543684,
+			"y": 745.5923149404762,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b2lG",
+			"roundness": null,
+			"seed": 845937767,
+			"version": 3,
+			"versionNonce": 1482887399,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550494202,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "8-TeGbwb04IZiDQcvuq02",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "4SAxVM4V",
+			"type": "text",
+			"x": 944.5335639543684,
+			"y": 745.5923149404762,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b2lV",
+			"roundness": null,
+			"seed": 208876615,
+			"version": 3,
+			"versionNonce": 1990154439,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550493226,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "8-TeGbwb04IZiDQcvuq02",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "arrow",
+			"version": 73,
+			"versionNonce": 908422665,
+			"index": "b2m",
+			"isDeleted": true,
+			"id": "oB3L1prXVCGARwWasDBIU",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1255.1543951278345,
+			"y": -626.708157737226,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 829.0604811335693,
+			"height": 2764.178367830667,
+			"seed": 301114006,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1715550493381,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "BgR_DOROr9ae1kb8t5jAH",
+				"gap": 2,
+				"focus": 0
+			},
+			"endBinding": {
+				"elementId": "nXkEOrEo6Jp9aigtkr1P6",
+				"gap": 2,
+				"focus": 0
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-829.0604811335693,
+					2764.178367830667
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 17,
+			"versionNonce": 1421177097,
+			"index": "b2y",
+			"isDeleted": true,
+			"id": "GZaO2AIn",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1001.1926746368408,
+			"y": 174.01786041259766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 216.2798309326172,
+			"height": 50,
+			"seed": 80228758,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715550740192,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Find work with Master\nStanislav Utěkal",
+			"rawText": "Find work with Master Stanislav Utěkal",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "bNJIkQ66D_h_ZKmrgFlVJ",
+			"originalText": "Find work with Master Stanislav Utěkal",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 128,
+			"versionNonce": 202179625,
+			"index": "b31",
+			"isDeleted": true,
+			"id": "PGfZmFvH",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1506.2192061979226,
+			"y": 279.21407975754084,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 222.1998291015625,
+			"height": 75,
+			"seed": 2067288406,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715551837430,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Take job to clear out\nthe abandoned\nMonastery Dorms",
+			"rawText": "Take job to clear out the abandoned Monastery Dorms",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "VrX7rcxUrBbePOJO6Tx59",
+			"originalText": "Take job to clear out the abandoned Monastery Dorms",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "5uGh1Z8E",
+			"type": "text",
+			"x": 837.8726372827809,
+			"y": -279.1935357647717,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3L",
+			"roundness": null,
+			"seed": 406301223,
+			"version": 3,
+			"versionNonce": 666012775,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550517610,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "oIVuZ1zmA2nkU1jlqb0_U",
+			"type": "rectangle",
+			"x": 268.8230229185125,
+			"y": -334.39126676954595,
+			"width": 455.5149169944035,
+			"height": 119.41877553637062,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3M",
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1470751401,
+			"version": 57,
+			"versionNonce": 433633351,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550575617,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "SVrCGrSV",
+			"type": "text",
+			"x": 1347.8254132254647,
+			"y": -274.87066502853895,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3R",
+			"roundness": null,
+			"seed": 1138805383,
+			"version": 3,
+			"versionNonce": 2087702279,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715550624033,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "4S87tESiC7demzoAHnba-",
+			"originalText": "",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "kEmoS62pdJBKNzgLY-Ek2",
+			"type": "arrow",
+			"x": 397.5141940155128,
+			"y": 494.25250179996334,
+			"width": 36.74749524995582,
+			"height": 62.090595422339106,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "b3f",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1890090121,
+			"version": 35,
+			"versionNonce": 1342655049,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1715552173732,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					36.74749524995582,
+					-62.090595422339106
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "WlkhlTGCazMV3uMCY2GpM",
+				"focus": -0.014948116745969738,
+				"gap": 1
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -5899,10 +7209,10 @@ The Gate of Seven\nArches is activated ^Qc58lNr4
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -224.88507293433037,
-		"scrollY": 761.7865469479458,
+		"scrollX": 192.98004000101906,
+		"scrollY": 306.7478580234276,
 		"zoom": {
-			"value": 0.5007769723019966
+			"value": 0.7891694332564025
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
