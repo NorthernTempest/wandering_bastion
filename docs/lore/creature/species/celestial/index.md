@@ -2,7 +2,6 @@
 title: Celestials
 tags:
   - overview
-  - lore/creature/species/celestial
 ---
 
-Celestials are native denizens of the Outer Planes from
+Celestials are native denizens of the Outer Planes with moral or good alignments.
