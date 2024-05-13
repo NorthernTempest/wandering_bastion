@@ -6,7 +6,7 @@ tags:
   - lore/place
 ---
 
-L'Arc Chantante is an ancient cathedral of incredible size. The cathedral is dedicated to the goddess [Arcundus](../../../creature/unique/deity/ancient/arcundus.md).
+L'Arc Chantante is an ancient cathedral of incredible size. The cathedral is dedicated to the goddess [Arcundus](../../../creature/unique/deity/ancient/arcundus.md) and is the largest building in the [Monastery of the Arches](../complex/monastery-of-the-arches.md).
 
 The massive interior chamber where service is performed is estimated to be around 800 feet tall, and 1300 feet long, and 500 feet wide at its widest. Unlike Christian cathedrals, the footprint of L'Arc Chantante is shaped like a half ellipse, the walls angling inwards towards the Eastern wall, giving the impression that the room is about twice as far away from the entrance than it actually is.
 
