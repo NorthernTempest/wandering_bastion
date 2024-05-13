@@ -3,7 +3,6 @@
 .obsidian/app.json
 .obsidian/workspace*.json
 .obsidian/graph.json
-Excalidraw/**/*
 
 # MKDocs
 .cache
