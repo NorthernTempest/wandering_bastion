@@ -6,7 +6,7 @@ This page lists the different Calendars native to the [Wandering Bastion](../../
 
 ## Aelfaran Calendar
 
-The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the calendar originally created by the Elves and Gnomes native to [Aelfar](../place/planet/plaer/aelfar.md) shortly after their arrival at [Dunfoyn](../place/planet/ordon/dunfoyn.md). It is notably extremely accurate in terms of leap dates. Reportedly, humans found that the Aelfaran calendar closely matched the calendars that they used on [Earth](../place/plane/inner/matter/earth). Rather than determining the date by the month like with the Gregorian Calendar (which was used by humans back on Earth, where they came from), the date is usually written <Day\> <Week\> <Season\> <Year\> <Epoch\>. e.g., the 231st day of the year 640 ELS (Epoch of the Last Stand) would be written Turns Day of the 6th Week of Summer, 640 ELS. 
+The majority of citizens of [Dunfoyn](../place/planet/ordon/dunfoyn.md) use the calendar originally created by the Elves and Gnomes native to [Aelfar](../place/planet/plaer/aelfar.md) shortly after their arrival at [Dunfoyn](../place/planet/ordon/dunfoyn.md). It is notably extremely accurate in terms of leap dates. Reportedly, humans found that the Aelfaran calendar closely matched the calendars that they used on [Earth](../place/plane/inner/matter/earth.md). Rather than determining the date by the month like with the Gregorian Calendar (which was used by humans back on Earth, where they came from), the date is usually written <Day\> <Week\> <Season\> <Year\> <Epoch\>. e.g., the 231st day of the year 640 ELS (Epoch of the Last Stand) would be written Turns Day of the 6th Week of Summer, 640 ELS. 
 
 ### Epochs
 
