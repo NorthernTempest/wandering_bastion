@@ -8,6 +8,11 @@ Excalidraw/**/*
 # MKDocs
 .cache
 
+# GM Stuff
+plot
+secret
+gm
+scratchpad.md
+
 # Private Files
 requirements*local*.txt
-scratchpad.md
