@@ -1,0 +1,6 @@
+title: Holidays
+nav:
+  - index.md
+  - Religious:
+      - sunspark-festival.md
+  - ...

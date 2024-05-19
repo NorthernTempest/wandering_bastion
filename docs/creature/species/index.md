@@ -1,5 +1,5 @@
 ---
-title: Species
+title: Creatures by Type
 tags:
   - lore/creature/species
   - overview

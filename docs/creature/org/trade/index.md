@@ -1,5 +1,5 @@
 ---
-title: Businesses & Charities
+title: Businesses
 tags:
   - lore/creature/org/business
   - overview
@@ -7,4 +7,4 @@ tags:
 
 This page lists the Businesses and Charities of the [Wandering Bastion](../../../index.md) campaign Setting.
 
-- Cragdeep Cartography Project
+- [Cragdeep Cartography Project](./cragdeep-cartography.md)

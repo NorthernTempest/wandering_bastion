@@ -58,6 +58,13 @@ plugins:
       background: none
       shadow: false
       caption_position: top
+  - awesome-pages:
+      filename: .nav.yml
+      collapse_single_pages: true
+      strict: false
+      order: asc
+      sort_type: natural
+      order_by: title
   - search
   - meta
 extra_css:

@@ -1,0 +1,13 @@
+nav:
+  - index.md
+  - campaigns.md
+  - cracked-facade
+  - lore.md
+  - creature
+  - place
+  - item
+  - event
+  - concept
+  - Other:
+    - tags.md
+  - ...

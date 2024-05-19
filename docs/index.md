@@ -12,7 +12,7 @@ This section of the document will describe the reality in which the Wandering Ba
 
 - [Places](place/index.md)
 - [Creatures](creature/index.md)
-- [Objects](object/index.md)
+- [Objects](item/index.md)
 - [Events](event/index.md)
 - [Unknowns](concept/mystery/index.md)
 

@@ -11,6 +11,7 @@ The Wandering Bastion is a world that has been hidden away in a reality invaded 
 - [Organizations](./creature/org/index.md)
 - [Species](./creature/species/index.md)
 - [Unique Creatures](./creature/unique/index.md)
+
 ## [Places](./place/index.md)
 
 - [The Hourglass Cosmogony](./place/plane/index.md)
@@ -18,9 +19,9 @@ The Wandering Bastion is a world that has been hidden away in a reality invaded 
 - [Nations & Territories](./place/state/index.md)
 - [Buildings & Landmarks](./place/landmark/index.md)
 
-## [Objects](./object/index.md)
+## [Objects](item/index.md)
 
-- [Magic Items](./object/magic-items/index.md)
+- [Magic Items](item/magic/index.md)
 
 ## [Events](./event/index.md)
 
