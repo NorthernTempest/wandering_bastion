@@ -28,7 +28,7 @@ The Wandering Bastion is a world that has been hidden away in a reality invaded 
 - [History](event/history/index.md)
 - [Recurring Events](event/recurring/index.md)
 
-## [Concepts](./concept/index.md)
+## [Concepts](concept/index.md)
 
 - [Prophecies](concept/prophecy/index.md)
-- [Mysteries](./concept/mystery/index.md)
+- [Mysteries](concept/mystery/index.md)

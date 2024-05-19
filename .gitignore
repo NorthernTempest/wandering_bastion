@@ -14,4 +14,7 @@ gm
 scratchpad.md
 
 # Private Files
-requirements*local*.txt
+*local*
+
+# Editor Config
+.vscode/**/*
