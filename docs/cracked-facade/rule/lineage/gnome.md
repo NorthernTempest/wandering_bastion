@@ -41,6 +41,7 @@ Traits:
 
 - Gnome Cunning: You have advantage on Intelligence, Wisdom, and Charisma saving throws against magic
 - Natural Camouflage: You have advantage on Dexterity (Stealth) checks to hide in terrain related to your heritage
+- Biological Automaton: Although you are a construct, you are made of living flesh, and can heal normally, as if you weren't a construct.
 - Gnomish Pranks: Your magical nature allows you to use Sleight of Hand in the following creative and magical ways.
 	- Collect: As an action, you can pull something out of your backpack that even you forgot was there. Make a DC 15 Charisma (Sleight of Hand) check. On a success, you replace up to 150 gp worth of coinage, currency and trade goods in your backpack with a piece of equipment of equivalent value. You bought or made this item last time you were in town but forgot about it.
 	- Deposit: As an action, you can place something abnormally large in someone's pocket. You must be able to lift the object that you are stowing in someone's pocket, but they do not have to be able to do so. Make a Dexterity (Sleight of Hand) check. The DC of that check depends on the size of the item, as shown on this table.

@@ -25,7 +25,6 @@ Ability Score Bonus:
 Speed:
 
 - 30 ft. walking speed
-- Lightning Speed. Whenever you take lightning damage, your speed increases by 30 ft. for one minute.
 
 Senses:
 
@@ -38,4 +37,5 @@ Traits:
 - Control device: When you were constructed, a device was made to make you follow orders. This device is not perfect since you were modified from the base flesh golem design. When you want to take an action against the orders of someone who holds your control device, you must succeed on a DC 14 Wisdom saving throw.
 - Task Oriented: You do not require sleep while performing a task given to you by the person holding your control device.
 - Magic Resistance. The golem has advantage on saving throws against spells and other magical effects.
+- Promethean Life. You are immune to lightning damage. Whenever you would take lightning damage, you instead heal for an equivalent amount of hp.
 - Slam. Your fists are natural weapons, which you can use to make an unarmed strike. If you hit with it, the target takes bludgeoning damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action.
