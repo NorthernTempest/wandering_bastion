@@ -1,0 +1,5 @@
+title: Stellar Systems
+nav:
+  - index.md
+  - ... | *.md
+  - ...

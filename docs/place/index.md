@@ -14,4 +14,4 @@ Imagine that the world as you know it and all the stars and planets in the sky a
 
 ## [Nations](state/index.md)
 
-## [Buildings & Locations](landmark/index.md)
+## [Points of Interest](landmark/index.md)

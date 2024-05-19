@@ -1,5 +1,5 @@
 ---
-title: Glyphian Stellar System
+title: Glyphian System
 tags:
   - stellar-system/single
 ---

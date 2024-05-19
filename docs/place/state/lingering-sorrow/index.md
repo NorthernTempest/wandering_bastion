@@ -1,5 +1,5 @@
 ---
-title: Great Lingering Sorrow
+title: The Great Lingering Sorrow
 subtitle: Cursed Ancient Battlefield of Enormous Scale
 tags:
   - government/wild

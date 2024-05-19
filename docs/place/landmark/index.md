@@ -1,5 +1,5 @@
 ---
-title: Buildings & Landmarks
+title: Points of Interest
 tags:
   - overview
 ---

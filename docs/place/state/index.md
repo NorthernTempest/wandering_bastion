@@ -9,23 +9,23 @@ This section of the website describes all the nations and territories of [Dunfoy
 - [Alleby Commonwealth](alleby/index.md): friendly halfling military dictatorship
 - [Anavilisio State](anavilisio/index.md): mercantile plutocracy of industry
 - [Avyadar Chasm](avyadar/index.md): volcanic rift to the planes of earth and fire
+- [Free City of Brinham](brinham/index.md): academic city-state of art, magic, and philosophy
 - [Carx District](carx/index.md): wall against an aberrant fold in reality
 - [Cavanunga Nation](cavanunga/index.md): harmonious state of dreaming elf-kings
 - [Discordia Kingdom](discordia/index.md): cursed land of fairy tales
 - [Ehrlung Demesne](ehrlung/index.md): jungle theocracy of the mad beast god
+- [Holy Eiga Union](eiga/index.md): union of undersea theocracies
 - [Eivnel Colony](eivnel/index.md): arcanocratic jungle nation on the coast
 - [Everata Fortress State](everata/index.md): bastion of heaven on earth
-- [Free City of Brinham](brinham/index.md): academic city-state of art, magic, and philosophy
-- [Gohlarr’ehd Savannah](gohlarrehd/index.md): wildlands of ancient ruins
+- [Unholy Lands of Frostchurch](frostchurch/index.md): domain of the sleeping corpse god
 - [Glorindt Dominion](glorindt/index.md): eusocial deep gnome empire
-- [The Great Alliance of the Wounded Coast](wounded-coast/index.md): allied city-states of bygone paragons
+- [Gohlarr’ehd Savannah](gohlarrehd/index.md): wildlands of ancient ruins
 - [Harrowthorn Grand Duchy](harrowthorn/index.md): home of the benevolent vampire lord
-- [Holy Eiga Union](eiga/index.md): union of undersea theocracies
 - [Kaer Avenyr](avenyr/index.md): crashed flying citadel of the storm dwarves
 - [Kaer Ayungar](ayungar/index.md): socialist republic of the ice dwarves
 - [Kaer Bannovir](bannovir/index.md): country of the dale dwarven banns
 - [Kaer Strybdyr](strybdyr/index.md): massive citadel of the rock dwarves under the mountain
-- [Lands of Ujyrvanamgyn](ujyrvanamgyn/index.md): socialist democratic homeland of gnomes
+- [The Great Lingering Sorrow](./lingering-sorrow/index.md): cursed ancient battlefield of enormous scale
 - [Lost Flotilla](lost-flotilla/index.md): floating refugee nation
 - [Lozartu Empire](lozartu/index.md): isolationist empire of the rainforest
 - [Mihrttal Expanse](mihrttal/index.md): forest of silent spirits
@@ -43,9 +43,10 @@ This section of the website describes all the nations and territories of [Dunfoy
 - [Tearna Republic](tearna/index.md): democratic land of monsters and exiles
 - [Temble Shire](temble/index.md): quiet pastoral kingdom
 - [Temelin Grand Empire](temelin/index.md): legendary ancient empire returned to our time
-- [Unholy Lands of Frostchurch](frostchurch/index.md): domain of the sleeping corpse god
+- [Lands of Ujyrvanamgyn](ujyrvanamgyn/index.md): socialist democratic homeland of gnomes
 - [Venyr Empire](venyr/index.md): empire of the immortal grand queen
 - [Wizard Waste Badlands](wizard-waste/index.md): wasteland of a terrible arcano-cataclysm
+- [Great Alliance of the Wounded Coast](wounded-coast/index.md): allied city-states of bygone paragons
 - [Wyrmwrought Reach](wyrmwrought/index.md): kobold clans of the noocratic ancestor council
 - [Xyaotaol Island](xyaotaol/index.md): jungle island kingdom
 - [Ygorral Sovereignty](ygorral/index.md): redeemed archdevil's domain
