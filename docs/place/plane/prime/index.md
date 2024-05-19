@@ -13,22 +13,22 @@ tags:
 
 Home of mortal kind. Perhaps the only one we truly know.
 
-## [Reflected Realities](reflected-reality/index.md)
+## [Reflected Realities](reflected/index.md)
 
 Unsettling reflections of reality in which horrible reflections of ourselves can be found.
 
-- [Doppelfeld](reflected-reality/doppelfeld.md)
-- [Mirage](reflected-reality/mirage.md)
-- [Reverb](reflected-reality/reverb.md)
-- [Reverie](reflected-reality/reverie.md)
-- [Silhouette](reflected-reality/silhouette.md)
+- [Doppel](reflected/doppel.md)
+- [Mirage](reflected/mirage.md)
+- [Reverb](reflected/reverb.md)
+- [Reverie](reflected/reverie.md)
+- [Silhouette](reflected/silhouette.md)
 
-## [Uncanny Realities](uncanny-reality/index.md)
+## [Uncanny Realities](uncanny/index.md)
 
 Vast empty spaces where people can suddenly find themselves terribly lost.
 
-- [Chasmic Caverns](uncanny-reality/chasmic-caverns.md)
-- [Crushing Fathoms](uncanny-reality/crushing-fathoms.md)
-- [Faerie Courts](uncanny-reality/faerie-courts.md)
-- [Labyrinthine Corridors](uncanny-reality/labyrinthine-corridors.md)
-- [Yawning Skies](uncanny-reality/yawning-skies.md)
+- [Chasmic Caverns](uncanny/chasmic-caverns.md)
+- [Crushing Fathoms](uncanny/crushing-fathoms.md)
+- [Faerie Courts](uncanny/faerie-courts.md)
+- [Labyrinthine Corridors](uncanny/labyrinthine-corridors.md)
+- [Yawning Skies](uncanny/yawning-skies.md)

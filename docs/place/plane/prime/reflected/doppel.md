@@ -1,5 +1,5 @@
 ---
-title: Doppelfeld
+title: Doppel
 tags:
   - lore
   - lore/place

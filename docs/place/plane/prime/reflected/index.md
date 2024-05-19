@@ -10,7 +10,7 @@ tags:
 
 Unsettling reflections of reality in which horrible reflections of ourselves can be found.
 
-- [Doppelfeld](doppelfeld.md)
+- [Doppel](doppel.md)
 - [Mirage](mirage.md)
 - [Reverb](reverb.md)
 - [Reverie](reverie.md)
