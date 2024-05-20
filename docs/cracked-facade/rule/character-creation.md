@@ -59,7 +59,7 @@ In addition to the proficiencies you receive from your class and background, you
 
 ### Feats
 
-Player characters get one feat at level 1 if their background doesn't already grant them a feat, and a feat at every fourth character level in addition to the ability score increases indicated in your classes. You cannot exchange ability score increases for feats.
+Player characters get one feat at level 1 if their background doesn't already grant them a feat (the same feat described under the [Background](#background) heading), and a feat at every fourth character level in addition to the ability score increases indicated in your classes. You cannot exchange ability score increases for feats.
 
 [List of Homebrew Feats](feat/index.md#homebrew-feats)
 
