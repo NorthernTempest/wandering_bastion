@@ -1,5 +1,5 @@
 ---
-title: The Crushing Fathoms
+title: Crushing Fathoms
 tags:
   - lore
   - lore/place

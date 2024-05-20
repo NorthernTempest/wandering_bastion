@@ -4,8 +4,10 @@ tags:
   - campaign/cracked-facade/rule/heritage/mine
 ---
 
-Languages. You know Common, Giant, and one other language of your choice.
+**Ability Scores**. You gain +1 to one of either Intelligence or Wisdom.
 
-Skill Proficiency. You have proficiency in your choice of either Athletics or History.
+**Languages**. You know Common, Giant, and one other language of your choice.
 
-Tool Proficiency. You have proficiency in your choice of either one set of Artisan's Tools or one Gaming Set.
+**Skill Proficiency**. You have proficiency in your choice of either Athletics or History.
+
+**Tool Proficiency**. You have proficiency in your choice of either one set of Artisan's Tools or one Gaming Set.

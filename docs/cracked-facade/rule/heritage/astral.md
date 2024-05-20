@@ -5,13 +5,13 @@ tags:
 
 You either come from the [Astral Plane](../../../place/plane/transitive/astral.md) or the place you come from or people you grew up around had close ties to that unknowable and strangely familiar plane.
 
-**Ability Scores**.
+**Ability Scores**. You gain +1 to one of either Intelligence or Wisdom.
 
 **Languages**. You know Common, Iconic, and one other language of your choice.
 
 **Skill Proficiency**. You have proficiency in your choice of either History or Nature.
 
-**Tool Proficiency**. You have proficiency in your choice of either Vehicles (Water) or a Herbalism Kit.
+**Tool Proficiency**. You have proficiency in your choice of either Vehicles (Water) or Herbalism Kits.
 
 **Ancestral Knowledge**. After each long rest, choose one skill. Gain proficiency with that skill until the end of your next long rest. Your long rests take half as long as normal.
 

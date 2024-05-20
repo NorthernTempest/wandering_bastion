@@ -4,8 +4,10 @@ tags:
   - campaign/cracked-facade/rule/heritage/hunter
 ---
 
-Languages. You know Common, Wild Speech, and one other language of your choice.
+**Ability Scores**. You gain +1 to one of either Intelligence or Wisdom.
 
-Skill Proficiency. You have proficiency in your choice of either Animal Handling or Survival.
+**Languages**. You know Common, Wild Speech, and one other language of your choice.
 
-Tool Proficiency. You have proficiency in your choice of either Herbalism Kits or one set of Artisan's Tools.
+**Skill Proficiency**. You have proficiency in your choice of either Animal Handling or Survival.
+
+**Tool Proficiency**. You have proficiency in your choice of either Herbalism Kits or one set of Artisan's Tools.

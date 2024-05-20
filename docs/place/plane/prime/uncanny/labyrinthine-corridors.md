@@ -1,5 +1,5 @@
 ---
-title: The Labyrinthine Courts
+title: Labyrinthine Courts
 tags:
   - lore
   - lore/place

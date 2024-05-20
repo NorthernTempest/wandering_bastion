@@ -6,6 +6,8 @@ tags:
 
 You come from a nomadic community that travels across a range of land, either following a herd of animals or unable to stay in one place due to fear of persecution.
 
+**Ability Scores**. You gain +1 to one of either Constitution or Wisdom.
+
 **Languages**. You know Common, Wild Speech, and one other language of your choice.
 
 **Skill Proficiency**. You have proficiency in your choice of either Athletics or Survival.

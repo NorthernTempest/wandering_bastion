@@ -1,5 +1,5 @@
 ---
-title: The Yawning Skies
+title: Yawning Skies
 tags:
   - lore
   - lore/place

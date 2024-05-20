@@ -1,5 +1,5 @@
 ---
-title: The Faerie Courts
+title: Faerie Courts
 tags:
   - lore
   - lore/place
