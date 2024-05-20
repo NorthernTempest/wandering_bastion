@@ -39,6 +39,7 @@ Normally, you should refer to your race as <Heritage\> <Lineage\>. e.g., City El
 - Add the modifier from your lineage to your ability scores.
 - Add the modifier from your heritage to your ability scores.
 - Add +2 to one ability score of your choice, other than any ability score modified by your lineage or heritage.
+- In order to increase an ability score that is 20 or higher, you must use both points of an ability score increase and it will only increase by one point.
 
 ### Proficiencies
 
