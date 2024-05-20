@@ -1,8 +1,6 @@
 ---
 title: Pill Bug
-tags:
-  - campaign/cracked-facade/rule/lineage
-  - lore/creature/species/beast/pill-bug
+tags: []
 ---
 
 [Original Document](https://www.gmbinder.com/share/-LuKipkvZlDpiWEheHDx)
@@ -16,7 +14,7 @@ Age:
 
 Size:
 
-- Height of 4'0" ~ 4'6" (roll 3d8 +  to generate height in inches)
+- Height of 4'1" ~ 4'6" (roll 3d8 + 38 to generate height in inches)
 - Weight of 210 ~ 270 lbs. (roll 2d4 + 2d12 * 5 + 170)
 - Medium size category
 
