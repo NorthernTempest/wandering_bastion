@@ -1,3 +1,4 @@
 ---
 title: Sunspark Festival
 ---
+A two day festival that takes place at [L'Arc Chantante](../../../place/landmark/building/larc-chantante.md) and the surrounding grounds. It's organized by the [Monastic Order of the Arches](../../../creature/org/faith/arcundus/monastic-order-of-the-arches.md). There is free food and lodging, as well as festival stalls and games throughout the two days. The first day is the day before the summer solstice and on the second day, at noon, everyone gathers within [L'Arc Chantante](../../../place/landmark/building/larc-chantante.md) to participate in a ceremony that celebrates the passing of a year in [Arcundus](../../../creature/unique/deity/ancient/arcundus.md)' name.
