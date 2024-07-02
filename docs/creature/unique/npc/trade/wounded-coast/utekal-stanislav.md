@@ -8,4 +8,4 @@ tags:
   - npc/heritage/wild
 ---
 
-Runs the [Ybbrinth](../../../../../../place/state/wounded-coast/arsleaf/ybbrinth.md) monster hunter's guild.
+Runs the [Ybbrinth Monster Hunter's Guild](../../../../org/trade/ybbrinth-monster-hunters-guild.md). Local hero.
