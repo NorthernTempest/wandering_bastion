@@ -1,0 +1,3 @@
+---
+title: Business-Owning NPCs
+---

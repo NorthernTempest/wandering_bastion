@@ -13,7 +13,7 @@ The eight city-state members of this alliance and the lands that surround them w
 
 ### [Arsleaf Peninsula](arsleaf/index.md)
 
-- [Ybbrinth](arsleaf/ybbrinth.md)
+- [Ybbrinth](arsleaf/ybbrinth/index.md)
 
 ## Economy
 
