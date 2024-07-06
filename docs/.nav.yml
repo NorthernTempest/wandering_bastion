@@ -9,5 +9,6 @@ nav:
   - event
   - concept
   - Other:
+    - gm
     - tags.md
   - ...

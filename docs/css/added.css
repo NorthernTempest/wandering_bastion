@@ -1,3 +1,5 @@
+/* Customized Colour Scheme */
+
 [data-md-color-scheme="jesse-dark"] {
 	--md-hue-default: 244;
 	--md-hue-primary: 260;
@@ -197,4 +199,24 @@
     --md-shadow-z3: 0 0.2rem 0.5rem #0006,0 0 0.05rem #00000059;
 
 	color-scheme: light;
+}
+
+/* Custom Admonition */
+
+:root {
+	--md-admonition-icon--gamemaster: url('/img/fa-hat-wizard.svg')
+}
+.md-typeset .admonition.gamemaster,
+.md-typeset details.gamemaster {
+	border-color: hsl(270, 50%, 50%);
+}
+.md-typeset .gamemaster > .admonition-title,
+.md-typeset .gamemaster > summary {
+	background-color: hsla(270, 50%, 50%, 0.1);
+}
+.md-typeset .gamemaster > .admonition-title::before,
+.md-typeset .gamemaster > summary::before {
+	background-color: hsl(270, 50%, 50%);
+	-webkit-mask-image: var(--md-admonition-icon--gamemaster);
+	mask-image: var(--md-admonition-icon--gamemaster);
 }
