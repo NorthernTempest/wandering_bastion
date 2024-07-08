@@ -19,7 +19,7 @@ In order of population
 - Mossglen
 - Nantwich
 - Fallynwreath
-- [Ybbrinth](ybbrinth/index.md)
+- [Ybbrinth](ybbrinth.md)
 - Brilling
 - Hayescombe
 - Flynnden
