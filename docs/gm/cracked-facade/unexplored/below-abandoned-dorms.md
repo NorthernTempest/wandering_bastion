@@ -10,7 +10,7 @@ The ceilings here are 10' high and the doors are not especially sturdy, unless o
 
 > As you descend, the scent of musk, mold, and dirt fills your nostrils and the sound of chittering fills your ears.
 
-> You can see that the room is filled with crates. Expired food and drinks are packed in each crate. Some bags of once edible staples lean against crates and walls. There is a set of stairs along the northern wall and a hole in the floor in the southeast corner of the room. At the edge of the hole, you can spot another ladder. Mold fills the room and every surface seems to be covered in a carpet of brown, orange, and white. Making the most of the spoilage throughout the room, you spot hundreds of rats and mice chewing crates, food, and moss alike, and scurrying in and out of holes they've made in the crates.
+> You can see that the room is filled with crates. Expired food and drinks are packed in each crate. Some bags of once edible staples lean against crates and walls. There is a set of stairs along the northern wall and a hole in the floor in the southeast corner of the room. At the edge of the hole, you can spot the top of another ladder. Mold fills the room and every surface seems to be covered in a carpet of brown, orange, and white. Making the most of the spoilage throughout the room, you spot hundreds of rats and mice chewing crates, food, and moss alike, and scurrying in and out of holes they've made in the crates.
 
 #### Investigate
 
