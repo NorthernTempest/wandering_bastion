@@ -3,7 +3,7 @@ title: Quearn
 subtitle: Clan Lands of Tail and Hide
 tags:
   - planet/rocky
-  - planet/lost-five
+  - planet/lost-six
 ---
 
-[Lost Planet](../5-lost-planets.md) of the Beastfolk.
+[Lost Planet](../6-lost-worlds.md) of the Beastfolk.

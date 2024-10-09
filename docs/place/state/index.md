@@ -3,7 +3,9 @@ title: Nations & Territories
 tags:
   - overview
 ---
+
 This section of the website describes all the nations and territories of [Dunfoyn](../planet/ordon/dunfoyn.md), as well as the various regions and significant landforms that they contain.
+
 ## Nations of [Dunfoyn](../planet/ordon/dunfoyn.md)
 
 - [Alleby Commonwealth](alleby/index.md): friendly halfling military dictatorship
@@ -50,3 +52,93 @@ This section of the website describes all the nations and territories of [Dunfoy
 - [Wyrmwrought Reach](wyrmwrought/index.md): kobold clans of the noocratic ancestor council
 - [Xyaotaol Island](xyaotaol/index.md): jungle island kingdom
 - [Ygorral Sovereignty](ygorral/index.md): redeemed archdevil's domain
+
+(WIP new more complete list)
+
+- Abrivale Cove: Small nation of politically neutral mercenary knights
+- Solemn Cliffs of Ahbettuhng: Jungle wilds atop an unnapproachable island
+- Alleby Commonwealth: Friendly halfling military dictatorship
+- Anavilisio State: Mercantile plutocracy of industry
+- Arisen Waves: Nation of undead pirates
+- Avyadar Chasm: Volcanic rift to the planes of earth and fire
+- Awoken Rains: Coast nation of jungle torrents
+- Breakwater Isles: Kingdom biarchy of equality between the undead and the living
+- Free City of Brinham: Academic city-state of art, magic, and philosophy
+- Carx District: wall against an aberrant fold in reality
+- Cavanunga Nation: harmonious state of dreaming elf-kings
+- Circlepoint: Collection of city-states at a central point of trade
+- Discordia Kingdom: cursed land of fairy tales
+- Edgelands: Formidible desert mountains and often raided coast
+- Ehrlung Demesne: jungle theocracy of the mad beast god
+- Holy Eiga Union: union of undersea theocracies
+- Eivnel Colony: arcanocratic jungle nation on the coast
+- Everata Fortress State: bastion of heaven on earth
+- Fablecrown: Kingdom of temperate rainforests
+- Fallrock Heights: Desert Kingdom of mercenary sailor-priests
+- Fimblewind: City-state of sailor-priests
+- Unholy Lands of Frostchurch: domain of the sleeping corpse god
+- Garrendarn Sound: Plutocratic state of merchant-princes
+- Gateport: Island nation at the centre of countless trade routes
+- Gharitilak Kingdom: Egalitarian trader nation of elected kings
+- Glorindt Dominion: eusocial deep gnome empire
+- Gohlarr’ehd Savannah: wildlands of ancient ruins
+- Halewind Deeps: Rich jungle nation of platinum and rare metal mines
+- Harrowthorn Grand Duchy: home of the benevolent vampire lord
+- Hollowtooth Crags: Mountain nation of warriors who protect an ancient battleground
+- Kaer Avenyr: crashed flying citadel of the storm dwarves
+- Kaer Ayungar: socialist republic of the ice dwarves
+- Kaer Bannovir: country of the dale dwarven banns
+- Kaer Strybdyr: massive citadel of the rock dwarves under the mountain
+- Kardt-Arr Rangelands: Idyllic rural farmlands
+- Kiblarra Stretch: Democratic country of traders and believers in old gods
+- La’plitahrra Cove: Protected nation of freed slaves
+- Last Respite: Oft-forgotten nation of comfort and kindness
+- The Great Lingering Sorrow: cursed ancient battlefield of enormous scale
+- Lost Flotilla: floating refugee nation
+- Lozartu Empire: isolationist empire of the rainforest
+- Lysgar: Prison island turned independent democracy
+- Mihrttal Expanse: forest of silent spirits
+- Najj Rangelands: land of living barbarian ancestor gods
+- Nourik Breach: land of void and stars
+- Oevrim City: city-state of lost technologies
+- Ancient Ogharetti: Secretive jungle warrior tribes
+- Oregallian Grand Empire: empire of corrupt nobility
+- Ornum Desertlands: Largely unpopulated desert on long stretch between continents
+- Peleton Wilds: reformed demon lord's domain
+- Perilstear: Icelocked mage nation of secrets
+- Pinpoint: Protectors against the lost continent
+- Pyreswept Lands: communist state of the ember dwarves
+- Razig Empire: Home base of the pirate lords
+- Republic of Ridgesong: Merchant republic run by corporations
+- Sandlink: Deserted coastnation become tourist destination
+- Scargrocks: Barely habitable fishing islands
+- Secheral Sea: storm-wracked rift to the planes of air and water
+- Sekhmeti Nation: enlightened monarchy of the river
+- Siblikund Desert: trackless expanse of cold sands
+- Snowchime: Scientific nation that studies paranormal evil
+- Solakdan Kings: Poor and oft-raided collection of desert kingdoms
+- Solric Empire: Empire of wise elven heroes
+- Soughtsouls Coast: Ancient rainforest nation of proud warriors
+- Tarakatal Kingdom: Dying nation of once great warrior-merchants
+- Tearna Republic: democratic land of monsters and exiles
+- Temble Shire: quiet pastoral kingdom
+- Temelin Grand Empire: legendary ancient empire returned to our time
+- New Old Temelin: Displaced country after its predecessor returned
+- Torbyn Stretch: Kingdom of learning and music
+- Truark Isle: Green isle of holy warrior-farmers
+- Lands of Ujyrvanamgyn: socialist democratic homeland of gnomes
+- Unending Wake: Unholy centre of undead worship
+- Urbolwak Holds: Set of microkingdoms ruled by hero giants
+- Venyr Empire: empire of the immortal grand queen
+- Verilla: Socialist kingdom of medicine and worship
+- Wightworks: Nation of artisan wights that work tirelessly to craft goods
+- Wirkal Cities: Uneasy city-states of undead and holy priests
+- Wizard Waste Badlands: wasteland of a terrible arcano-cataclysm
+- Worldspear: Frozen land of ancient undead warrior kings
+- Great Alliance of the Wounded Coast: allied city-states of bygone paragons
+- Wreckwoods: Untameable wild Jungles
+- Wyrmwrought Reach: kobold clans of the noocratic ancestor council
+- Xyaotaol Island: jungle island kingdom
+- Ygorral Sovereignty: redeemed archdevil's domain
+- Zenvirscalling: Kingdom ruled by recently ascended hero god
+- Zibblcrest: Recent attempt at settling over ancient elven holy grounds

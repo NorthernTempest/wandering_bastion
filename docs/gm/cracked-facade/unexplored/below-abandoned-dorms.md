@@ -105,7 +105,7 @@ If the room does not have cultists in it:
 
 ### 1.8. Tunnel
 
-> The solid stone walls of this long roughly hewn tunnel are cold but dry. The passage leads steadily down at a gentle angle and towards the north east. It seems to be several hundred feet long, but a light can be seen at the far end.
+> The solid stone walls of this long roughly hewn tunnel are cold but dry. The passage leads steadily down at a gentle angle and towards the north west. It seems to be several hundred feet long, but a light can be seen at the far end.
 
 ### 1.9. Excavated Cathedral
 
