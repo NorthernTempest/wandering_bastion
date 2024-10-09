@@ -7,13 +7,13 @@ tags:
 
 Blessings are powers bestowed upon mortal heroes by deities. Each deity has a slightly different selection of blessings, and there are two different categories of blessings, separated by degree of power granted.
 
-When you are granted a blessing, choose one option from either the list of generic blessings or the list of blessings granted by the deity in question
+When you are granted a blessing, choose one option from either the list of generic blessings or the list of blessings granted by the deity in question, but only from either lesser or greater boons as needed.
 
 ## Generic Lesser Blessings
 
 1. +2 to one of your ability scores of your choice.
-2. Permanently set one of your ability scores of your choice to 19.
-3. You gain the effects as if you had drank a potion of longevity.
+2. Permanently set one of your ability scores of your choice to 12.
+3. You gain the effects as if you had drank a potion of longevity, but you do cannot become younger than the age of adulthood for your lineage. In addition, there is no chance that you grow older instead.
 4. You gain +1 to weapon attack rolls and weapon damage rolls, including natural weapons, unarmed strikes, and improvised weapons.
 5. You gain +1 to spell attack rolls and the saving throw DCs of spells you cast.
 6. When you fail an ability check on which you add your proficiency bonus, you can reroll the die, and you must use the new roll. Once you use this trait, you can't do so again until you finish a short rest.
@@ -29,7 +29,7 @@ When you are granted a blessing, choose one option from either the list of gener
   2. Cloak of Protection
   3. Amulet of Proof Against Detection and Location
   4. Adamantine Armor (You do not change your AC as if wearing armor, you only gain immunity to critical hits.)
-  5. Ring of Resistance
+  5. Ring of Resistance. Choose the type of damage that you gain resistance to.
   6. Arrow-Catching Shield (You do not change your AC as if using a shield, you only gain the conditional bonus to AC against ranged attacks and the ability to redirect ranged attacks to yourself.)
   7. Boots of Striding and Springing
   8. Brooch of Shielding

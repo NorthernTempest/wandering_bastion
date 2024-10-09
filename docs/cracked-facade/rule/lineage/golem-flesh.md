@@ -32,7 +32,7 @@ Senses:
 
 Traits:
 
-- Half a Brain: You're almost sentient, but still count as a construct. Unlike most flesh golems, you have resistance to effects that cause the charmed, frightened, paralyzed, or poisoned abilities. You also require half the normal amount of food and water in order to keep your brain alive. In exchange for losing these immunities, you cannot go berserk.
+- Half a Brain: You're almost sentient, but still count as a construct. Unlike most flesh golems, you have resistance to effects that cause the charmed, frightened, paralyzed, or poisoned conditions. You also require half the normal amount of food and water in order to keep your brain alive. In exchange for losing these immunities, you cannot go berserk.
 - Aversion of Fire. If you take fire damage, you must succeed on a DC 14 Wisdom saving throw or you have disadvantage on attack rolls and ability checks until the end of your next turn.
 - Control device: When you were constructed, a device was made to make you follow orders. This device is not perfect since you were modified from the base flesh golem design. When you want to take an action against the orders of someone who holds your control device, you must succeed on a DC 14 Wisdom saving throw.
 - Task Oriented: You do not require sleep while performing a task given to you by the person holding your control device.
