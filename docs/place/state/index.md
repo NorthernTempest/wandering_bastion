@@ -56,7 +56,7 @@ This section of the website describes all the nations and territories of [Dunfoy
 (WIP new more complete list)
 
 - Abrivale Cove: Small nation of politically neutral mercenary knights
-- Solemn Cliffs of Ahbettuhng: Jungle wilds atop an unnapproachable island
+- Solemn Cliffs of Ahbettuhng: Jungle wilds atop an unapproachable island
 - Alleby Commonwealth: Friendly halfling military dictatorship
 - Anavilisio State: Mercantile plutocracy of industry
 - Arisen Waves: Nation of undead pirates
