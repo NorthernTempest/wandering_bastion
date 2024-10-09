@@ -44,7 +44,7 @@ This section of the website describes all the nations and territories of [Dunfoy
 - [Takaratal Kingdom](takaratal/index.md): ravaged kingdom of gold
 - [Tearna Republic](tearna/index.md): democratic land of monsters and exiles
 - [Temble Shire](temble/index.md): quiet pastoral kingdom
-- [Temelin Grand Empire](temelin/index.md): legendary ancient empire returned to our time
+- [Temelin Grand Empire](temelin-grand/index.md): legendary ancient empire returned to our time
 - [Lands of Ujyrvanamgyn](ujyrvanamgyn/index.md): socialist democratic homeland of gnomes
 - [Venyr Empire](venyr/index.md): empire of the immortal grand queen
 - [Wizard Waste Badlands](wizard-waste/index.md): wasteland of a terrible arcano-cataclysm
@@ -111,7 +111,7 @@ This section of the website describes all the nations and territories of [Dunfoy
 - Razig Empire: Home base of the pirate lords
 - Republic of Ridgesong: Merchant republic run by corporations
 - Sandlink: Deserted coastnation become tourist destination
-- Scargrocks: Barely habitable fishing islands
+- Scargrocs: Barely habitable fishing islands
 - Secheral Sea: storm-wracked rift to the planes of air and water
 - Sekhmeti Nation: enlightened monarchy of the river
 - Siblikund Desert: trackless expanse of cold sands

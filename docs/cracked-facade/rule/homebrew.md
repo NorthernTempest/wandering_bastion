@@ -14,6 +14,11 @@ These rules describe changes to spellcasting and spells.
 
 A spellcaster can concentrate on a number of spells equal to their proficiency bonus. For every spell the caster is concentrating on beyond the first, the DC for concentration checks goes up by 1.
 
+### Magic Items
+
+- We will be using [Sane Magical Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?usp=sharing&resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) to determine magic item pricing.
+- A character can attune to a number of magic items equal to their proficiency bonus.
+
 ### Exploration
 
 #### Short Rests

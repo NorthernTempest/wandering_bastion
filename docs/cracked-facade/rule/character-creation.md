@@ -65,8 +65,7 @@ Player characters get one feat at level 1 if their background doesn't already gr
 
 ### Equipment
 
-- We will be using [Sane Magical Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?usp=sharing&resourcekey=0-ceHUken0_UhQ3Apa6g4SJA) to determine magic item pricing.
-- A character can attune to a number of magic items equal to their proficiency bonus.
+See [Homebrew Rules/Magic Items](homebrew.md#magic%20items).
 
 ### Character Description
 
