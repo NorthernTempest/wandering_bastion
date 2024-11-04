@@ -1,3 +1,4 @@
 ---
-title: New Old Temelin
+title: Ancient Ogharetti
+subtitle: Secretive jungle warrior tribes
 ---

@@ -1,3 +1,4 @@
 ---
-title: New Old Temelin
+title: Solemn Cliffs of Ahbettuhng
+subtitle: Jungle wilds atop an unapproachable island
 ---

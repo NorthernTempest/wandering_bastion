@@ -1,3 +1,4 @@
 ---
-title: New Old Temelin
+title: Solric Empire
+subtitle: Empire of wise elven heroes
 ---

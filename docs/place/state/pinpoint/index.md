@@ -1,3 +1,4 @@
 ---
-title: New Old Temelin
+title: Pinpoint
+subtitle: Protectors against the lost continent
 ---

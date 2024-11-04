@@ -1,3 +1,4 @@
 ---
-title: New Old Temelin
+title: Republic of Ridgesong
+subtitle: Merchant republic run by corporations
 ---

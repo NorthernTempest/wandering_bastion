@@ -1,3 +1,4 @@
 ---
-title: New Old Temelin
+title: Arisen Waves
+subtitle: Nation of undead pirates
 ---

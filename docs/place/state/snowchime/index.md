@@ -1,3 +1,4 @@
 ---
-title: New Old Temelin
+title: Snowchime
+subtitle: Scientific nation that studies paranormal evil
 ---
