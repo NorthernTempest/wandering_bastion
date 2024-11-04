@@ -95,3 +95,5 @@ This section of the website describes all the nations and territories of [Dunfoy
 - [Ygorral Sovereignty](ygorral/index.md): redeemed archdevil's domain
 - [Zenvirscalling](zenvirscalling/index.md): Kingdom ruled by recently ascended hero god
 - [Zibblcrest](Zibblcrest): Recent attempt at settling over ancient elven holy grounds
+
+![World Map](../../img/map_world_travel_mercator.svg)
