@@ -4,3 +4,5 @@ subtitle: Forest of Silent Spirits
 tags:
   - government/wild
 ---
+
+![Map of Mihrttal Expanse and Surroundings](../../../img/map_region_mirhtal_expanse_and_neighbours.svg)
