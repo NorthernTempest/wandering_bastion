@@ -5,4 +5,4 @@ tags:
   - government/wild
 ---
 
-![Map of Mihrttal Expanse and Surroundings](../../../img/map_region_mirhtal_expanse_and_neighbours.svg)
+![Map of Mihrttal Expanse and Surroundings](../../../img/map_region_mihrttal_expanse_and_neighbours.svg)
