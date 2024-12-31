@@ -29,7 +29,7 @@ Below are a selection of only some of the Heritages on the Wandering Bastion. So
 | **[Hell](hell.md)**         | +1 to one of Int or Cha      | Common, Infernal, another    | Persuasion or Deception       | Poisoner's Kit or Forgery Kit           |
 | **[Hex](hex.md)**           | +1 to one of Int or Cha      | Common, Sylvan, another      | Arcana or Deception           | Poisoner's Kit or Disguise Kit          |
 | **[Hunter](hunter.md)**     | +1 to one of Dex or Wis      | Common, Wild Speech, another | Animal Handling or Survival   | Herbalism Kit or Artisan's Tools        |
-| Lycan                       | +1 to one of Str or Con      | Common, Wild Speech, another | Animal Handling or Survival   | Herbalism Kit or Vehicles (Land)        |
+| **[Lycan](./lycan.md)**     | +1 to one of Str or Con      | Common, Wild Speech, another | Animal Handling or Survival   | Herbalism Kit or Vehicles (Land)        |
 | **[Mine](mine.md)**         | +1 to one of Str or Wis      | Common, Giant, another       | Athletics or History          | Artisan's Tools or Gaming Set           |
 | **[Mobius](mobius.md)**     | +1 to one of Int or Wis      | Common, Iconic, another      | Arcana or History             | Gaming Set or Navigator's Tools         |
 | **[Mountain](mountain.md)** | +1 to one of Str or Con      | Common, Terran, another      | Athletics or Intimidation     | Musical Instrument or Navigator's Tools |
